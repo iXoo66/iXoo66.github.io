@@ -1,3 +1,35 @@
+Package: com.SeaWind.JYSS
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: SeaWind
+Depends: mobilesubstrate
+Filename: ./debs/禁用通知中心下拉手势-RootHide.deb
+Size: 4116
+MD5sum: d88f9bcf9aeccc5a7d42c1f9811b9097
+SHA1: 513d7f206873081b2c87ec60bbddf7b1f7a25574
+SHA256: 30f7dd62ba3228f4312c7f650d5bb8e6ea18649d300e93b8cbb2758322bcc433
+Section: Tweaks
+Description: 兼容iOS15.0-15.4.1多巴胺越狱 插件说明:仅在应用程序内禁用通知中心的下拉手势。(适用于游戏)，返回桌面不影响通知中心手势，该插件默认生效全局应用，并不能单一选择应用
+Author: SeaWind
+Name: 禁用通知下拉手势-RootHide
+
+Package: com.dao.griddy
+Version: 1.0.5
+Architecture: iphoneos-arm64e
+Maintainer: mikifp
+Depends: mobilesubstrate
+Conflicts: com.mikifp.griddy, xyz.cypwn.griddy
+Filename: ./debs/com.dao.griddy图标随意摆_1.0.5_iphoneos-arm64e-RootHide.deb
+Size: 18516
+MD5sum: 0c89d3deb265d7a307e3bbaa190a2f2f
+SHA1: ffe4661cf28547d2e48c29bd43f6f89513042966
+SHA256: 0f7e3f39b699b9d3935d70adf3e520f1a140400506fea4207b6e36b9b2c94bd4
+Section: 嗨-工具
+Description: 让你的程序图标在桌面随意摆放；根据开源重新编译。
+Author: mikifp
+Name: Griddy 随意摆(RootHide)
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/griddy/js.json
+
 Package: com.ixoo.aaaaaa
 Version: 1.0-1
 Architecture: iphoneos-arm64
