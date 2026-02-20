@@ -30,6 +30,23 @@ Author: mikifp
 Name: Griddy 随意摆-RootHide
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/griddy/js.json
 
+Package: com.dao.icleanerpro
+Version: 7.10.0
+Architecture: iphoneos-arm64e
+Maintainer: Ivano Bilenchi
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner, xyz.cypwn.icleanerprocrackrootless, com.exile90.icleanerpro
+Filename: ./debs/com.dao.icleanerpro_7.10.0_iphoneos-arm64e.deb
+Size: 1108104
+MD5sum: b64b86cec7aa842727b6d66613fc3b09
+SHA1: 277982cd7daae25a18364ec2f4ec26c89071c873
+SHA256: 50e8c93baebb72e9437c72678c8552efe0077d27a51bfcd0fa72a9096dd63133
+Section: 嗨-工具
+Description: 真正的iOS系统清理和管理实用程序，默认简体中文，破解版。
+Author: Ivano Bilenchi
+Name: iCleaner Pro-RootHide
+
 Package: com.ixoo.aaaaaa
 Version: 1.0-1
 Architecture: iphoneos-arm64
