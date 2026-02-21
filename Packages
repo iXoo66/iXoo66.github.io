@@ -81,15 +81,15 @@ Maintainer: mikifp
 Depends: mobilesubstrate
 Conflicts: com.mikifp.griddy, xyz.cypwn.griddy
 Filename: ./debs/com.dao.griddy_1.0.5_iphoneos-arm64e.deb
-Size: 18492
-MD5sum: b02661a1689a6db2c7a47dcca5077fc1
-SHA1: 9570233b37ede170bf915d9ca2d9140a279629a6
-SHA256: eed113e83693c864fd8a36b1651b91e2526899349c7826fdf2a3ea9ca798cb1e
+Size: 18484
+MD5sum: 87e1bef284a7723a2e3a209bd9b63073
+SHA1: a7de4a680e5f082a71cb56e39baa7a34d2feb635
+SHA256: 18b6af6898b3545f5f22be073431cccb5db2e805e923e576288125681648901d
 Section: iXoo-Tweaks
 Description: 让你的程序图标在桌面随意摆放；根据开源重新编译。
 Author: mikifp
 Name: Griddy 随意摆-RootHide
-Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/griddy/js.json
+Sileodepiction: https://iXoo66.github.io/sileodepiction/griddy/579.json
 
 Package: com.dao.icleanerpro
 Version: 7.10.0
