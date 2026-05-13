@@ -248,7 +248,7 @@ Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.
 Package: com.ixoo.touchvis
 Architecture: iphoneos-arm64e
 Version: 2.8-1
-Section: 录屏轨迹
+Section: System-系统
 Maintainer: iXoo
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
