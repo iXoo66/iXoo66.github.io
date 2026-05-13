@@ -1,7 +1,7 @@
-Package: byg.iosios.net.airaw
+Package: com.ixoo.net.airaw
 Architecture: iphoneos-arm64
 Version: 1.6.7
-Section: iXoo-Tweaks
+Section: Misc-艹大姨子
 Maintainer: 搬运工
 Installed-Size: 13502
 Depends: mobilesubstrate, preferenceloader, firmware (>=14.0), ws.hbang.common,com.opa334.ccsupport
@@ -17,10 +17,10 @@ Author: Dcsyhi
 Sponsor: 搬运工
 Icon: https://chinesebuilding.club/pic/cydia.png
 
-Package: byg.iosios.net.airaw
+Package: com.ixoo.net.airaw
 Architecture: iphoneos-arm64e
 Version: 1.6.7
-Section: iXoo-Tweaks
+Section: Misc-艹大姨子
 Maintainer: 搬运工
 Installed-Size: 13502
 Pre-Depends: rootless-compat(>= 0.9)
@@ -37,10 +37,10 @@ Author: Dcsyhi
 Sponsor: 搬运工
 Icon: https://chinesebuilding.club/pic/cydia.png
 
-Package: byg.iosios.net.carbridge15-rootless
+Package: com.ixoo.net.carbridge15-rootless
 Architecture: iphoneos-arm64
 Version: 2.0.15
-Section: iXoo-Tweaks
+Section: Misc-艹大姨子
 Maintainer: 搬运工
 Installed-Size: 7344
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, com.opa334.altlist (>= 1.0.10)
@@ -57,10 +57,10 @@ Author: leftyfl1p
 Sponsor: 搬运工
 Icon: https://chinesebuilding.club/pic/cydia.png
 
-Package: byg.iosios.net.carbridge15-rootless
+Package: com.ixoo.net.carbridge15-rootless
 Architecture: iphoneos-arm64e
 Version: 2.0.15
-Section: iXoo-Tweaks
+Section: Misc-艹大姨子
 Maintainer: 搬运工
 Installed-Size: 7344
 Pre-Depends: rootless-compat(>= 0.9)
@@ -78,10 +78,10 @@ Author: leftyfl1p
 Sponsor: 搬运工
 Icon: https://chinesebuilding.club/pic/cydia.png
 
-Package: com.82flex.noredirect
+Package: com.ixoo.noredirect
 Architecture: iphoneos-arm64e
 Version: 1.9
-Section: iXoo-Tweaks
+Section: Misc-艹大姨子
 Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 576
 Pre-Depends: rootless-compat(>= 0.9)
@@ -98,10 +98,10 @@ Author: Lessica <82flex@gmail.com>
 Icon: https://axs66.github.io/pro/icon/noredirect.png
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
 
-Package: com.Axs.split-view-pro
+Package: com.ixoo.split-view-pro
 Architecture: iphoneos-arm64e
 Version: 1.4.1
-Section: iXoo-Tweaks
+Section: Misc-艹大姨子
 Maintainer: Axs
 Installed-Size: 5624
 Pre-Depends: rootless-compat(>= 0.9)
@@ -119,10 +119,10 @@ Name: SVP分屏独立版
 Icon: https://axs66.github.io/pro/icon/svp.png
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/split-view-pro/js.json
 
-Package: com.Axs.split-view-pro
+Package: com.ixoo.split-view-pro
 Architecture: iphoneos-arm64e
 Version: 1.3.7-1
-Section: iXoo-Tweaks
+Section: Misc-艹大姨子
 Maintainer: Axs
 Installed-Size: 5624
 Pre-Depends: rootless-compat(>= 0.9)
@@ -139,10 +139,10 @@ Author: Axs
 TS: sp-sss
 Sileodepiction: https://axs6.github.io/repo/sileodepiction/svp/js.json
 
-Package: com.dao.griddy
+Package: com.ixoo.griddy
 Architecture: iphoneos-arm64e
 Version: 1.0.5
-Section: iXoo-Tweaks
+Section: Misc-艹大姨子
 Maintainer: mikifp
 Depends: mobilesubstrate
 Conflicts: com.mikifp.griddy, xyz.cypwn.griddy
@@ -157,10 +157,10 @@ Name: Griddy 随意摆
 Author: mikifp
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/griddy/js.json
 
-Package: com.dao.icleanerpro
+Package: com.ixoo.icleanerpro
 Architecture: iphoneos-arm64e
 Version: 7.10.0
-Section: iXoo-Tweaks
+Section: Misc-艹大姨子
 Maintainer: Ivano Bilenchi
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 4.0), findutils, apt | apt7
@@ -178,7 +178,7 @@ Author: Ivano Bilenchi
 Package: com.iXoo.JYSS
 Architecture: iphoneos-arm64e
 Version: 1.0
-Section: iXoo-Tweaks
+Section: Misc-艹大姨子
 Maintainer: iXoo
 Depends: mobilesubstrate
 Filename: ./debs/com.iXoo.JYSS_1.0_iphoneos-arm64e.deb
@@ -194,7 +194,7 @@ Author: SeaWind
 Package: com.ixoo.aaaaaa
 Architecture: iphoneos-arm
 Version: 1.0-1
-Section: iXoo-公告
+Section: 删除
 Maintainer: iXoo
 Depends: sudo
 Filename: ./debs/com.ixoo.aaaaaa_1.0-1_iphoneos-arm.deb
@@ -212,7 +212,7 @@ Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.
 Package: com.ixoo.aaaaaa
 Architecture: iphoneos-arm64
 Version: 1.0-1
-Section: iXoo-公告
+Section: 删除
 Maintainer: iXoo
 Depends: sudo
 Filename: ./debs/com.ixoo.aaaaaa_1.0-1_iphoneos-arm64.deb
@@ -230,7 +230,7 @@ Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.
 Package: com.ixoo.aaaaaa
 Architecture: iphoneos-arm64e
 Version: 1.0-1
-Section: iXoo-公告
+Section: 删除
 Maintainer: iXoo
 Depends: sudo
 Filename: ./debs/com.ixoo.aaaaaa_1.0-1_iphoneos-arm64e.deb
@@ -248,7 +248,7 @@ Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.
 Package: com.ixoo.touchvis
 Architecture: iphoneos-arm64e
 Version: 2.8-1
-Section: iXoo-Tweaks
+Section: Misc-艹大姨子
 Maintainer: iXoo
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
@@ -264,10 +264,10 @@ Icon: https://axs66.github.io/pro/icon/TVZ.png
 Name: Touch-Viz触摸轨迹
 Author: Lessica
 
-Package: com.mtac.vitreux
+Package: com.ixoo.vitreux
 Architecture: iphoneos-arm64
 Version: 1.4
-Section: iXoo-Tweaks
+Section: Misc-艹大姨子
 Maintainer: Axs
 Installed-Size: 7028
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
@@ -290,10 +290,10 @@ Author: MTAC
 Icon: https://axs66.github.io/pro/icon/vitreux.png
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/vitreux/js.json
 
-Package: com.mtac.vitreux
+Package: com.ixoo.vitreux
 Architecture: iphoneos-arm64e
 Version: 1.4
-Section: iXoo-Tweaks
+Section: Misc-艹大姨子
 Maintainer: Axs
 Installed-Size: 7028
 Pre-Depends: rootless-compat(>= 0.9)
@@ -317,10 +317,10 @@ Author: MTAC
 Icon: https://axs66.github.io/pro/icon/vitreux.png
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/vitreux/js.json
 
-Package: com.netskao.appdata
+Package: com.ixoo.appdata
 Architecture: iphoneos-arm64
 Version: 1.4.6
-Section: iXoo-Tweaks
+Section: Misc-艹大姨子
 Maintainer: Nets
 Installed-Size: 5140
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
@@ -336,10 +336,10 @@ Name: AppData
 Author: Fouad Raheb
 Markdowndescription: View & Manage Applications Data from your Home Screen<br><br>• v1.4.6: Fix iOS15 crash issues<br><br>• v1.4.5: Modify the API interface for obtaining the downgraded version number of an application
 
-Package: com.netskao.appdata
+Package: com.ixoo.appdata
 Architecture: iphoneos-arm64e
 Version: 1.4.6
-Section: iXoo-Tweaks
+Section: Misc-艹大姨子
 Maintainer: Nets
 Installed-Size: 5140
 Pre-Depends: rootless-compat(>= 0.9)
@@ -356,10 +356,10 @@ Name: AppData
 Author: Fouad Raheb
 Markdowndescription: View & Manage Applications Data from your Home Screen<br><br>• v1.4.6: Fix iOS15 crash issues<br><br>• v1.4.5: Modify the API interface for obtaining the downgraded version number of an application
 
-Package: com.netskao.appdata
+Package: com.ixoo.appdata
 Architecture: iphoneos-arm64e
 Version: 1.4.7
-Section: iXoo-Tweaks
+Section: Misc-艹大姨子
 Maintainer: Nets
 Installed-Size: 5156
 Pre-Depends: rootless-compat(>= 0.9)
@@ -376,10 +376,10 @@ Name: AppData
 Author: Fouad Raheb
 Markdowndescription: View & Manage Applications Data from your Home Screen<br><br>• v1.4.7: Fix app failed to downgrade<br><br>• v1.4.6: Fix iOS15 crash issues<br><br>• v1.4.5: Modify the API interface for obtaining the downgraded version number of an application
 
-Package: com.sunshinesong.split-view-pro
+Package: com.ixoo.split-view-pro
 Architecture: iphoneos-arm64e
 Version: 1.1.5
-Section: iXoo-Tweaks
+Section: Misc-艹大姨子
 Maintainer: sunshinesong
 Installed-Size: 13792
 Pre-Depends: rootless-compat(>= 0.9)
