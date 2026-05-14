@@ -96,6 +96,7 @@ SHA256: dd0531e7f40d5665d8f422243466dd9a22fcaf89c3d71cc97f66038ad04e2fac
 SHA512: f6332729c66fa0cbf2a9bb4ad6a5431432363ef2560f15baa6763af0147be6be82a53cb9eaa32fee8ca8840197ea88a45159963d95a88b03379707519153eec2
 Homepage: https://claude.ai
 Description: Claude Code CLI for iOS 人工智能  在越狱iPhone 上本地运行 Claude Code  终端执行 claude-auth以开始认证配置   终端执行 claude以开始使用  可以配置DeepSeek模型API 和  第三方模型API
+Name: claude code roothide
 
 Package: com.ixoo.noredirect
 Architecture: iphoneos-arm64e
@@ -213,7 +214,7 @@ Author: SeaWind
 Package: com.ixoo.aaaaaa
 Architecture: iphoneos-arm
 Version: 1.0-1
-Section: iXoo公告
+Section: iXoo-公告
 Maintainer: iXoo
 Depends: sudo
 Filename: ./debs/com.ixoo.aaaaaa_1.0-1_iphoneos-arm.deb
@@ -231,7 +232,7 @@ Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.
 Package: com.ixoo.aaaaaa
 Architecture: iphoneos-arm64
 Version: 1.0-1
-Section: iXoo公告
+Section: iXoo-公告
 Maintainer: iXoo
 Depends: sudo
 Filename: ./debs/com.ixoo.aaaaaa_1.0-1_iphoneos-arm64.deb
@@ -249,7 +250,7 @@ Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.
 Package: com.ixoo.aaaaaa
 Architecture: iphoneos-arm64e
 Version: 1.0-1
-Section: iXoo公告
+Section: iXoo-公告
 Maintainer: iXoo
 Depends: sudo
 Filename: ./debs/com.ixoo.aaaaaa_1.0-1_iphoneos-arm64e.deb
