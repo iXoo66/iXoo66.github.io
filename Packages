@@ -231,7 +231,7 @@ SHA1: f4325be0d9549b4524f3efe510f201fb17f70e81
 SHA256: 1222bd2a6d61c58b4a2e56f5f0929e27119a0fee48038e030c3520eec5971514
 SHA512: 248b5fa06795658a1156570ba56d190f6555fbe81d52196d840a2b01cf258d039ceec12317e9b96fc1d1213062951c2c9cf7fd48900379ee4a28ee8ba7a5700b
 Description: 真正的iOS系统清理和管理实用程序，默认简体中文，破解版。
-Name: ICleaner Pro
+Name: iCleaner Pro
 Author: Ivano Bilenchi
 
 Package: com.iXoo.JYSS
