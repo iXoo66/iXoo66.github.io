@@ -173,6 +173,25 @@ Homepage: https://claude.ai
 Description: Claude Code CLI for iOS 人工智能  在越狱iPhone 上本地运行 Claude Code  终端执行 claude-auth以开始认证配置   终端执行 claude以开始使用  可以配置DeepSeek模型API 和  第三方模型API
 Name: Claude Code
 
+Package: com.ixoo.appdata
+Architecture: iphoneos-arm64e
+Version: 1.5.0-1
+Section: iXoo-Tweaks
+Maintainer: zqbb
+Installed-Size: 356
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.fouadraheb.appdata, netskao.appdata-rootless
+Filename: ./debs/cn.zqbb.appdata_1.5.0-1_iphoneos-arm64e.deb
+Size: 76108
+MD5sum: cc5826390821aaf02dda66cb2f329183
+SHA1: 1532960d6a43466511237a194c8ee39ce1f8b898
+SHA256: 5554cfc3a79952caf54925b5ac17f78f69c975b1ed1f4766701b5a34999e1d38
+SHA512: 174894e6071e4d376bb26f474d6980f728865f2e2ad8929849d3d6f2cdc5b6710380a7ff2109694abe60a16acaa698f207a6c2f7d6e7e8a7296cba6eb003c2d2
+Description: View & Manage Applications Data from your Home Screen
+Name: Hello AppData
+Author: Fouad Raheb <support@fouadraheb.com>
+SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.appdata
+
 Package: com.ixoo.noredirect
 Architecture: iphoneos-arm64e
 Version: 1.9
@@ -242,11 +261,11 @@ Maintainer: mikifp
 Depends: mobilesubstrate
 Conflicts: com.mikifp.griddy, xyz.cypwn.griddy
 Filename: ./debs/com.dao.griddy_1.0.5_iphoneos-arm64e.deb
-Size: 18492
-MD5sum: b02661a1689a6db2c7a47dcca5077fc1
-SHA1: 9570233b37ede170bf915d9ca2d9140a279629a6
-SHA256: eed113e83693c864fd8a36b1651b91e2526899349c7826fdf2a3ea9ca798cb1e
-SHA512: 463bf0e681a978c9d2b4552804d775553a9c8db31b5a0b3fe29c899882a5913ae56d62220deddf44201d6c4419d6a1b13eaf9c62ef1a6c02fc6387b8465d3a7a
+Size: 18508
+MD5sum: aa20312a65e5fe6626ee72410c6587b2
+SHA1: ccae00d20b7f322db0047dd95bfb634dc121a9a3
+SHA256: 897f445e3ff728f42269333ac2e7e9d3e0ed87cf937c9e226c9962f7ff63f08c
+SHA512: 86960e7bf0e2075a3ce3f971e450251bfa502d0a3cc7fd2f159ee97e87d3214cc44b105d9eab580734e572f67fec0d8ae76f882d54bff3faec2ee3958a0d4fba
 Description: 让你的程序图标在桌面随意摆放；根据开源重新编译。
 Name: Griddy 随意摆
 Author: mikifp
@@ -489,6 +508,25 @@ Description: 分屏，不必太复杂，一切从简即可。
 Author: sunshinesong
 TS: sp-sss
 Name: Split-view-pro
+
+Package: com.ixoo.callassist16.dopamine
+Architecture: iphoneos-arm64
+Version: 2.3.2
+Priority: optional
+Section: iXoo-Tweaks
+Maintainer: xybp888
+Depends: firmware (>= 15.0), preferenceloader, com.opa334.libsandy
+Filename: ./debs/com.xybp888.callassist16.dopamine_2.3.2_iphoneos-arm64.deb
+Size: 3021272
+MD5sum: bd6f991d3f75c14d699bda92e116084c
+SHA1: 0b62b18d3de2b3eeece4e542729366529edd0b22
+SHA256: e984d4f6ca4e2b940dc48f68f32ee681bb64b1be3390e482189b4fb809467a6d
+SHA512: bd5c68417d42c222d9fb4933aa8fa37867d05c420f2ef34673d609a1e97a43092d018feb2185c4cc816140f6472beb8eb76284a1571aa2a4f9d6ab29503fe033
+Description: 电话助手授权版本,通话录音,通话记录合并,T9双卡选卡拨号键盘,短信双卡选卡,来去电归属地,黑名单,骚扰拦截,状态栏图标替换,时间格式修改,常用小功能等强大插件
+Name: 电话助手iOS16-正式版
+Author: xybp888
+Depiction: https://apt.htv123.com/view/607
+SileoDepiction: https://apt.htv123.com/sileo/607
 
 Package: com.ixoo.rootless
 Architecture: iphoneos-arm64e
