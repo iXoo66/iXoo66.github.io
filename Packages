@@ -529,6 +529,25 @@ Author: xybp888
 Depiction: https://apt.htv123.com/view/604
 SileoDepiction: https://apt.htv123.com/sileo/604
 
+Package: com.ixoo.callassist16.dopamine.roothide
+Architecture: iphoneos-arm64e
+Version: 2.3.2
+Priority: optional
+Section: iXoo-Tweaks
+Maintainer: xybp888
+Depends: firmware (>= 16.0), preferenceloader, com.opa334.libsandy
+Filename: ./debs/com.xybp888.callassist16.dopamine.roothide_2.3.2_iphoneos-arm64e.deb
+Size: 2996728
+MD5sum: c4ed88e92dbaee54b62705e7fe890c3a
+SHA1: c92d18c25cf2cb85af754e9a348ee9a5657e189d
+SHA256: 3cefc0aaa6195d1a54f2169fb048b0ae5853886e6c8ab00caa2c235a7d34b7f7
+SHA512: 41fa20ce3b6e21138bfbc8b04246bec940ba4df0ebacd7715dca4ebd75531f56f36c2793a072ac8f7dbaeffe347d644ada7ef69482309135bb598e3af7c3cc00
+Description: 电话助手授权版本,通话录音,通话记录合并,T9双卡选卡拨号键盘,短信双卡选卡,来去电归属地,黑名单,骚扰拦截,状态栏图标替换,时间格式修改,常用小功能等强大插件
+Name: 电话助手iOS16-正式版
+Author: xybp888
+Depiction: https://apt.htv123.com/view/606
+SileoDepiction: https://apt.htv123.com/sileo/606
+
 Package: com.ixoo.callassist16.dopamine
 Architecture: iphoneos-arm64
 Version: 2.3.2
