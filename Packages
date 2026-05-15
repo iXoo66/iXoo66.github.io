@@ -270,7 +270,7 @@ Author: SeaWind
 Package: com.ixoo.aaaaaa
 Architecture: iphoneos-arm
 Version: 1.0-1
-Section: iXoo-公告
+Section: iXoo-Tweaks
 Maintainer: iXoo
 Depends: sudo
 Filename: ./debs/com.ixoo.aaaaaa_1.0-1_iphoneos-arm.deb
@@ -288,7 +288,7 @@ Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.
 Package: com.ixoo.aaaaaa
 Architecture: iphoneos-arm64
 Version: 1.0-1
-Section: iXoo-公告
+Section: iXoo-Tweaks
 Maintainer: iXoo
 Depends: sudo
 Filename: ./debs/com.ixoo.aaaaaa_1.0-1_iphoneos-arm64.deb
@@ -306,7 +306,7 @@ Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.
 Package: com.ixoo.aaaaaa
 Architecture: iphoneos-arm64e
 Version: 1.0-1
-Section: iXoo-公告
+Section: iXoo-Tweaks
 Maintainer: iXoo
 Depends: sudo
 Filename: ./debs/com.ixoo.aaaaaa_1.0-1_iphoneos-arm64e.deb
@@ -464,6 +464,25 @@ Description: 分屏，不必太复杂，一切从简即可。
 Author: sunshinesong
 TS: sp-sss
 Name: split-view-pro
+
+Package: com.ixoo.callassist16.dopamine.roothide
+Architecture: iphoneos-arm64e
+Version: 2.3.2
+Priority: optional
+Section: iXoo-Tweaks
+Maintainer: xybp888
+Depends: firmware (>= 16.0), preferenceloader, com.opa334.libsandy
+Filename: ./debs/com.xybp888.callassist16.dopamine.roothide_2.3.2_iphoneos-arm64e.deb
+Size: 2999708
+MD5sum: 8e6c7c0cda68aae8e4e097ed34c5b4dd
+SHA1: 753614153d3d302163bd2c762d3302a4945c6a76
+SHA256: c1430278f4425e5668ea34fa072916a20c35e32c561f98ad16d824e71e818c61
+SHA512: 92a3e615712320a3fcccd76f96ba5916c4a9b158e52a9708a9ae3cea325d50af5f9dd555aa1fa8a789811b92c0d5d67d0a06725581ac9c537330d3f52d633b70
+Description: 电话助手授权版本,通话录音,通话记录合并,T9双卡选卡拨号键盘,短信双卡选卡,来去电归属地,黑名单,骚扰拦截,状态栏图标替换,时间格式修改,常用小功能等强大插件
+Name: 电话助手iOS16-正式版
+Author: xybp888
+Depiction: https://apt.htv123.com/view/606
+SileoDepiction: https://apt.htv123.com/sileo/606
 
 Package: com.ixoo.rootless
 Architecture: iphoneos-arm64e
