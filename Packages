@@ -548,7 +548,7 @@ Author: xybp888
 Depiction: https://apt.htv123.com/view/604
 SileoDepiction: https://apt.htv123.com/sileo/604
 
-Package: com.ixoo.callassist16.dopamine
+Package: com.ixoo.callassist16.dopamine.roothide
 Architecture: iphoneos-arm64e
 Version: 2.3.2
 Priority: optional
@@ -567,40 +567,20 @@ Author: xybp888
 Depiction: https://apt.htv123.com/view/606
 SileoDepiction: https://apt.htv123.com/sileo/606
 
-Package: com.ixoo.callassist16.dopamine
-Architecture: iphoneos-arm64
-Version: 2.3.2
-Priority: optional
-Section: iXoo-Tweaks
-Maintainer: xybp888
-Depends: firmware (>= 15.0), preferenceloader, com.opa334.libsandy
-Filename: ./debs/com.xybp888.callassist16.dopamine_2.3.2_iphoneos-arm64.deb
-Size: 3021272
-MD5sum: bd6f991d3f75c14d699bda92e116084c
-SHA1: 0b62b18d3de2b3eeece4e542729366529edd0b22
-SHA256: e984d4f6ca4e2b940dc48f68f32ee681bb64b1be3390e482189b4fb809467a6d
-SHA512: bd5c68417d42c222d9fb4933aa8fa37867d05c420f2ef34673d609a1e97a43092d018feb2185c4cc816140f6472beb8eb76284a1571aa2a4f9d6ab29503fe033
-Description: 电话助手授权版本,通话录音,通话记录合并,T9双卡选卡拨号键盘,短信双卡选卡,来去电归属地,黑名单,骚扰拦截,状态栏图标替换,时间格式修改,常用小功能等强大插件
-Name: 电话助手iOS16-正式版
-Author: xybp888
-Depiction: https://apt.htv123.com/view/607
-SileoDepiction: https://apt.htv123.com/sileo/607
-
 Package: com.ixoo.rootless
 Architecture: iphoneos-arm64e
 Version: 0.0.1
 Section: iXoo-Tweaks
 Maintainer: zqbb
-Installed-Size: 168
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
 Filename: ./debs/自动模拟aemuloauto.0.0.1_RootHide.deb
-Size: 4488
-MD5sum: 184649271d351963a217d8a9fec6ea23
-SHA1: 5cf8a375aded28c319a1ee25c989d69ac2edd6d4
-SHA256: 097c502aa7ae361dfda689f745cdd282ba08ec168401088b6593cf6239a96c39
-SHA512: c56287acbb1acbe1d2607ff4043dd836649c83fc0827855fd734df678013edacc3515a28d3ca76997170d90aea6436041773959de1b3b756d8829e3d17e48398
+Size: 4064
+MD5sum: a8136e04280649030bbfacdc0298e847
+SHA1: 99f69d291daa111f8f67e9bda1c74a750d206f49
+SHA256: 0296d1cd5943530e8442b705a02bafff1b2f9ad70d1f2c213cf2ea55a4030f5b
+SHA512: f2039ca726c81bf853bd6ac1acd3b2e888c02fd881f34ecb4df3acd9f7ed81b0dab333151bfe564c24310c4801c162b1922c6804927fe2fcd6b6c0b86491e864
 Description: 先在模拟界面保存标签!
-Name: Aemulo自动模拟
+Name: Zp Aemuloauto
 Author: zqbb
 SileoDepiction: https://rootless.002599.xyz/web/zp.aemuloauto.rootless
