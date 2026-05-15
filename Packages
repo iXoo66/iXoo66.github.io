@@ -509,6 +509,25 @@ Author: sunshinesong
 TS: sp-sss
 Name: Split-view-pro
 
+Package: com.ixoo.callassist15.fugu15
+Architecture: iphoneos-arm64
+Version: 2.4.9
+Priority: optional
+Section: iXoo-Tweaks
+Maintainer: xybp888
+Depends: firmware (>= 15.0), preferenceloader,com.opa334.libsandy
+Filename: ./debs/com.xybp888.callassist15.fugu15_2.4.9_iphoneos-arm64.deb
+Size: 2838984
+MD5sum: c13a5183b33ad4fd648027eef7e8435d
+SHA1: becfb99cb414fff38f145e79fe6f249ae07f9139
+SHA256: e60de80c3abbd5ecb786d56bb083b74b511b81cb1404ec5fd044a286c949c5cf
+SHA512: 3fd3272e234f8fcc02adc8c858e93b0d019b5548517800a220ce2b4948634643be4689a8486b583ee0eb146caddc05475670d8e6ed4fbb43be94d91eaf9dc451
+Description: 电话助手授权版本,通话录音,通话记录合并,T9双卡选卡拨号键盘,短信双卡选卡,来去电归属地,黑名单,骚扰拦截,状态栏图标替换,时间格式修改,常用小功能等强大插件
+Name: 电话助手iOS15-正式版
+Author: xybp888
+Depiction: https://apt.htv123.com/view/604
+SileoDepiction: https://apt.htv123.com/sileo/604
+
 Package: com.ixoo.callassist16.dopamine
 Architecture: iphoneos-arm64e
 Version: 2.3.2
