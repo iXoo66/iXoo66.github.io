@@ -490,6 +490,26 @@ Author: sunshinesong
 TS: sp-sss
 Name: Split-view-pro
 
+Package: com.ixoo.CallAssist11
+Architecture: iphoneos-arm
+Version: 2.1-2
+Priority: optional
+Section: iXoo-Tweaks
+Maintainer: xybp888 <8657156@qq.com>
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader,com.rpetrich.rocketbootstrap (>= 1.0.10~beta1)
+Filename: ./debs/com.xybp888.CallAssist11_2.1-2_iphoneos-arm.deb
+Size: 679424
+MD5sum: 211b7fd6ca4de0603d8297149146b2d6
+SHA1: 3f7140acb24b2c14559481c0d0ba4e9b11038e10
+SHA256: cbfdd850570aca3fc6203df936fad93a9dd6380c57124d52e26e136f2ae455ae
+SHA512: 3d9e84c2badd172a7ff6bdfa4834e32d389d84485bd94fcd06a526c1fa12b4f6cd6d59100310434c4a7abc0c6d14be338d451e805322737fc190cedb0fb4a384
+Description: 电话助手授权版本,原生T9拨号,来去电,短信归属地,接通振动,黑名单拦截,流量显示,锁屏集成一身的强大插件
+Name: 电话助手iOS11-正式版
+Author: xybp888 <8657156@qq.com>
+Depiction: https://apt.htv123.com/view/11
+SileoDepiction: https://apt.htv123.com/sileo/11
+Icon: file:///Applications/MobilePhone.app/AppIcon60x60@2x.png
+
 Package: com.ixoo.callassist15.fugu15
 Architecture: iphoneos-arm64
 Version: 2.4.9
@@ -508,6 +528,25 @@ Name: 电话助手iOS15-正式版
 Author: xybp888
 Depiction: https://apt.htv123.com/view/604
 SileoDepiction: https://apt.htv123.com/sileo/604
+
+Package: com.ixoo.callassist16.dopamine
+Architecture: iphoneos-arm64
+Version: 2.3.2
+Priority: optional
+Section: iXoo-Tweaks
+Maintainer: xybp888
+Depends: firmware (>= 15.0), preferenceloader, com.opa334.libsandy
+Filename: ./debs/com.xybp888.callassist16.dopamine_2.3.2_iphoneos-arm64.deb
+Size: 3021272
+MD5sum: bd6f991d3f75c14d699bda92e116084c
+SHA1: 0b62b18d3de2b3eeece4e542729366529edd0b22
+SHA256: e984d4f6ca4e2b940dc48f68f32ee681bb64b1be3390e482189b4fb809467a6d
+SHA512: bd5c68417d42c222d9fb4933aa8fa37867d05c420f2ef34673d609a1e97a43092d018feb2185c4cc816140f6472beb8eb76284a1571aa2a4f9d6ab29503fe033
+Description: 电话助手授权版本,通话录音,通话记录合并,T9双卡选卡拨号键盘,短信双卡选卡,来去电归属地,黑名单,骚扰拦截,状态栏图标替换,时间格式修改,常用小功能等强大插件
+Name: 电话助手iOS16-正式版
+Author: xybp888
+Depiction: https://apt.htv123.com/view/607
+SileoDepiction: https://apt.htv123.com/sileo/607
 
 Package: com.ixoo.rootless
 Architecture: iphoneos-arm64e
