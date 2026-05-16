@@ -6,11 +6,11 @@ Maintainer: colorBlack
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
 Filename: ./debs/Necromancy_1.0.4-RootHide-隐根版.deb
-Size: 38248
-MD5sum: 415509119ef0a2feb4bbabbe744dab58
-SHA1: 2f8f36d3c95078e82d663fea11b6736251211c8e
-SHA256: d31b77ac311b80a65fa07ba720428462141fdee54a3e940bab970259a7781ab2
-SHA512: eae433fa90a302194db504f69e0645b6c0c07f5ded55ba46a43314b351bd24004da48bada5cfe76e201c576332ac69559a9e38c8ec23856a5da817ce2d911ec6
+Size: 38240
+MD5sum: 50f1c995562799449f4d5770b53cf439
+SHA1: f144f8aadb2893f6ffd45d809e83faa272488405
+SHA256: 62916b59ea4efef1bfc1e3fcd68e37b751029b4641bbf2a18650e7af1efd7761
+SHA512: 213494e3e4cbc58335263de3573d39dc038e50f17ad93eb6cd64a12aa75050f305a6ec6ea702fe264719da9cf4a8a892ec96645fa5dc3d53293b90980e4a5f95
 Description: 增强 iOS 原生墓碑机制。通过 Jetsam 优先级与内存阈值调整，防止系统杀后台应用，减少耗电发热。安全稳定，不干预进程状态。
 Name: Necromancy
 Author: colorBlack
@@ -23,11 +23,11 @@ Maintainer: colorBlack
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
 Filename: ./debs/Necromancy_1.0.6-RootHide-隐根版.deb
-Size: 37488
-MD5sum: 8be574f5b2538ebe86bffbf68335be97
-SHA1: 8cb366d4ac9401000b65a9007634f7006678bbdf
-SHA256: ec6ae17a13dbcb725388393b304e9808c83651bb2b64662a9cb9a7f12acb67ed
-SHA512: 1be3a0620df7b4c377d15ea0dc1d3e13594f328ba821a5f0da767e2c5c767e8d63048dcec2240e6c1ca48049c40c471c3e2e4fb864acc874a1328c54a188984f
+Size: 37480
+MD5sum: 74ae73016bf8e4360a797e2670f80db2
+SHA1: a69cc3e90ecb67e9e7dc629fe41f0258ae9d1c64
+SHA256: 9d8519b7b28a577914904d1f9d576f336899064e7bf484c771fdf84d0172b046
+SHA512: 956f2044b6cfa0fa634c9da5581ec22f3b7130a03166ccf9c8aeca2047d6b742eed150b1f6615a4fcd66a2c3805ff2e0923a4320071427296bf667f7e2b5ed76
 Description: 增强 iOS 原生墓碑机制。通过 Jetsam 优先级与内存阈值调整，防止系统杀后台应用，减少耗电发热。安全稳定，不干预进程状态。
 Name: Necromancy
 Author: colorBlack
@@ -40,11 +40,11 @@ Maintainer: colorBlack
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
 Filename: ./debs/Necromancy_1.0.8-隐根版.deb
-Size: 53616
-MD5sum: 00e51bbc41336220da8ec3c5f38d867c
-SHA1: 22bcc67abc8493070f2f4788ca7e9084457ce3e6
-SHA256: c45b8966b599f0d103c5fab71f5f3853f9dee99836040a549449fe65cfaec69f
-SHA512: 005f2847b13d8a96ac0890dc67abd284493e3d2eb0f35da29870f7d0fbb11c2b99dba49149848db0bf644ab14036cb4a69029671a0e247226ad52ff5e4bb66b0
+Size: 53572
+MD5sum: e7a1f38e9f0fcd8df60051b9b2aef573
+SHA1: d074d592ad657b28b8adace993df1ca11a41f3b4
+SHA256: 3407bbebe5bf19e173ad6a499cf238ae9139f3520c734c90730828fe84f410f3
+SHA512: 3c376446f1e837c985d3c6cc303a1b20e094c89870899a81beedce60c4d61ab85f85471737ccfd1b5870d4d6137199eab0403282c5625ca15e1632420d930cf0
 Description: 增强 iOS 原生墓碑机制。通过 Jetsam 优先级与内存阈值调整，防止系统杀后台应用，减少耗电发热。安全稳定，不干预进程状态。
 Name: Necromancy
 Author: colorBlack
@@ -57,11 +57,11 @@ Maintainer: 搬运工
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
 Filename: ./debs/aemulotrial_1.2.5_RootHide.deb
-Size: 600276
-MD5sum: 5c3017a693f0dfa326e4bbff1528b6fe
-SHA1: 35caa98291636692ef5d871d6e44cfaf8f89f507
-SHA256: cef6bb7468592bae0328d4fb6e19fb7d9ba44d6b83632d6c0a925a0434aa3400
-SHA512: 4ae7630fcf3cac4e81b48edbd67e5ac2e18fa85451f307415b33c825ba027ba69beec14dda037a2fecd3e723b768f080285d6ba131ca990756204739c10cd8fc
+Size: 600232
+MD5sum: b5d53c2cc09a64766a5e8b0ddae9f1c6
+SHA1: 28e463ac1ff8b523b0edb868283973218709520e
+SHA256: 10c29a273f35b78c65b10ed3c6c2f206ef9b50798fe2481140dda7bde45a78f9
+SHA512: 5686fac0d660addfe44803fa75af85462590b8a6c9db1af7fa0b72c617d4aee96c30d386287fef1e8f94777f5b39a810745dce8a540ccb85b8478f953ad943b1
 Description: 这是一款免费的NFC插件，并且是多巴胺越狱能用的，上架的目的是很多用户不知道英文插件是什么作用，特此说明。付费的aemulo多的一个功能就是可以添加到钱包里，不用每次打开软件才能刷门禁！其他的和这个免费版没啥区别，觉得不错的小伙们可以支持作者付费购买！
 Name: Aemulo (NFC)
 Author: Amy While
@@ -75,11 +75,11 @@ Section: iXoo-Tweaks
 Maintainer: 搬运工
 Depends: mobilesubstrate, preferenceloader, firmware (>=14.0), ws.hbang.common,com.opa334.ccsupport
 Filename: ./debs/byg.iosios.net.airaw_1.6.7_iphoneos-arm64.deb
-Size: 10357300
-MD5sum: 68874ab58defbfbdf0e8a622018b31c4
-SHA1: 1d7e3e9e4fc4d605805449e48908f09749b9cfd8
-SHA256: ede056e89d129980c46c9f574e7a9222d368209dc25bf16495f9404ec1af33d7
-SHA512: 6a6309cac85d70ebff79f59e96efde71a43913d277ce9f7b49f1d04b6e915cee96fdeb32644b32474d3d05c0f00664ff6bcebcfffe324fe40a54dfc824b206ea
+Size: 10357232
+MD5sum: 30fc0bc5d1e34879f6e163b3c890089f
+SHA1: fc8c452f882e636260d2d57389300ac6162d8582
+SHA256: b68e01ebda02eb47d914a3d5779d16b64bf2e473e7131a484a9eab44f1151743
+SHA512: fa173908ae1805037620acf1f28d3ba5fd8d108051ed19f9ddb4edf6ac4cbc50de0b30322d0024d6f1f4d979ac6ad867004e9eb547f4a12d201365f9cab440b5
 Description: An awesome CarPlay tweak.一款Carplay拓展插件，可以改壁纸，让不是全屏显示的软件变成全屏，配合carbrige插件使用，改图标个数比例，有汽车的人会用的到，原价4美元，现在搬运工源免费使用！我没车，无法测试插件是否有效，小组件好像不行！大家可以下载体验一下这个功能菜单，有经济能力的购买正版，支持作者！搬运工源，你最好的家，越狱好帮手！感谢搬运工源群友小伙子分享此插件！爱你爱你爱你！
 Name: Airaw
 Author: Dcsyhi
@@ -94,11 +94,11 @@ Maintainer: 搬运工
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate, preferenceloader, firmware (>=14.0), ws.hbang.common,com.opa334.ccsupport
 Filename: ./debs/byg.iosios.net.airaw_1.6.7_iphoneos-arm64e.deb
-Size: 20683296
-MD5sum: f17dc7561ac11eaca7870bb7a73c5028
-SHA1: b49c2cf071dd8bcbdccb5ed45dd31e00a3037542
-SHA256: d48aadeedcd3a234f5ed403889793fa14c0ecdef287812db216aacb3c053eca0
-SHA512: 3cdc9fd9e99e26ff51d457e4b4f36a653cb2ce2e495ca854a17cb5413f76cdfbcdf77f22904f254970b70acada5c03392782d13ef9ecdf612fac5ac6c212bf38
+Size: 20681400
+MD5sum: 3715f20d537bea0d3f4a3abaa720833b
+SHA1: 4bd275f5c1533561a4828f187430e252eba41d47
+SHA256: 4c39c08d24e40963d698c15257e3c4a3be5e3db4f66be7aa7ffc2004da20374f
+SHA512: 5fe78d0a6a75936185426bea2c42be1ab7cfb8595a25fff43e64b3e323767757f487dfdf82e174d3e771aae948546daaf36eaadb14b43d965fa96618df644bb2
 Description: An awesome CarPlay tweak.一款Carplay拓展插件，可以改壁纸，让不是全屏显示的软件变成全屏，配合carbrige插件使用，改图标个数比例，有汽车的人会用的到，原价4美元，现在搬运工源免费使用！我没车，无法测试插件是否有效，小组件好像不行！大家可以下载体验一下这个功能菜单，有经济能力的购买正版，支持作者！搬运工源，你最好的家，越狱好帮手！感谢搬运工源群友小伙子分享此插件！爱你爱你爱你！
 Name: Airaw
 Author: Dcsyhi
@@ -112,11 +112,11 @@ Section: iXoo-Tweaks
 Maintainer: 搬运工
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, com.opa334.altlist (>= 1.0.10)
 Filename: ./debs/byg.iosios.net.carbridge15-rootless_2.0.15_iphoneos-arm64.deb
-Size: 434168
-MD5sum: 7afb4a68d89cedcb3cc3e953035e5414
-SHA1: 4ae9f064f0afb8d539bd15a6f8344f62f0439dd0
-SHA256: aebd1f60b9156a7d760a27d4cabede15d1bdab2d75126e88b1f9263756c1d097
-SHA512: d3b48183ceac01af02e9e4428e02689e1830701720c352896844b1207b0e7c7c07d9b976469186f16e8020f125e79bf0307bb91bf3489266a73227608a38e6b6
+Size: 434456
+MD5sum: 41532c2aaae1efe633c145d4df7930ce
+SHA1: 06665cfb48828ffd9efaa176832fe510eed4f76b
+SHA256: 7e9b5ba4ec29dcf9d69f484661f5c9cfdae5963fdb1a4b2c032ea2ab390a4db5
+SHA512: 727da2e710be063f841f546ee31a9a4c3f15b0cd68010dbaa337857451e9ed14e09b0b20f35b203fb56b1857cc1650cf17c56750dfdf1beea569a04b903a35c7
 Description: Open any app in CarPlay!此版为破解版，让不支持互联的软件显示在车机上！仅供群友尝鮮，正版9.9美元，好像是有点贵，但是有能力的请支持正版！使用中有问题可以加群反馈，等待更新，也可直接入手正版哈，搬运工源只为免费搬运！旧版本在搬运工群文件里，新版本有问题的话，请手动降级回旧版本！不支持半越狱！
 Name: CarBridge
 Author: leftyfl1p
@@ -131,11 +131,11 @@ Maintainer: 搬运工
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, com.opa334.altlist (>= 1.0.10)
 Filename: ./debs/byg.iosios.net.carbridge15-rootless_2.0.15_iphoneos-arm64e.deb
-Size: 441356
-MD5sum: 1771d5ebfab150184d62f164378b9d48
-SHA1: fc48bec7d4d8abab1bf1b844ce206b336ea5eb6d
-SHA256: 07d898619527afa6e0a920217577193a97fc39de6d2a32d01d2e3907894519c0
-SHA512: eabfebe296f3ec59edb6dc500b78a03d79d46c2c93b8b5b8162e3912e9d092e33fe4882049f756c2be7a1ce7f5677b40197bd1b09eeb111c877b51cd2d50e5a6
+Size: 441404
+MD5sum: 10ef220c3f52b305dad23f4e2e428399
+SHA1: b32fe107928e4eb9069f443fe05398fcb1391183
+SHA256: da33bed7cadfd273479670cd9e0c687a759b92fd80c7fb5a18c106b3bbed05c0
+SHA512: cfc8db9d0f9439aea9ae6c48d590313b39265d05293781da406cae23628de20c7eabe7068e7be796e56bb47297f7120ce640c5b70b45b841ef31e26aa22bff77
 Description: Open any app in CarPlay!此版为破解版，让不支持互联的软件显示在车机上！仅供群友尝鮮，正版9.9美元，好像是有点贵，但是有能力的请支持正版！使用中有问题可以加群反馈，等待更新，也可直接入手正版哈，搬运工源只为免费搬运！旧版本在搬运工群文件里，新版本有问题的话，请手动降级回旧版本！不支持半越狱！
 Name: CarBridge
 Author: leftyfl1p
@@ -149,11 +149,11 @@ Section: iXoo-Tweaks
 Maintainer: zqbb
 Depends: firmware (>= 15.0), mobilesubstrate
 Filename: ./debs/cn.zqbb.appdata_1.5.0-1_iphoneos-arm64e.deb
-Size: 76228
-MD5sum: 968f8b4573f9d1caff9e51ca883b9594
-SHA1: fcea370f7d91ac90725e9054f0b9eb1ace5cd086
-SHA256: 76a0d3bf9933c6999b844d0ac1550b81d5f78652f69f129b0ef369e0596ba06f
-SHA512: 40e3637fb3f841a50b774c5389aecb49b5a5e2465f97b71400f466357e4ece21fae49e81ad6998b0cda2a496f7161ab1a5ee434df4d5f7b646ca89df6e5261f7
+Size: 76112
+MD5sum: 2b76fa2b91cbffac3f794bc6132143e5
+SHA1: ffe6e28157da64deb939816f282b5deb1bde517c
+SHA256: c65c28d24fcd8ab53178e60a9f8028e01881c74ae2728f19696fce94a2b05e69
+SHA512: dc0c5bf773598d8f256d08decc73c2ae08ac89512691c2b798ca227fff0f9e5e46d80c9015054eefdd22d3f1585ca082db8f6f86d79c3840588451c40e56c693
 Description: View & Manage Applications Data from your Home Screen
 Name: Hello AppData
 Author: Fouad Raheb <support@fouadraheb.com>
@@ -167,11 +167,11 @@ Maintainer: Lessica <82flex@gmail.com>
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 14.0), mobilesubstrate, com.opa334.altlist, com.opa334.libsandy
 Filename: ./debs/com.82flex.noredirect_1.9_iphoneos-arm64e.deb
-Size: 56564
-MD5sum: e46ff2b3d1e0294706cb2dee108c57f4
-SHA1: eacf2ed664db700dda0e5c79042faf101d5ecd05
-SHA256: 1a23d103b11e84c1bc54ec8a9b3cd26ed9ae20c1fe252a1241e42c1def7a4d71
-SHA512: f95bfbbe7a2d47008265a46738023039c76a64bdf64d6105ca0640975f9299344955c4ff9bc8efb5a814f090acd57855640f7a46c381a6703ad59c50905408f6
+Size: 56552
+MD5sum: bd5bee4e50b43dee1e228cbc70bb542f
+SHA1: df3efdb9dddcfc5ed09216db5c068421e6b16c2e
+SHA256: 8056a06f0173798a9dc2ea5b05b8e1efb2384e4c38062ab589856f23565d7295
+SHA512: e597711c20506ab151ddbc5f519893b56e9679407df7b192b54c5e35bbccf1afd6b779ea65162e97451d7518356ff8e814fa1c8b21bbcfc45cee8739807c6515
 Description: Stop specified apps from redirecting to App Store, Safari or other apps.
 Name: No Redirect
 Author: Lessica <82flex@gmail.com>
@@ -186,11 +186,11 @@ Maintainer: Axs
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
 Filename: ./debs/com.Axs.split-view-pro_1.4.1_iphoneos-arm64e-RootHide.deb
-Size: 1531944
-MD5sum: 97fd93cdd6dabefdd69d96267fb64283
-SHA1: 3ed485059246c90139b916dcf896a915d9cb1b25
-SHA256: 440bab4614199bcf50b410c5cf7e27565bf6266198ad76fb788440fb45016376
-SHA512: c26ffc7bfc1aaf0f3c1e3699fb348ebcd41c3e4127e10a8f4a19d49a91f684267366ddbd76a8f713d2c2accd641c4ce93c3ef07ea0e5f6c8ffc2741aa3c8c1f9
+Size: 1531780
+MD5sum: a3783bb56a6670fe4c9154aa35a79173
+SHA1: 58989c7f386dea2439a80843ae829d9307bb60c4
+SHA256: 2a72c19e6fba0cb3a1a115ac7bce7e9641500c6c315f3bcd7a757aa7f5bedf7b
+SHA512: 5da73c1722e747cd299299b5345325a2ea457cd4a71293d819dc47874d1c8297b362089eda1ea93cf3164e655b0601dd0ebf618b08bcdcc7425db081cbd28621
 Description: 免费的分屏插件，不必太复杂，一切从简即可。
 Author: A
 TS: sp-sss
@@ -206,11 +206,11 @@ Maintainer: Axs
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
 Filename: ./debs/com.axs.split-view-pro_1.3.7-1_iphoneos-arm64e-RootHide.deb
-Size: 1478248
-MD5sum: 4f696699aecc3c08359b27633d609b7f
-SHA1: 474239e61009c26bd653d69153dfea9012be2b20
-SHA256: e983117bf90c0cc8b8f98abb483b8e6cdcac0fe7c5e96dd42cf4ca2d8efc3daa
-SHA512: 6753d79cba8216ff42b297b1da2b2776e787d743198cc31a410b5e2b0c0e5fa1fc5c95bd4564cbd266be8c84f438accc612561ce0409efa18a2751f0e1d3e50b
+Size: 1479112
+MD5sum: 1a37b19cb0ac9759efcfc8e95b983cea
+SHA1: f84c05750b2e24e5d65a0796bf9d3f6661e5f816
+SHA256: 7acb67db501c0ba496993ae3f0629b25f0926358d36a693a42b609746b5600c6
+SHA512: 9418681abd90cc06228b98a1ae13df367bdc5e1e06a5222f8c804b8074b5754133d615266293253f7796ebf2631686aa9037fd6f062ca59ec04555dbc54bafd1
 Description: 分屏，不必太复杂，一切从简即可。
 Name: Svp分屏独立版
 Author: Axs
@@ -224,11 +224,11 @@ Section: iXoo-Tweaks
 Maintainer: mikifp
 Depends: mobilesubstrate
 Filename: ./debs/com.dao.griddy_1.0.5_iphoneos-arm64e.deb
-Size: 18476
-MD5sum: 99f4cdcb6ebf5b32b25b958480fdafdc
-SHA1: ba7b913f0b760ec6ec8a31826983d3dc72017bc2
-SHA256: 939cc5f81c7e9a7bc0b8721252561ee7bbd11ac090df5324cf9cc952e138e235
-SHA512: edb130032a314b7c57ce337662088a00b9dbacdcbaa2fca349904b9f13a0201e3bb528d3ef080e4f36c651360840afadeaa4cdd84adfa05e05101d457a439d71
+Size: 18464
+MD5sum: 078c0e2638f197e04a322c4ffb2cf4e4
+SHA1: 7896f1c49fcffd4546172922baccecfe17aa5562
+SHA256: 45993295084782cd2155a2f0dd1adf8936f299061b48d6fd415d7ad5b9ad2e76
+SHA512: fae431b8eab63b193455b1886aaa4f601873184696c740b163f444fe134e3aba9ed5829733a78816a6b2b0b31f37fca704be2936f70b2b30931e51ff1b418b61
 Description: 让你的程序图标在桌面随意摆放；根据开源重新编译。
 Name: Griddy 随意摆
 Author: mikifp
@@ -242,13 +242,13 @@ Maintainer: Ivano Bilenchi
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 4.0), findutils, apt | apt7
 Filename: ./debs/com.dao.icleanerpro_7.10.0_iphoneos-arm64e.deb
-Size: 1107476
-MD5sum: 92ab90370b3427ab841d0df05142e013
-SHA1: 5f5a9aad0488af763fbe231b0a88c3e15ae269c3
-SHA256: 8b797c2cad2124240de2535a951ae16fbd353ba8b42113167ac862aadd93da82
-SHA512: d06d52e400aaf5cc932f4db99b43d4669e1be0e9b16602a2e86ec5c8480e80de44b267414579c0b7dc85e1b9acc0bf9b334163fc58952f362eac733cc168ed86
+Size: 1108196
+MD5sum: 36ed35ab3401614e1fa0fa5ab91e84f9
+SHA1: 4531f04c1ae32a9089c1b0db299d948fc82ac72d
+SHA256: 0de0c99faa316d6a046f97308fa69fe8a188ee2e22b1a0386f6b64ca4c366de2
+SHA512: c5379984d41021bd106a8c03046ff6509fe3e9c7fee61f27db956c821619e6fd703248e3bc578ee57c7f8e1d3a2c8ae7462a50e293fa53246acedc0a059ce914
 Description: 真正的iOS系统清理和管理实用程序，默认简体中文，破解版。
-Name: ICleaner Pro
+Name: iCleaner Pro
 Author: Ivano Bilenchi
 
 Package: com.iXoo.JYSS
@@ -258,11 +258,11 @@ Section: iXoo-Tweaks
 Maintainer: iXoo
 Depends: mobilesubstrate
 Filename: ./debs/com.iXoo.JYSS_1.0_iphoneos-arm64e.deb
-Size: 4108
-MD5sum: 358c974d2af55336595bd9a7a37816b9
-SHA1: 9ae87603ed90a732f8df759ef07e1bba8944ca78
-SHA256: 0b2dec586c4731d1899ca9366be9282257cc181215d31eda3f913d80c63ac009
-SHA512: a2f74476affccf8647c93195f55a9f94ae26252e43ce1c80e773e97aefb32cae21f9d5a00983848c2d352bd4fb8081a4248f5c520312a5a512b83149ea4200c5
+Size: 4112
+MD5sum: d876ddc544d66a0ee283a156456b98b9
+SHA1: 12b10a5d1ef8286bc2d49c067f1f39de798430aa
+SHA256: 1c3db85161eff4774b222ba369b5d3b13a04358a4416becb9cb1c2f47a40c59e
+SHA512: 476e12f440c820d420513a7cfb0f20abb0b79dd7e6ca5249a4fa513af0865204d53b1a259cb5e76fcf55286d81d9545d1d5df7b878a89f52f590daf76b39bf1d
 Description: 兼容iOS15.0-15.4.1多巴胺越狱 插件说明:仅在应用程序内禁用通知中心的下拉手势。(适用于游戏)，返回桌面不影响通知中心手势，该插件默认生效全局应用，并不能单一选择应用
 Name: 禁用通知下拉手势
 Author: SeaWind
@@ -270,54 +270,54 @@ Author: SeaWind
 Package: com.ixoo.aaaaaa
 Architecture: iphoneos-arm
 Version: 1.0-1
-Section: iXoo-Tweaks
+Section: iXoo-公告123
 Maintainer: iXoo
 Depends: sudo
 Filename: ./debs/com.ixoo.aaaaaa_1.0-1_iphoneos-arm.deb
 Size: 1000
-MD5sum: d5eccb58476618b6b6c19d2966c6dd30
-SHA1: 537a203099fe377a1d02c01170fcc36cf8f80433
-SHA256: 89f2fae7fe07b1203e3250671848be7d23574d3180a1f96cc9b67c7d4438cd94
-SHA512: 4614a13fa10b3b06a3eca93c5e4452ba0b2320c6abb8d20ba1d3bc115c0f6bd3213287c9ec48fa836847bc4b826ef42072014c3c25904452210a5269f31e13dc
+MD5sum: dc3ccb37d532201386c847d206ec2ad6
+SHA1: 9e15551f04979bdcff765a48db575eb9a596fa03
+SHA256: 0d84dfce53fc7071b0418a5ec37d869f9be7448692573185454f27794d27737b
+SHA512: 0d215ecafef6bd0b0c3eb310cd603451bd721f29acc223d40db35bdcf7d64f41bab0472c63ca4a49ed28b80b3cc23b329f1da374d612090e5089058530535559
 Description: 自用搬运备份源【提示：本项目旨在学习，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
 Tag: cydia::commercial
-Name: IXoo-自用搬运公告
+Name: iXoo-自用搬运公告
 Author: iXoo
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 
 Package: com.ixoo.aaaaaa
 Architecture: iphoneos-arm64
 Version: 1.0-1
-Section: iXoo-Tweaks
+Section: iXoo-公告123
 Maintainer: iXoo
 Depends: sudo
 Filename: ./debs/com.ixoo.aaaaaa_1.0-1_iphoneos-arm64.deb
 Size: 1004
-MD5sum: d0ef44d940e29f1e7279bdcbcb2a0afe
-SHA1: 5757fc8e59689bfc6f8f56a5cb563cf02e088fee
-SHA256: d01383780c745b2e6ad10c62db4f3eedd2a9542499db76ee59adbdf4d6bf216c
-SHA512: a4afcc500d3d8c59e911678766726024d9a5a5d0d07424f9f9ac1041eb72fafa1018ddf1b570dafec270d5e958ed4e0cb45be587f93a3b6a66471cd7a81ed02f
+MD5sum: 17b0e378b04fa6e68c4c925f18d63299
+SHA1: e872e8049930f55d9b601ed8b843aa2a807b5704
+SHA256: 70382d8cb72d7cc56ecf4678d12ac0273a808a5a239cbe994893c1fcdae23178
+SHA512: 34c1d0eecc682c30463960b62772235bb667fe62462b2ea858f664f1630545a0c5a63218df7bf6720f2c41ca70c6777c9a01dccf82684186d993c08b81801333
 Description: 自用搬运备份源【提示：本项目旨在学习，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
 Tag: cydia::commercial
-Name: IXoo-自用搬运公告
+Name: iXoo-自用搬运公告
 Author: iXoo
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 
 Package: com.ixoo.aaaaaa
 Architecture: iphoneos-arm64e
 Version: 1.0-1
-Section: iXoo-Tweaks
+Section: iXoo-公告123
 Maintainer: iXoo
 Depends: sudo
 Filename: ./debs/com.ixoo.aaaaaa_1.0-1_iphoneos-arm64e.deb
 Size: 1004
-MD5sum: acc5f059c0c3c34104bf2a73a8c9128b
-SHA1: 789641e7e9b1ac723c3669a79bcab5a8f73f4faa
-SHA256: fc7e62ee9dcd94e6963d934b9870814ebc532ffa96eee76cc16e9cb3971d3902
-SHA512: 84bfcbd8871da7adb52a35eec15ea5579ef3d67f4d2d13c16442dc8036d584cf90ef0ffb18f10ce4930c8c5a6c5bc43c0de860715a489be0e6149c2e365fcad5
+MD5sum: 1930dc896b8d1c7a66ca09ebbdb4743d
+SHA1: bd8c7554745711e7e92687041067f5a0f3b6f02f
+SHA256: 4f594586b97595155ddfb59c769ec57ea545df3137b6fadad4657f04c8a571f3
+SHA512: 294b6b0e55ebac162bbcc7b588d8261e2f9519002fc081333031188a462ee0f88d3b9bf0fae2dc520c862437d73a58b61d769188548d3da582e8e9a114cd504a
 Description: 自用搬运备份源【提示：本项目旨在学习，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
 Tag: cydia::commercial
-Name: IXoo-自用搬运公告
+Name: iXoo-自用搬运公告
 Author: iXoo
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 
@@ -329,11 +329,11 @@ Maintainer: iXoo
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Filename: ./debs/com.ixoo.touchvis_2.8-1_iphoneos-arm64e.deb
-Size: 711580
-MD5sum: f03ddffcaa51a574d75bd577914a5752
-SHA1: a6e81aded9568c4e60caa7bbdeee1849ae991555
-SHA256: a934fb88e33a57a13000f6fd124ed053cf4210e86e6af1b27975b39788a06a7d
-SHA512: 9b7af10d3a6166ca26195bf164d5415d782316569563b0d46870dcfcfcba9956dfadb44d4c7b9b3d5a4d83b164119281491d61c6eace0e20e92ab469da3ac277
+Size: 711120
+MD5sum: d6bd0da2519e2553cbe12eadf7e0d81c
+SHA1: 67da5697d25e1deae2082663d045d8c22a9776a8
+SHA256: b4322af761914da72a2dca7e6096d93fa4cb187787f170d082c00fa6356e8437
+SHA512: f00c11219e6fb633c07bb3f86191271e5afa5fd670878530c999d15d4a4912de29fcddbc3eb7cfc63e86d6834286a639a5f789a5fa689c723fde6e4787917308
 Description: Displays your touch interactions! 显示触摸屏幕的轨迹；很酷炫，很丝滑的一个插件，并附带拖尾效果。主要作用:做教程时候让别人知道你点的哪里。
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/touchvis/js.json
 Icon: https://axs66.github.io/pro/icon/TVZ.png
@@ -347,11 +347,11 @@ Section: iXoo-Tweaks
 Maintainer: Axs
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
 Filename: ./debs/com.mtac.vitreux_1.4_iphoneos-arm64.deb
-Size: 121804
-MD5sum: b2e349cbfd430c8cdfbf0c1702505422
-SHA1: c3a65d8012aade90eb354861b6e5f2b9691fb493
-SHA256: 77ec2b4e09f161ae785c3fbcfb272cd4923b2cfc529eb9bdec83dfdc13e49209
-SHA512: acf0b1f3d7fb87754e82fe7b090b6f0c4ca9851ac410eb8d297f43d82b2e2b747462887ef65eb6eb3def2f71c2b174e01bbe6d34d9dfd01f8fefb5fad53db715
+Size: 121372
+MD5sum: e78c16f27385391d5d13dfaba548d25a
+SHA1: 1e3e68643dfb15d1f84452e25386ca52fee9d0ce
+SHA256: df3ff38f8630941cb4a206146e60160997b4f364a7899f01f731ebe4a0192430
+SHA512: fb54a70953fb735ddf77a3ede571bcf194966a4f8c1e8101697504b46ad3673babfd04d754791a20f72d7a7987c59a9f1e55451a4caff3e45a50ffc04f0e5834
 Description:
  A recreation of Liquid Glass
    * 1.主打 iOS 26 系统液态玻璃设计。
@@ -373,11 +373,11 @@ Maintainer: Axs
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
 Filename: ./debs/com.mtac.vitreux_1.4_iphoneos-arm64e.deb
-Size: 126640
-MD5sum: ebebf8e64854e0d90531f2821896eb95
-SHA1: 38c99aa832e843c9ec29b4ca3273361385ee921a
-SHA256: 68d713edf0a305a8ba2b0f1cb48b78d04f6cdf8d11e180fb1e372b6fb844c5e5
-SHA512: aee0e10ae4d932bcf682682c813c8a951b169ec23f2ef826af2e4a0de0943fe821b88a950d5eac5c8268689cda5277127955c5a13c7d566d9bc9a6c05103c99c
+Size: 126788
+MD5sum: ba51ff23201ca157fbe4c11952688ac1
+SHA1: 1f2d5397b7251e91c401cf1168b3edc9a239fda0
+SHA256: 0d88446e13e925ffa5c3e19ee24fad1fdb59da5dec888329f42f0d6e47b36ada
+SHA512: b21f7bde7c8e6d173c00bacff461313e6fab3ca1b507e30573a8d4cc05536cc906c624c91f0fc60cd1601bc749738fb6235f53516b254468f902a726f855c073
 Description:
  A recreation of Liquid Glass
    * 1.主打 iOS 26 系统液态玻璃设计。
@@ -398,11 +398,11 @@ Section: iXoo-Tweaks
 Maintainer: Nets
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Filename: ./debs/com.netskao.appdata_1.4.6_iphoneos-arm64.deb
-Size: 1500716
-MD5sum: 4b58bc9e99a9783adb15902565899bfd
-SHA1: 4c70729ecd178595be2376be33399eb2226c67bc
-SHA256: 0184cfcb314dd32fbdea4080705b2c757c8326453d032f759f3fbc8b5c3ca9c5
-SHA512: 0fecc110d1266512321c74d668aabc2d894e7225602d6320bc0e5c854f53ce55297447acde14b6015d7bc1ae328cd0080ac4b179cc6c755f0b62552c2c830927
+Size: 1499776
+MD5sum: 52debd266d796c18676302f6ea11b6cf
+SHA1: a510993580573cea1877a46d6b3ac467fb195d5e
+SHA256: 4bd3e7372a92a76e92c89677530b3f77477b9467381854077d03611129589365
+SHA512: b01bc59828282d7a7fe1684e25fd96397a0520cfee9de1ba383b1acbe29a03f3cfebf4b8fa03d68d2504aa35e4ee26bb6b8c428546b0f89551d183fafcbf891a
 Description: View & Manage Applications Data from your Home Screen
 SileoDepiction: https://jailrepo.initnil.com/api?Package=com.netskao.appdata
 Name: AppData
@@ -417,11 +417,11 @@ Maintainer: Nets
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Filename: ./debs/com.netskao.appdata_1.4.6_iphoneos-arm64e.deb
-Size: 1503552
-MD5sum: e2a7dbe89d90603ef900797a6169965f
-SHA1: e3ede11fafb37d3e498ce0caa318816ed9a685a9
-SHA256: 7dbcec303f9f44dcf07f76c8ada6835e7854fdf0d0c5ada787fca5f97c19b41a
-SHA512: d0fb5b62b1487d5d4d7186b2902caa626c1b04e4c766c9aefa4792f2612047cff124db119d0c11071922eafe9d27da057d40c0bbbcfcbebb2844e0a94a3f506d
+Size: 1504044
+MD5sum: 695a2ffe8589f3246b3ec3ad555cd836
+SHA1: 7fffc3e500e540f1fffaaf4055a33c6dbc1020bd
+SHA256: f9d17f99e5f748bfa705d0228a124e538da424471f9a747363c29894fe352843
+SHA512: 1512915aea8ca3720c22f53d41c6741c313e8e9b8453b5816c3b21ebe6a5cbccde7d15ab11ece2fb4fcb685451629aa1efab2ff159da7f11ca83c0edbe09adbf
 Description: View & Manage Applications Data from your Home Screen
 SileoDepiction: https://jailrepo.initnil.com/api?Package=com.netskao.appdata
 Name: AppData
@@ -436,11 +436,11 @@ Maintainer: Nets
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Filename: ./debs/com.netskao.appdata_1.4.7_iphoneos-arm64e.deb
-Size: 1502528
-MD5sum: e677a6596e301a58b2124d4138e2fa3e
-SHA1: 3d31779c3b051572a0ffba2f94cb9ef718808f86
-SHA256: 4f77eb071008a3424f1e59b3d12823d04f3251c1e2b5e0b9c014d35caf08e980
-SHA512: c9e900c99198adab4a6dac0ef0523d0f1c7761e682093201833b92a3399cb0b264e4ddb2e73f9198883708271476841de1b972d8f4ba12dbcdae3cf21d592209
+Size: 1501260
+MD5sum: d0d346aec8d8fdf7f06fc5e1f1c3134d
+SHA1: 3fa55c3a2495a9d182ad33c3e1941f9b458eadbf
+SHA256: 48679e8591da4d9e7ceccd6e2f70cca5347c7caecb2591e8bd2381e00b26b6ba
+SHA512: e09b97f0a61f19732c062136247c7dbd4e0f384a5f686550f073d60752aa178b31c8f578d034135850f0daf41601d94d779cb1afbc7336128c79f2fc5e1eaddf
 Description: View & Manage Applications Data from your Home Screen
 SileoDepiction: https://jailrepo.initnil.com/api?Package=com.netskao.appdata
 Name: AppData
@@ -455,15 +455,15 @@ Maintainer: sunshinesong
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
 Filename: ./debs/com.sunshinesong.split-view-pro_1.1.5_iphoneos-arm64e-RootHide.deb
-Size: 6887276
-MD5sum: 42ce0f4ee847556c7cc00a52a16fe34e
-SHA1: cc97e763f7dabb20a5d3e8d090e886717e49e85d
-SHA256: c7c6d7065657a41516f676c6a9c7ea6798bbe33b07db0fa6ce822c2fbeb8b51f
-SHA512: dff3a43ab0b4c2d007951baed8bf9012c9a4c12bcf889bdc1a9adcd58f91d6b9b54b088d4741ed55a614bdb4740cff40bb85502ae3c60d3de34eaa2d791c3f95
+Size: 6887180
+MD5sum: c4ee3da17f8414979b9385faca1b429d
+SHA1: 12b601e0d639419e488cb472b3892fa58cf22fb9
+SHA256: 08a0a1fa78d6ebb90a945aac3ef4cd239f76931e0636a95b36219d6dc2e219e2
+SHA512: 2653bc2909216433cb056bc4768975d1f3b2152cb25666498ba75ebfc3de5c64b0271b980bdb5ac3bc437d77627854d2898bc0e5d38e43fedfdb24a0ee050faa
 Description: 分屏，不必太复杂，一切从简即可。
 Author: sunshinesong
 TS: sp-sss
-Name: Split-view-pro
+Name: split-view-pro
 
 Package: com.ixoo.CallAssist11
 Architecture: iphoneos-arm
@@ -473,11 +473,11 @@ Section: iXoo-Tweaks
 Maintainer: xybp888 <8657156@qq.com>
 Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader,com.rpetrich.rocketbootstrap (>= 1.0.10~beta1)
 Filename: ./debs/com.xybp888.CallAssist11_2.1-2_iphoneos-arm.deb
-Size: 379112
-MD5sum: f335e9b4c562e4dbd3a361517fc8ec86
-SHA1: e14b571680ec67fecf77308c342c29f7b426b07f
-SHA256: 6c363983c537e22782edc308ef5fb857a5cfebe7425cb00739b84a7fba91693a
-SHA512: aab1c24e268c565662cee953e34931b6734788b4ac41c527d489e89061285d6ba98a572fa296f17b2b8802121b38d3fbf99dbddc4af07731c484cbf1d3144c6d
+Size: 379412
+MD5sum: 3039d593a2109408b768edf855427f8f
+SHA1: 3a8898b5a5971192aba579592aed1728de0906fb
+SHA256: d3764f899b42f147e9281e2c4b6ebfdbbaac345c7660433da047f3c4e6da0749
+SHA512: 9121816fe1c985d51b035e501cc39e43a419b16400e0ebc00266490a0c001a1f423e16bb6884843b36bfcbe0a14c17da06d6c4315af62a32e08dcf5b9142ab9a
 Description: 电话助手授权版本,原生T9拨号,来去电,短信归属地,接通振动,黑名单拦截,流量显示,锁屏集成一身的强大插件
 Name: 电话助手iOS11-正式版
 Author: xybp888 <8657156@qq.com>
@@ -493,11 +493,11 @@ Section: iXoo-Tweaks
 Maintainer: xybp888
 Depends: firmware (>= 15.0), preferenceloader,com.opa334.libsandy
 Filename: ./debs/com.xybp888.callassist15.fugu15_2.4.9_iphoneos-arm64.deb
-Size: 2839820
-MD5sum: 10462c7022648cf659c5cfb3256f5970
-SHA1: 68c5c2210b905ac9417fc398371145e15e7c7c5c
-SHA256: 2c594c2394aec614b353a887dbba6aa91e17b3c088101ddac3487c8e4f923456
-SHA512: d316ddf0107c64166dbd6d973c09663fcd41dd7ce99dfd5cd750e45a26f6780aa6d630cff2feac06e87a30868bb435f423fd65683617a9743e8595f650ffcbf6
+Size: 2837832
+MD5sum: ddf7ce29da8511ddbda270630151aeaa
+SHA1: d7f20ed2d4aced557a1714d60448a09103ef83bc
+SHA256: 4f575b776a2b11934d1c7744923089f652e15f657427876b9a116a4524f729ce
+SHA512: 139d655d67d455cddc4c12a7eb298e1bbc0827e73e125d13421703a06f1c2adb1721331ebbe39c132f40aa24d2f954f15148a6488fcd4cd800b0e658221eeeaf
 Description: 电话助手授权版本,通话录音,通话记录合并,T9双卡选卡拨号键盘,短信双卡选卡,来去电归属地,黑名单,骚扰拦截,状态栏图标替换,时间格式修改,常用小功能等强大插件
 Name: 电话助手iOS15-正式版
 Author: xybp888
@@ -512,11 +512,11 @@ Section: iXoo-Tweaks
 Maintainer: xybp888
 Depends: firmware (>= 16.0), preferenceloader, com.opa334.libsandy
 Filename: ./debs/com.xybp888.callassist16.dopamine.roothide_2.3.2_iphoneos-arm64e.deb
-Size: 2998876
-MD5sum: 749a91528df8ef1a1557dc08f870a7d9
-SHA1: 4037580837a877826e33345e12a793c786661437
-SHA256: 87c63ca9864b7ae840d1d7a7d6628922aecdd10e5ea7e367f960aec8dc3c80b7
-SHA512: 783554d8e2c86398a9e37fbf1ade274fd3e15bd59f3bc0c30bf653653f9be17a79e34972e947d0b3cad1e66b004fc8cc85fc9693c6fdd74a47cd7898c8524259
+Size: 2998632
+MD5sum: 47d4b11914efa03203eb916e0d834829
+SHA1: 57be60ba6979691facf73b57c45ee4e65b79364b
+SHA256: 20e6bfa928f9557eb9f6e44c366c0692ba0908e00d8fde448350287099c2ca10
+SHA512: 275fa891cb48dd04c33d1b0eeb5be654dc16b37d63dae58142a3dc9a7527ff70d6fedd5c90a977cd6069e97a7bec2fec579fdcd42894774aa524b1e527bba0df
 Description: 电话助手授权版本,通话录音,通话记录合并,T9双卡选卡拨号键盘,短信双卡选卡,来去电归属地,黑名单,骚扰拦截,状态栏图标替换,时间格式修改,常用小功能等强大插件
 Name: 电话助手iOS16-正式版
 Author: xybp888
@@ -531,11 +531,11 @@ Section: iXoo-Tweaks
 Maintainer: xybp888
 Depends: firmware (>= 15.0), preferenceloader, com.opa334.libsandy
 Filename: ./debs/com.xybp888.callassist16.dopamine_2.3.2_iphoneos-arm64.deb
-Size: 3023416
-MD5sum: 7b4ed3021826d3c87243e31e391ef2ac
-SHA1: 4be8bcaba9d8b9fe15ddd957eb41ee6919c85ff9
-SHA256: afc31da6d47ed8e071c9d0bee4f518f97d25fd7474d0a50d17abe2f7b086b493
-SHA512: 282c3a25cd70aa7fe6fded39fbf93c33a529c45ba5a09d0a5f8bb6236ef8da14274ab777f1dad60cdeed502964f74ec7d18cdfefda7a723bb4bf140298e31a63
+Size: 3023384
+MD5sum: 1aaf9eafec3525620f156e208a627ff6
+SHA1: c6fdf7b4503fe1b7f80293442c87a5e56aefb65a
+SHA256: c7014d23ba01d4281768cbd365ca4ac125138f81a0b01301c6d35fc3c6096d2b
+SHA512: 70d301856635412c4030db222c1d60d2ff4cccc272d8eb4b247eb59a597b52f62f13b5bb598adedd41bb3e4601e68fb0efbb1718e48ebf5ed74c1e127331dc37
 Description: 电话助手授权版本,通话录音,通话记录合并,T9双卡选卡拨号键盘,短信双卡选卡,来去电归属地,黑名单,骚扰拦截,状态栏图标替换,时间格式修改,常用小功能等强大插件
 Name: 电话助手iOS16-正式版
 Author: xybp888
@@ -550,12 +550,12 @@ Maintainer: zqbb
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate
 Filename: ./debs/自动模拟aemuloauto.0.0.1_RootHide.deb
-Size: 4068
-MD5sum: 3ec867151ee6996003f8610eb785e7d3
-SHA1: ae43abadde0003e81d4fb00fdea5908e8e74dee5
-SHA256: 0596a5927cf607c02361e2a4f771f0bd2a1db432f04054d4938b96b070c1b553
-SHA512: d05bf46684af3357388ec11fc6f9d00229a58a9b49cfc061f8d7a24eb3752b0e20a5523035730faa56cb33c874d63ebc9a03c5f0e941bc9d1f3a71e6ded0585f
+Size: 4072
+MD5sum: ff57366da012067accaabe6850e1de2f
+SHA1: 30945c2ac6eea863172a863be69d6c4206138e32
+SHA256: 0fe053b097040e0efc11dec786bd1d506da637bed64b6bd312a7a965ba74a77a
+SHA512: a4015730120bf823e1726b14120eab5bf438d408f9b883901745faaeb350f9903018f409b40e8e1b106ed143efb857f1b57fdd76b108a52359a4f653d53bd545
 Description: 先在模拟界面保存标签!
-Name: Aemulo自动模拟
+Name: aemulo自动模拟
 Author: zqbb
 SileoDepiction: https://rootless.002599.xyz/web/zp.aemuloauto.rootless
