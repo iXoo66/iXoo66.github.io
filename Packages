@@ -142,6 +142,24 @@ Author: leftyfl1p
 Sponsor: 搬运工
 Icon: https://chinesebuilding.club/pic/cydia.png
 
+Package: com.ixoo.roothide
+Architecture: iphoneos-arm64e
+Version: 1.0-12
+Section: iXoo-Tweaks
+Maintainer: iXoo
+Depends: sudo
+Filename: ./debs/claude.code.roothide_1.0-12_iphoneos-arm64e.deb
+Size: 1012
+MD5sum: db16c2348e2de6ded584ac3c456ff575
+SHA1: d49cf39decbd25f172cc134f7cb627aeeb40429d
+SHA256: da89ddaf963e8f681e4756c338c1b4908afadce3966117186fc76dfb708e9bca
+SHA512: 70c8c434f63a40c5dbbc13f8672e392598bf5fdcb9655448b66e9c17177b1034a78227904299b5f247b37ee6d85c0f5e142e9cbaaf4d30d5ec96759b50f72462
+Description: 自用搬运备份源【提示：本项目旨在学习，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Tag: cydia::commercial
+Name: Claude Code Roothide
+Author: iXoo
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
 Package: com.ixoo.appdata
 Architecture: iphoneos-arm64e
 Version: 1.5.0-1
