@@ -197,44 +197,6 @@ Name: Hello AppData
 Author: Fouad Raheb <support@fouadraheb.com>
 SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.appdata
 
-Package: com.ixoo.callassist15.fugu15
-Architecture: iphoneos-arm64
-Version: 2.4.9
-Priority: optional
-Section: iXoo-Tweaks
-Maintainer: xybp888
-Depends: firmware (>= 15.0), preferenceloader,com.opa334.libsandy
-Filename: ./debs/com.ixoo.callassist15.fugu15_2.4.9_iphoneos-arm64.deb
-Size: 2840288
-MD5sum: d022e8e91ff689d1bbd8b323c1c9b765
-SHA1: 3ba43da086999fd48ead735bad4a2ea1bb7281d6
-SHA256: 8d83e19f1d8cda6a2ca94ea0a8c84649c5aae5b23730e75bb10ce8443bc06d15
-SHA512: 218d59e1818e266ffee11442fe853c5c83e0c200aa254235712ddf8e65a203e2783e58997a3047a91eb4649ebcc7473883e7da5ae92a7441a3b6312efd43b806
-Description: 电话助手授权版本,通话录音,通话记录合并,T9双卡选卡拨号键盘,短信双卡选卡,来去电归属地,黑名单,骚扰拦截,状态栏图标替换,时间格式修改,常用小功能等强大插件
-Name: 电话助手iOS15-正式版
-Author: xybp888
-Depiction: https://apt.htv123.com/view/604
-SileoDepiction: https://apt.htv123.com/sileo/604
-
-Package: com.ixoo.callassist16.dopamine
-Architecture: iphoneos-arm64e
-Version: 2.3.2
-Priority: optional
-Section: iXoo-Tweaks
-Maintainer: xybp888
-Depends: firmware (>= 16.0), preferenceloader, com.opa334.libsandy
-Filename: ./debs/com.ixoo.callassist16.dopamine.roothide_2.3.2_iphoneos-arm64e.deb
-Size: 2999644
-MD5sum: dce3656352f741aa61d1151eeb3912ab
-SHA1: 3af8d98a67027d5298cfefeba8eec53d5d3aea42
-SHA256: 78a6c9cabf5311467165b1c312e8be39a8db1d42e97711b98ebf32f57da94e27
-SHA512: 555db0d0915a88f06e7beac9e1f16bcc4f065c0c2aa7de6013b4dd248f8364558d5633e2f1bab81a1a002e0a654a7adc1be204ce9b2e25efb9d8dc0bd5b585c2
-Description: 电话助手授权版本,通话录音,通话记录合并,T9双卡选卡拨号键盘,短信双卡选卡,来去电归属地,黑名单,骚扰拦截,状态栏图标替换,时间格式修改,常用小功能等强大插件
-Name: 电话助手iOS16-正式版
-Author: xybp888
-Depiction: https://apt.htv123.com/view/606
-SileoDepiction: https://apt.htv123.com/sileo/606
-
 Package: com.ixoo.carbridge15
 Architecture: iphoneos-arm64
 Version: 2.0.15
