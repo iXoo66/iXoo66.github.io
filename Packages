@@ -180,23 +180,6 @@ Name: AppData
 Author: Fouad Raheb
 Markdowndescription: View & Manage Applications Data from your Home Screen<br><br>• v1.4.7: Fix app failed to downgrade<br><br>• v1.4.6: Fix iOS15 crash issues<br><br>• v1.4.5: Modify the API interface for obtaining the downgraded version number of an application
 
-Package: com.ixoo.appdata
-Architecture: iphoneos-arm64e
-Version: 1.5.0-1
-Section: iXoo-Tweaks
-Maintainer: zqbb
-Depends: firmware (>= 15.0), mobilesubstrate
-Filename: ./debs/com.ixoo.appdata_1.5.0-1_iphoneos-arm64e.deb
-Size: 76176
-MD5sum: 3489f823ff0cdb8fc53e5aa66fe5965e
-SHA1: eff5d599c1cb840f387c4902c41b3074ebd20e79
-SHA256: f452485d078cd972f617825f94fc36520d6650272d81d3f37f030bd333fce180
-SHA512: 1f332498e7ac9f35a214fd5a89c68d05c75cfbb444078fe5bb65498b914dfb03b0158fc2ce7b92ce9b7018a02921e2cbf62de2a68702be58ca3882646ecccae6
-Description: View & Manage Applications Data from your Home Screen
-Name: Hello AppData
-Author: Fouad Raheb <support@fouadraheb.com>
-SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.appdata
-
 Package: com.ixoo.carbridge15
 Architecture: iphoneos-arm64
 Version: 2.0.15
