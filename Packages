@@ -105,7 +105,7 @@ Author: Dcsyhi
 Sponsor: 搬运工
 Icon: https://chinesebuilding.club/pic/cydia.png
 
-Package: com.ixoo.carbridge15-rootless
+Package: com.ixoo.carbridge15
 Architecture: iphoneos-arm64
 Version: 2.0.15
 Section: iXoo-Tweaks
@@ -123,7 +123,7 @@ Author: leftyfl1p
 Sponsor: 搬运工
 Icon: https://chinesebuilding.club/pic/cydia.png
 
-Package: com.ixoo.carbridge15-rootless
+Package: com.ixoo.carbridge15
 Architecture: iphoneos-arm64e
 Version: 2.0.15
 Section: iXoo-Tweaks
