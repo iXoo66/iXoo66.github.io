@@ -63,7 +63,7 @@ SHA1: f892df8f5b06a99ad6ac95931dab62c52a9120fe
 SHA256: 00c54db0145422cf88cf5ece98a2d5e251b4440c57f9fa8fb7e9019cc25d52ec
 SHA512: b462cee215d7c7627e6610ab28f4fb9071602660947db6556e6638271be32fa1ef5d5cffc070edf35e7ce80dc5a484b3744fb872b22f2bf1978be91d27a5945e
 Description: 这是一款免费的NFC插件，并且是多巴胺越狱能用的，上架的目的是很多用户不知道英文插件是什么作用，特此说明。付费的aemulo多的一个功能就是可以添加到钱包里，不用每次打开软件才能刷门禁！其他的和这个免费版没啥区别，觉得不错的小伙们可以支持作者付费购买！
-Name: Aemulo (nfc)
+Name: Aemulo (NFC)
 Author: Amy While
 Sponsor: 搬运工
 Icon: https://chinesebuilding.club/pic/cydia.png
@@ -105,7 +105,7 @@ Author: Dcsyhi
 Sponsor: 搬运工
 Icon: https://chinesebuilding.club/pic/cydia.png
 
-Package: com.ixoo.carbridge15
+Package: com.ixoo.carbridge15-rootless
 Architecture: iphoneos-arm64
 Version: 2.0.15
 Section: iXoo-Tweaks
@@ -118,12 +118,12 @@ SHA1: c93816284c54801bea1fae04ae27b7f2764baefc
 SHA256: ae45957aa2c1c00eb49ccbe92284345a24f009f67282d66cadc2362b5ccd746d
 SHA512: 6215be1d327cf0c543e763a293b07531936f415c7abc1db8f935465424c996729b4dd1938c765b668ed70ff84c67a90c032577eacf3d6f0cafcd4fa22bde2259
 Description: Open any app in CarPlay!此版为破解版，让不支持互联的软件显示在车机上！仅供群友尝鮮，正版9.9美元，好像是有点贵，但是有能力的请支持正版！使用中有问题可以加群反馈，等待更新，也可直接入手正版哈，搬运工源只为免费搬运！旧版本在搬运工群文件里，新版本有问题的话，请手动降级回旧版本！不支持半越狱！
-Name: Carbridge
+Name: CarBridge
 Author: leftyfl1p
 Sponsor: 搬运工
 Icon: https://chinesebuilding.club/pic/cydia.png
 
-Package: com.ixoo.carbridge15
+Package: com.ixoo.carbridge15-rootless
 Architecture: iphoneos-arm64e
 Version: 2.0.15
 Section: iXoo-Tweaks
@@ -137,7 +137,7 @@ SHA1: a4d20d0d54c01e381305e6bb60c14b6543a4c57d
 SHA256: 18a8ebe26ebfcbe5fa7ae5ca0b544ea0d85ed63c46c33fb6e8eead98c76be872
 SHA512: 279c3e05d36957768e1f7e370ff948ff922d134f35f4adf3fe8bf99d49a8c70d1c1f44b545f36aca1c5458efc97a5a3cc98a227ea5337da72d7d7606a5d260e3
 Description: Open any app in CarPlay!此版为破解版，让不支持互联的软件显示在车机上！仅供群友尝鮮，正版9.9美元，好像是有点贵，但是有能力的请支持正版！使用中有问题可以加群反馈，等待更新，也可直接入手正版哈，搬运工源只为免费搬运！旧版本在搬运工群文件里，新版本有问题的话，请手动降级回旧版本！不支持半越狱！
-Name: Carbridge
+Name: CarBridge
 Author: leftyfl1p
 Sponsor: 搬运工
 Icon: https://chinesebuilding.club/pic/cydia.png
@@ -173,7 +173,7 @@ SHA1: a4a008d5b9a4cb2913715f4132811f01a4bbcebe
 SHA256: 7077ddcdec3ea3aae05b9f7b06edcdcd821b225d62b4fc83e16f8692743b5249
 SHA512: 9bf0fff37167619ce57f8986af8ae526f91583b30f0c484374ab80fef6a377e6eba2b3206148be55ae5e148c1d0fc08bd9774d3996a70fc48266e07ade70417c
 Description: View & Manage Applications Data from your Home Screen
-Name: Hello Appdata
+Name: Hello AppData
 Author: Fouad Raheb <support@fouadraheb.com>
 SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.appdata
 
@@ -212,7 +212,7 @@ SHA512: a3a748ec0a199cd374bc7f928282d508cb3ed018425072e886173c126ca9714e9b9514ab
 Description: 免费的分屏插件，不必太复杂，一切从简即可。
 Author: A
 TS: sp-sss
-Name: Svp分屏独立版
+Name: SVP分屏独立版
 Icon: https://axs66.github.io/pro/icon/svp.png
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/split-view-pro/js.json
 
@@ -266,7 +266,7 @@ SHA1: 3cfe0d47211f9c772da0cba4d9fb99f52b7c57f8
 SHA256: 23ff3eec71c4eb4fe45934e63a172be38dec424b6b6846d656070df270e89205
 SHA512: 2491b847908f6c6efa51d711fde2d92711555625df19e0717f4d4f0da756ff6fbc59f0cb93f4842d5723287756e7e0f61b62eadc0493a65d3942a6db1a1b62fc
 Description: 真正的iOS系统清理和管理实用程序，默认简体中文，破解版。
-Name: Icleaner Pro
+Name: iCleaner Pro
 Author: Ivano Bilenchi
 
 Package: com.iXoo.JYSS
@@ -299,7 +299,7 @@ SHA256: cf705fa21f2da1a36876a6ad0c525d984089831c0a3d9d4d12a174495330f653
 SHA512: cc89f373348ef317e28bb5813fb6cc65693686a8f386a90d58c36c0a2761676f23119e8944cd5ba65d3d936dc74972657dd3e4f88ce6a4018f8dda1c2954f7bf
 Description: 自用搬运备份源【提示：本项目旨在学习，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
 Tag: cydia::commercial
-Name: Ixoo-自用搬运公告
+Name: iXoo-自用搬运公告
 Author: iXoo
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 
@@ -317,7 +317,7 @@ SHA256: 5451b9f600a6ff3a6489d4a0dc13cd11c4280afdf2eb5c45ce7fa5ae64f34135
 SHA512: 82504353474dbd7d6d36c67e3323cee55175da34912f336d8e908ffd13cda26d392a96c8acada8a1522be36a7c48c4205f78db5200a6b48a42ca75000f8515eb
 Description: 自用搬运备份源【提示：本项目旨在学习，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
 Tag: cydia::commercial
-Name: Ixoo-自用搬运公告
+Name: iXoo-自用搬运公告
 Author: iXoo
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 
@@ -335,7 +335,7 @@ SHA256: 181869f812532a5fa1d73b0ff86361c6920707352b1be21b7efb5bdd828f61c3
 SHA512: 4275ec6dcb7382c9854ad1f017d66eaf5998905ea2039f406909cac8d104b494852123209c6465b34f13d426fbd7e270cdaa4b98f76ecf9bcb22f02ce23e3e7e
 Description: 自用搬运备份源【提示：本项目旨在学习，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
 Tag: cydia::commercial
-Name: Ixoo-自用搬运公告
+Name: iXoo-自用搬运公告
 Author: iXoo
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 
@@ -355,7 +355,7 @@ SHA512: f405f41c7987c110ed56b8ed30f8a48f1bb05bff2502f7760c846d442569ec3971374477
 Description: Displays your touch interactions! 显示触摸屏幕的轨迹；很酷炫，很丝滑的一个插件，并附带拖尾效果。主要作用:做教程时候让别人知道你点的哪里。
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/touchvis/js.json
 Icon: https://axs66.github.io/pro/icon/TVZ.png
-Name: Touch-viz触摸轨迹
+Name: Touch-Viz触摸轨迹
 Author: Lessica
 
 Package: com.ixoo.vitreux
@@ -423,7 +423,7 @@ SHA256: b856002e25279a46f09a08e5a2fc6c85d2302094eb70ad1a31ccb879642bcdb4
 SHA512: dd3b2009f139f1898cf17f1909d80e3e0cd72ca143628b8d959486b051050d21e8e4f01cb3a53cf4845855c395bf15a20b85e0b9eb83402ae9e91d408fe73944
 Description: View & Manage Applications Data from your Home Screen
 SileoDepiction: https://jailrepo.initnil.com/api?Package=com.netskao.appdata
-Name: Appdata
+Name: AppData
 Author: Fouad Raheb
 Markdowndescription: View & Manage Applications Data from your Home Screen<br><br>• v1.4.6: Fix iOS15 crash issues<br><br>• v1.4.5: Modify the API interface for obtaining the downgraded version number of an application
 
@@ -442,7 +442,7 @@ SHA256: 231dae309efb9198ce8f0a4bfb0aff60b3bc551bc8c8ce8fc4e2bb8a8b969e38
 SHA512: c63b5bba4650fc2eb2540d0cf467f505de6a2a788edf774dc33d277963e79704995019846972d196694a2dbbf34bc152baafe63e5671cc43a33395e3674cd64f
 Description: View & Manage Applications Data from your Home Screen
 SileoDepiction: https://jailrepo.initnil.com/api?Package=com.netskao.appdata
-Name: Appdata
+Name: AppData
 Author: Fouad Raheb
 Markdowndescription: View & Manage Applications Data from your Home Screen<br><br>• v1.4.6: Fix iOS15 crash issues<br><br>• v1.4.5: Modify the API interface for obtaining the downgraded version number of an application
 
@@ -461,7 +461,7 @@ SHA256: afc0de1486d4b2d19aa498b0e482271ab450c2e185fca5cb4ce9abe3e24712b8
 SHA512: 110cecf3a1b2eacc323ccf18415a138eac78689a16b8f34e181b906709737dfe5e36f86b694f1be478cea7159ac3afe9e832b72c0a3778d006f3f11417ac49e0
 Description: View & Manage Applications Data from your Home Screen
 SileoDepiction: https://jailrepo.initnil.com/api?Package=com.netskao.appdata
-Name: Appdata
+Name: AppData
 Author: Fouad Raheb
 Markdowndescription: View & Manage Applications Data from your Home Screen<br><br>• v1.4.7: Fix app failed to downgrade<br><br>• v1.4.6: Fix iOS15 crash issues<br><br>• v1.4.5: Modify the API interface for obtaining the downgraded version number of an application
 
@@ -497,7 +497,7 @@ SHA1: bf9b9c64eb9db9fbc4c2b0da23b8e670106b7478
 SHA256: cfbc1978b0ab8bfc909304559720f139e09dbc69d9d0c64471db662de7bf34b8
 SHA512: 8970d07081917d3d3214a30176c730fda01ac9c40777cb40c9b566dcadab7fd2c17a819d87aa1825d532f434e5f8ea25f50e225ec60a8fd4d37d194dd9fd549c
 Description: 电话助手授权版本,原生T9拨号,来去电,短信归属地,接通振动,黑名单拦截,流量显示,锁屏集成一身的强大插件
-Name: 电话助手ios11-正式版
+Name: 电话助手iOS11-正式版
 Author: xybp888 <8657156@qq.com>
 Depiction: https://apt.htv123.com/view/11
 SileoDepiction: https://apt.htv123.com/sileo/11
@@ -517,7 +517,7 @@ SHA1: 75591b8612b66fd486aac6573895c9c0f09891d7
 SHA256: 1e60b3c1d91556fe7e4ab3684da4b2b72b8b54f637dbbcf687a87bd672e680c9
 SHA512: d179a695ca0ae5a807913aeb4a115495c075cf71d5f0a9d7c2f489aeb861bf65c6b88c1ef7ca21efe916a9fe400e56eca8c61537e9bdcb42e997505666aa64f8
 Description: 电话助手授权版本,通话录音,通话记录合并,T9双卡选卡拨号键盘,短信双卡选卡,来去电归属地,黑名单,骚扰拦截,状态栏图标替换,时间格式修改,常用小功能等强大插件
-Name: 电话助手ios15-正式版
+Name: 电话助手iOS15-正式版
 Author: xybp888
 Depiction: https://apt.htv123.com/view/604
 SileoDepiction: https://apt.htv123.com/sileo/604
@@ -536,7 +536,7 @@ SHA1: 87bd662c605ca06ec6dbb59b2b5ceb04f029b9ce
 SHA256: 50906302866be92447c39010cfbf53f06d1fd926b63ecacfaab30ba2a5ede2ba
 SHA512: 50b351a4a8b92d77c2335cec0f566860fd7330d3b1bfe5884a7db8721f551756c82e83fb0d7fe294f87c0d67c78fe91313720f9fd5cd4327a3d4a75173919ae4
 Description: 电话助手授权版本,通话录音,通话记录合并,T9双卡选卡拨号键盘,短信双卡选卡,来去电归属地,黑名单,骚扰拦截,状态栏图标替换,时间格式修改,常用小功能等强大插件
-Name: 电话助手ios16-正式版
+Name: 电话助手iOS16-正式版
 Author: xybp888
 Depiction: https://apt.htv123.com/view/606
 SileoDepiction: https://apt.htv123.com/sileo/606
@@ -555,12 +555,12 @@ SHA1: 1f942a16bc5f622c218bdbc9c3c7e55cb64e1811
 SHA256: 0efb560c4503a2de6c2c3b98c96a4fe45bd16d340b1f7b5c319ca90f5284e737
 SHA512: c4d20bc907f88b2fce1501957b72c5996e85f3b0123fef413c90372307b8a049623b7c26cd4e1fb51b99eda06a2eb631b5cae9eccf099a04405bcb517b1d0a91
 Description: 电话助手授权版本,通话录音,通话记录合并,T9双卡选卡拨号键盘,短信双卡选卡,来去电归属地,黑名单,骚扰拦截,状态栏图标替换,时间格式修改,常用小功能等强大插件
-Name: 电话助手ios16-正式版
+Name: 电话助手iOS16-正式版
 Author: xybp888
 Depiction: https://apt.htv123.com/view/607
 SileoDepiction: https://apt.htv123.com/sileo/607
 
-Package: com.ixoo
+Package: com.ixoo.rootless
 Architecture: iphoneos-arm64e
 Version: 0.0.1
 Section: iXoo-Tweaks
