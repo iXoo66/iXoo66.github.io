@@ -268,6 +268,25 @@ Description: 真正的iOS系统清理和管理实用程序，默认简体中文�
 Name: iCleaner Pro
 Author: Ivano Bilenchi
 
+Package: com.ixoo.kayoko
+Architecture: iphoneos-arm64e
+Version: 3.0
+Section: iXoo-Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/com.ixoo.kayoko_3.0_iphoneos-arm64e.deb
+Size: 134960
+MD5sum: c6cec0d3b233f4659c509507e9dbed94
+SHA1: 06adefc539de9d1842aa0a071e49c86b1a604f1f
+SHA256: dc33c78c849fb1b362ddf3469afdc75fb05de8f3d6e258bec2e54e9542204eb0
+SHA512: 9d9c1caa1f0d3db2dceb9eb15db951e120481eff8b1dad0ce211f9ab9f999e0434dc4daa974e32192997c64139f5510d361453f58550dc26fea15cf8d4fcf809
+Description: iOS版剪贴板管理器
+Name: Kayoko剪贴板
+Author: Alexandra Aurora Göttlicher
+Icon: https://axs66.github.io/pro/icon/kayoko.png
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/kayoko/js.json
+
 Package: com.ixoo.noredirect
 Architecture: iphoneos-arm64e
 Version: 1.9
