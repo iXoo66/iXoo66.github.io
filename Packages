@@ -306,6 +306,22 @@ Author: Lessica <82flex@gmail.com>
 Icon: https://axs66.github.io/pro/icon/noredirect.png
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
 
+Package: com.ixoo.powercuff
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: iXoo-Tweaks
+Maintainer: 刀刀源
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.ixoo.powercuff_1.1_iphoneos-arm64e.deb
+Size: 13496
+MD5sum: 37031688a98f702ad566f7b5fb7e21cd
+SHA1: 5833505413896b133591228e3614d98f1981043f
+SHA256: be7b7b14c21666565f300a4c21e04c1777f17757e35780c704aa4aeedc00169f
+SHA512: 0d7f99a2a5a42e086eb01cb26959954601ab50a3d517b3e6321e7ea4e670910f72dd59b65c9e4393e13b9476a476a508f8f70f61ac94e564528ff1d63723aff6
+Description: 节能插件，效果自测，重新编译。
+Name: Powercuff
+Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
+
 Package: com.ixoo.rootless
 Architecture: iphoneos-arm64e
 Version: 0.0.1
