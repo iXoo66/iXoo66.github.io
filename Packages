@@ -292,6 +292,23 @@ Description: 真正的iOS系统清理和管理实用程序，默认简体中文�
 Name: iCleaner Pro
 Author: Ivano Bilenchi
 
+Package: com.ixoo.insulation
+Architecture: iphoneos-arm64e
+Version: 0.1.31
+Section: iXoo-Tweaks
+Maintainer: doimty
+Depends: firmware (>= 15.0)
+Filename: ./debs/com.ixoo.insulation_0.1.31_iphoneos-arm64e.deb
+Size: 50484
+MD5sum: ba7d54dafc868c71c15a80f368776553
+SHA1: 07ba1db3759051948ed07814a3a95cc27d840e58
+SHA256: f9a0902073f9752f99b00dbb1426b5a9205cfa5682ef15021d0751f8db2b243a
+SHA512: e318fff335394524cdbf647e90a35d5ca8e526adecb4fc951c48b6d2cc5c43cdef974f3623feb15fa3b60a0a3a4bc9dab31b85f8719ad65e4bd0b3ca18a67e71
+Description: 解除温控，一切从简即可。代码来自开源项目：https://github.com/be-huge/insulation 进行简单维护
+Name: Insulation
+Author: be-huge & doimty
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
 Package: com.ixoo.kayoko
 Architecture: iphoneos-arm64e
 Version: 3.0
