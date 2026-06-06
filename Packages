@@ -459,6 +459,22 @@ Author: Lessica
 
 Package: com.ixoo.tweak
 Architecture: iphoneos-arm64e
+Version: 1.2.6
+Section: iXoo-Tweaks
+Maintainer: colorBlack
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.ixoo.tweak-roothide_1.2.6_iphoneos-arm64e.deb
+Size: 341840
+MD5sum: 5d194b4f43071b36a09bf0cb4fc6d19d
+SHA1: 4f3270d8f874ffd0e878bb71b0a8697ca93eb019
+SHA256: 22d069229a64c5544ccacd35a2d69e1d2d6baec8d6f0bc573a2c0c0274efbfa1
+SHA512: 8b00f8e4bbfa5b6a2d5153ba9daa78fd391727d3ac5ca428ab78d727816c8f599cd98f39f218879890e932284a58b90b93f48c18ad419d17e5b36dc987115e4c
+Description: 增强 iOS 原生墓碑机制。通过 Jetsam 优先级与内存阈值调整，防止系统杀后台应用，减少耗电发热。安全稳定，不干预进程状态。 感兴趣可以加 QQ 群。2059 28931
+Name: Necromancy
+Author: colorBlack
+
+Package: com.ixoo.tweak
+Architecture: iphoneos-arm64e
 Version: 1.0.4
 Section: iXoo-Tweaks
 Maintainer: colorBlack
