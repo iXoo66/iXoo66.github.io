@@ -508,6 +508,22 @@ Description: 增强 iOS 原生墓碑机制。通过 Jetsam 优先级与内存阈
 Name: Necromancy
 Author: colorBlack
 
+Package: com.ixoo.tweak
+Architecture: iphoneos-arm64e
+Version: 1.2.6
+Section: iXoo-Tweaks
+Maintainer: colorBlack
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.ixoo.tweak_1.2.6_iphoneos-arm64e.deb
+Size: 342372
+MD5sum: ea342b2478117c435f3b3daf2d73f620
+SHA1: 010bd272eadb73894beaa7e216e85f5e2b1e417d
+SHA256: 54a926e9926ed7c8c396010c7adffe95cd0d03192f3606e227cb4db0cdd8aa60
+SHA512: 3bafb9268c947711c937728537b2a6a44e668728b6b76173067d046bb1642478bdd5f6706f1daa3840b14f08a112069b0e299820d778f0dc37ca73e75e04a8b3
+Description: 增强 iOS 原生墓碑机制。通过 Jetsam 优先级与内存阈值调整，防止系统杀后台应用，减少耗电发热。安全稳定，不干预进程状态。 感兴趣可以加 QQ 群。2059 28931
+Name: Necromancy
+Author: colorBlack
+
 Package: com.ixoo.vitreux
 Architecture: iphoneos-arm64
 Version: 1.4
