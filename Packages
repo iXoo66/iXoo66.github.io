@@ -454,6 +454,38 @@ Author: be-huge & doimty
 
 Package: com.ixoo.insulation
 Architecture: iphoneos-arm64
+Version: 0.1.36.33
+Section: iXoo-Tweaks
+Maintainer: doimty
+Depends: firmware (>= 15.0)
+Filename: ./debs/com.ixoo.insulation_0.1.36.33_iphoneos-arm64.deb
+Size: 52768
+MD5sum: 8ac8f61f57edd7fc48d8ffdd56f91865
+SHA1: 7850d443342f635fe1842a87abf391c1ef1d3af5
+SHA256: d5e7e254b4aaf80057704156aacd3bcd343414d373a6707bf541d038c586a54f
+SHA512: 860c385caa85dcf939fb8e214eb0132012fcdfa798f41dddca46a47775185e36b910eb44f598be40711850c61b3235df76db1249e269d88cdca7a9715ed65516
+Description: 解除温控，一切从简即可。代码来自开源项目：https://github.com/be-huge/insulation 进行简单维护
+Name: insulation
+Author: be-huge & doimty
+
+Package: com.ixoo.insulation
+Architecture: iphoneos-arm64e
+Version: 0.1.36.33
+Section: iXoo-Tweaks
+Maintainer: doimty
+Depends: firmware (>= 15.0)
+Filename: ./debs/com.ixoo.insulation_0.1.36.33_iphoneos-arm64e.deb
+Size: 49944
+MD5sum: 36f812a094c71c299403657387b7c210
+SHA1: 2d1a5b6247f65c381bc4f3f9423e143147b41ac6
+SHA256: fd2485bf33aeed886b017eb33f61289dd409dcdcbbc6a6c7634bacd20bf364de
+SHA512: 61855f65ac8df63260a6c6e009964fd201352133ca1c546e671e68abdd65978fe5a1d890434b465139925ff262b10d6cb1d0097bc8e42d7b19f235729d451a9d
+Description: 解除温控，一切从简即可。代码来自开源项目：https://github.com/be-huge/insulation 进行简单维护
+Name: insulation
+Author: be-huge & doimty
+
+Package: com.ixoo.insulation
+Architecture: iphoneos-arm64
 Version: 0.1.36
 Section: iXoo-Tweaks
 Maintainer: doimty
@@ -481,6 +513,102 @@ SHA1: bcb604eea78b5e4d09e54c393af35ae6fecf2222
 SHA256: a455ddb620e4646393bb5d38893efb84159bdd748c045c7a40a8188f2008f162
 SHA512: eac086b0c4fdb452150dfdc66e6737db8c685f0bc0c8048a89b7f11612d3308516fea0169c36be578b7ee8122cfc24c76ec05211c6a366b9bec8ec92cfb784d7
 Description: 解除温控，一切从简即可。代码来自开源项目：https://github.com/be-huge/insulation 进行简单维护
+Name: insulation
+Author: be-huge & doimty
+
+Package: com.ixoo.insulation
+Architecture: iphoneos-arm64
+Version: 0.1.37
+Section: iXoo-Tweaks
+Maintainer: doimty
+Depends: firmware (>= 15.0)
+Filename: ./debs/com.ixoo.insulation_0.1.37_iphoneos-arm64.deb
+Size: 65024
+MD5sum: 2529772fe5c2a17714e700cf9c578742
+SHA1: ce2d1129046ff6cf6c7cb2c4546e794036692ff8
+SHA256: 265ce301fe97b7f0f5acbbad923b9ca7a947959b0776865132e86afa0dcbc4dd
+SHA512: f2e7fdf8f7ae1ae7c6340bd572e668d4e92c7c06da62105a08b9f0e856224fce690da0f9cc49ebe6a18bb49624d4a52749a6d2589ee0471bbb4f0f7ad4eeff34
+Description: 解除温控，一切从简即可。支持命令行切换模式：ins off（原生温控）/ ins low（低功耗）/ ins max（全性能）/ ins status（查看当前模式）
+Name: insulation
+Author: be-huge & doimty
+
+Package: com.ixoo.insulation
+Architecture: iphoneos-arm64e
+Version: 0.1.37
+Section: iXoo-Tweaks
+Maintainer: doimty
+Depends: firmware (>= 15.0)
+Filename: ./debs/com.ixoo.insulation_0.1.37_iphoneos-arm64e.deb
+Size: 62400
+MD5sum: fd741715eb8dbe5619b6af36dd01cc59
+SHA1: c26f3344e44d58d6adbdc8cf1a9190b3d6f68f9e
+SHA256: 923a99ecf301a0dd4226551ad2f56d492c818f95b93b48a3c3433b3fc2f1c0c3
+SHA512: 11151e3e22791fc056e8f6e586093e73a2fe7b4fd81b90c3dd39a3b935bbdfadf55804d91586f8cac5e9aa28c1ffa726ffe2d20b9314c7233643714268336241
+Description: 解除温控，一切从简即可。支持命令行切换模式：ins off（原生温控）/ ins low（低功耗）/ ins max（全性能）/ ins status（查看当前模式）
+Name: insulation
+Author: be-huge & doimty
+
+Package: com.ixoo.insulation
+Architecture: iphoneos-arm64
+Version: 0.1.38.1
+Section: iXoo-Tweaks
+Maintainer: doimty
+Depends: firmware (>= 15.0)
+Filename: ./debs/com.ixoo.insulation_0.1.38.1_iphoneos-arm64.deb
+Size: 59732
+MD5sum: df07e3fc62da42cae32d7cbf4998c695
+SHA1: 848db68df35951de45a0f15c6dba6edc7aee9b99
+SHA256: 882484b687a90d88a6c6187923b966d22d18f867792bd445fe007ded37ae9f98
+SHA512: cde6a97cda181e54631aae95d28b0ef1939a1d21ff9967d243ff4268ab107b67f6c85b630e61a5a57b59477a014e6adca339d53e33e851528ef8058054321d83
+Description: 解除温控，一切从简即可。支持命令行切换模式：ins off（原生温控）/ ins low（低功耗）/ ins max（全性能）/ ins status（查看当前模式）
+Name: insulation
+Author: be-huge & doimty
+
+Package: com.ixoo.insulation
+Architecture: iphoneos-arm64e
+Version: 0.1.38.1
+Section: iXoo-Tweaks
+Maintainer: doimty
+Depends: firmware (>= 15.0)
+Filename: ./debs/com.ixoo.insulation_0.1.38.1_iphoneos-arm64e.deb
+Size: 56976
+MD5sum: d6ccee37ab0802bf2edae1c8f19511fc
+SHA1: 85381f4c7fc90ca69daf9508743b539875ec0f1e
+SHA256: 2fa4730ddae19f57d615827595c345b13022771b5379d6541f1eedbc0b9384fc
+SHA512: a1866416d848e69984f0ce497f64c5fc54562d221d98564b617c044a640c6feb46023427e73068b8d04f939315d02f56bc7134ca3d580b9df01ed73dc49b110d
+Description: 解除温控，一切从简即可。支持命令行切换模式：ins off（原生温控）/ ins low（低功耗）/ ins max（全性能）/ ins status（查看当前模式）
+Name: insulation
+Author: be-huge & doimty
+
+Package: com.ixoo.insulation
+Architecture: iphoneos-arm64
+Version: 0.1.38
+Section: iXoo-Tweaks
+Maintainer: doimty
+Depends: firmware (>= 15.0)
+Filename: ./debs/com.ixoo.insulation_0.1.38_iphoneos-arm64.deb
+Size: 58260
+MD5sum: dfa11e4e6543f75644c0cd416ecef1d6
+SHA1: 5d30460403cc662c717f58aaba397dc71d159675
+SHA256: c6f2de1bbdfadf2a16f8f7836c86f99f607d20b7853d98b72ce8dcf537349257
+SHA512: 37727f545076b11fe6700a412a2807f87c998f46a723e386858cccfff2170335e88acd945d3e0cf11681bc620a68a9b3794e6c81e2fe71a8018d69ed91b4fbe2
+Description: 解除温控，一切从简即可。支持命令行切换模式：ins off（原生温控）/ ins low（低功耗）/ ins max（全性能）/ ins status（查看当前模式）
+Name: insulation
+Author: be-huge & doimty
+
+Package: com.ixoo.insulation
+Architecture: iphoneos-arm64e
+Version: 0.1.38
+Section: iXoo-Tweaks
+Maintainer: doimty
+Depends: firmware (>= 15.0)
+Filename: ./debs/com.ixoo.insulation_0.1.38_iphoneos-arm64e.deb
+Size: 55664
+MD5sum: 1fa588f35b9db07b24982d7eb4395a43
+SHA1: 9aa4190f13db8aeac1c0131782add54ddb500792
+SHA256: fb1da51c68e43632cc9ec072478d637bb255c7a2f55a76cc4d569bd8282c17b5
+SHA512: 2592d966f3f239256cb24b57bfcbd6f856dabfa58a9f584e5c1936dc9d1fab6b13db2ee63484591b48866292a5e1009e7deba22069219f15ea6643e90356838d
+Description: 解除温控，一切从简即可。支持命令行切换模式：ins off（原生温控）/ ins low（低功耗）/ ins max（全性能）/ ins status（查看当前模式）
 Name: insulation
 Author: be-huge & doimty
 
