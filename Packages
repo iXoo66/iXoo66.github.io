@@ -234,6 +234,24 @@ Homepage: https://claude.ai
 Description: Claude Code CLI for iOS 人工智能  在越狱iPhone 上本地运行 Claude Code  终端执行 claude-auth以开始认证配置   终端执行 claude以开始使用  可以配置DeepSeek模型API 和  第三方模型API
 Name: claude code
 
+Package: com.ixoo.disabledwarning
+Architecture: iphoneos-arm64e
+Version: 0.0.1-2
+Section: iXoo-Tweaks
+Maintainer: SINI
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.ixoo.disabledwarning_0.0.1-2_iphoneos-arm64e.deb
+Size: 3496
+MD5sum: 75efebbf5b367a233fcf6d80d0a8ea2b
+SHA1: af68c39c6b816f5d271a99b9543de4bb218c81c6
+SHA256: eb82403b90e20ee217dd5eda9d09ccb8d6b6f82613829d9724058bee8803f1f3
+SHA512: 1d4a748d35200a42fceaa40ce79f1dacbf7c86139b7755aa1ecef145abaa1ce528b6347a0b0a1aea72be14fa9225d9c66e6d1f08003108eea1bd94a97ad73cfd
+Description: RootHide(黑名单)与RootHideInject(白名单)每次打开都让我卸载openssh，卸载是不可能卸载的，所以去掉这个警告弹窗
+Name: DisabledWarning
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/disabledwarning.png
+Sileodepiction:
+
 Package: com.ixoo.floating-view
 Architecture: iphoneos-arm64e
 Version: 1.6.0-6
