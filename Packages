@@ -1,3 +1,22 @@
+Package: com.ixoo.liquidify
+Architecture: iphoneos-arm64e
+Version: 1.3.7-4
+Section: iXoo-Tweaks
+Maintainer: 一刀
+Installed-Size: 40967
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/88元液态玻璃com.charlieleung.liquidify-1.3.7-4-roothide.deb
+Size: 10538308
+MD5sum: 923c9e563317f50f10939e425962b9f8
+SHA1: 5238b97fe760f509d69d82d74ff01adabea8a019
+SHA256: f0605c6650afd8a6e8b3c75484c7bb79422289cf055b2c59a5a4ff14740fd7ba
+SHA512: f726ba20fc41eed7909a78cc0fd55a63041c4d1e0ad9e011c48664b6635494dde861873fb5d417454edef361e2d378c88640b3bf3559c8034c2c7c35109b622c
+Description: 88液态玻璃
+Name: 88液态玻璃
+Author: 一刀
+icon: https://huayuarc.github.io/icon/LiquidAss.png
+
 Package: com.iXoo.JYSS
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -232,7 +251,7 @@ SHA256: 89b81c0dbf0e6d431211df630de951896b20c95dcdb1ba9ddf49994e17d41588
 SHA512: dd41f13e6798ca900a3bbbee96ac45d2ea0de8b78c649f35c20a6ad46e69f528abde5d3f81027c597bf678ea704ce731e19738ad86c5bfc752a8452903371341
 Homepage: https://claude.ai
 Description: Claude Code CLI for iOS 人工智能  在越狱iPhone 上本地运行 Claude Code  终端执行 claude-auth以开始认证配置   终端执行 claude以开始使用  可以配置DeepSeek模型API 和  第三方模型API
-Name: claude code
+Name: Claude Code
 
 Package: com.ixoo.disabledwarning
 Architecture: iphoneos-arm64e
@@ -323,7 +342,7 @@ SHA1: 3eea1f431a9490270947f818d9ce4d8a77963a2f
 SHA256: 24a3764f57e02ca063c62b50f6293b3af5f967d2ff978e90ea965dd1caeeeace
 SHA512: 959e33cb19f1543838117ed2c528bcc93b269fba50ed4cd03baf76d1a1d5d7668dbb430b43d4e3db49232212a008af5ab9182b9fe3c7b65bde2600a8b588597d
 Description: 解除温控，一切从简即可。代码已开源：https://github.com/be-huge/insulation
-Name: insulation
+Name: Insulation
 Author: be-huge
 
 Package: com.ixoo.insulation
@@ -339,7 +358,7 @@ SHA1: 9bb4389c101204e937d5dec42f0184387b4d5412
 SHA256: efd2de7a5215fd0ed68fbc8fa870c50fe4d253d65d46ef996924d6680c7aa305
 SHA512: 9b8ace98852b7061ad6c75ab880546df03c764e86451fbc6cf74dd1eaa8cf98150349b2d23c81bd1b9b65d84c38e9cfe2d7a6ea569bb04d8c8cb19c0d22ea845
 Description: 解除温控，一切从简即可。代码已开源：https://github.com/be-huge/insulation
-Name: insulation
+Name: Insulation
 Author: be-huge
 
 Package: com.ixoo.insulation
@@ -355,7 +374,7 @@ SHA1: 5e2b6e0cb042c18822c81370481a20512779c45a
 SHA256: 0df9f3489c15f85b8a9f0b07aab596620a1033a43301f029e199b96e46a07620
 SHA512: a8e5d3f30934810cd87f8da28a6b7959ae999ff0c292b576d9aa89a809ffa747d640b012db5229b270e837235f7b04bcbccf578438f5fb39d9ddec80c104f1a3
 Description: 解除温控，一切从简即可。代码已开源：https://github.com/be-huge/insulation
-Name: insulation
+Name: Insulation
 Author: be-huge
 
 Package: com.ixoo.insulation
@@ -371,7 +390,7 @@ SHA1: e0fa6f920fbe6284f65828badcbf56a55fcd246a
 SHA256: cebde46b70fa232f3c47478aa4cc1595456ffc1d16c03ac2d8b0858ba3598f7c
 SHA512: a5f20321b9f0fe7f29b63c7742655766c2cffb249180d01282102b69a46f66edc3bcbc5f9b78ab9ade378f511fe615994f3f8bc78d8cfa5db8858bf39db46859
 Description: 解除温控，一切从简即可。代码已开源：https://github.com/be-huge/insulation
-Name: insulation
+Name: Insulation
 Author: be-huge
 
 Package: com.ixoo.insulation
@@ -387,7 +406,7 @@ SHA1: 505975cdae80b9ab17ffdd1a6938622cc9954657
 SHA256: b90e634b966fde66ddd6185846a097f9d5460834eeecf3a3b93f260b5ee20646
 SHA512: 7577f56e60374e0dc9c750d19e53de116efb7d5f39acac1181a4bee45cad645e421794ea08c02194bbcca1f4d7f8187e933fedb0af235028ccb8258385941c30
 Description: 解除温控，一切从简即可。代码来自开源项目：https://github.com/be-huge/insulation 进行简单维护
-Name: insulation
+Name: Insulation
 Author: be-huge & doimty
 
 Package: com.ixoo.insulation
@@ -403,7 +422,7 @@ SHA1: f55538d645e614d2414b52b296c30c87bc9dd05a
 SHA256: c01ea10ce0606879658d595ea8c9d0d95843d743f0d4810e3221db1740f59c16
 SHA512: d0994a066892b71bfaf4a8f698b6c88abbe7215e2b7dc4b19413010381e9dbbca3e428107da02f34d19422a72c3a87e0086f6fa12073d4893d1c06fb73f3a32b
 Description: 解除温控，一切从简即可。代码来自开源项目：https://github.com/be-huge/insulation 进行简单维护
-Name: insulation
+Name: Insulation
 Author: be-huge & doimty
 
 Package: com.ixoo.insulation
@@ -419,7 +438,7 @@ SHA1: 85cf566bdc95659eba87f92e71764ed20d25221f
 SHA256: 99e7f2925d60bcf9af2f647e5994905960f7be416d10cfa6b921827f03a93b6f
 SHA512: 182326fa8cb1ab41dac6435bcc2e2f5f6ef7e5acbd23e4b4ab1e7df583f11057bc66ba91a20e3d48a75643bce8386fe397bd2fc1fb5807d72d1293d215172a24
 Description: 解除温控，一切从简即可。代码来自开源项目：https://github.com/be-huge/insulation 进行简单维护
-Name: insulation
+Name: Insulation
 Author: be-huge & doimty
 
 Package: com.ixoo.insulation
@@ -435,7 +454,7 @@ SHA1: faf8b0212de06d277e9b595a60ea62302f9089e2
 SHA256: 2376957873f8f31f920086205c27a9a13d034e79c4a9ec2eb09f534763f28dc7
 SHA512: ab72edf38e6567506976e16227463eb31dfb693309ffa74022bb8d8a4652ac848edce77807e27e1803b689e33ea35cc8e9fbcb0cdfdc69e143a22ed3d33c4fd8
 Description: 解除温控，一切从简即可。代码来自开源项目：https://github.com/be-huge/insulation 进行简单维护
-Name: insulation
+Name: Insulation
 Author: be-huge & doimty
 
 Package: com.ixoo.insulation
@@ -451,7 +470,7 @@ SHA1: b999663c243a8ca5b4fd871f3d7766dd35ffc2ad
 SHA256: d9fe9b966e414d5725884254422a0f2573689c37e557bc075b4c9d0658093270
 SHA512: f52044ab02a889b86cc65d7be49bdcbbe1dc401d3d11da30467ac7a743e7dbf12ac572582af36bfd8a5eda451469973b9933a2192a4e27e5744fa954a468b3f7
 Description: 解除温控，一切从简即可。代码来自开源项目：https://github.com/be-huge/insulation 进行简单维护
-Name: insulation
+Name: Insulation
 Author: be-huge & doimty
 
 Package: com.ixoo.insulation
@@ -467,7 +486,7 @@ SHA1: 0dcad4df79865186d1b257dfc02be051791a7a88
 SHA256: a12d17a55b19c91fbc5562422738736ecb141a934d1adf7fe0f012b1aec1aec1
 SHA512: b7982f67687e5aa864cb0d2c45f1dfc36b4c9565704b1dc21ee2555c3a6caeb837fefbca13c5882bf117f8e53dec306ee16166801cdf9c34548ec813876967d7
 Description: 解除温控，一切从简即可。代码来自开源项目：https://github.com/be-huge/insulation 进行简单维护
-Name: insulation
+Name: Insulation
 Author: be-huge & doimty
 
 Package: com.ixoo.insulation
@@ -483,7 +502,7 @@ SHA1: 7850d443342f635fe1842a87abf391c1ef1d3af5
 SHA256: d5e7e254b4aaf80057704156aacd3bcd343414d373a6707bf541d038c586a54f
 SHA512: 860c385caa85dcf939fb8e214eb0132012fcdfa798f41dddca46a47775185e36b910eb44f598be40711850c61b3235df76db1249e269d88cdca7a9715ed65516
 Description: 解除温控，一切从简即可。代码来自开源项目：https://github.com/be-huge/insulation 进行简单维护
-Name: insulation
+Name: Insulation
 Author: be-huge & doimty
 
 Package: com.ixoo.insulation
@@ -499,7 +518,7 @@ SHA1: 2d1a5b6247f65c381bc4f3f9423e143147b41ac6
 SHA256: fd2485bf33aeed886b017eb33f61289dd409dcdcbbc6a6c7634bacd20bf364de
 SHA512: 61855f65ac8df63260a6c6e009964fd201352133ca1c546e671e68abdd65978fe5a1d890434b465139925ff262b10d6cb1d0097bc8e42d7b19f235729d451a9d
 Description: 解除温控，一切从简即可。代码来自开源项目：https://github.com/be-huge/insulation 进行简单维护
-Name: insulation
+Name: Insulation
 Author: be-huge & doimty
 
 Package: com.ixoo.insulation
@@ -515,7 +534,7 @@ SHA1: 2abd0bebadc748b4393707284994c69f6de6ab81
 SHA256: 2596fa5364da026f7026e7b12f843ea2a34d170069367b31f97148bede5555eb
 SHA512: b5054fa60916b6bf7c80f611321b4b80b75ca94f27557dcebc03f9337b5a9d26060aecd5cf0dc96a9d863f2f0dae15650320d002cbd312439b2000dde3cb9c3c
 Description: 解除温控，一切从简即可。代码来自开源项目：https://github.com/be-huge/insulation 进行简单维护
-Name: insulation
+Name: Insulation
 Author: be-huge & doimty
 
 Package: com.ixoo.insulation
@@ -531,7 +550,7 @@ SHA1: bcb604eea78b5e4d09e54c393af35ae6fecf2222
 SHA256: a455ddb620e4646393bb5d38893efb84159bdd748c045c7a40a8188f2008f162
 SHA512: eac086b0c4fdb452150dfdc66e6737db8c685f0bc0c8048a89b7f11612d3308516fea0169c36be578b7ee8122cfc24c76ec05211c6a366b9bec8ec92cfb784d7
 Description: 解除温控，一切从简即可。代码来自开源项目：https://github.com/be-huge/insulation 进行简单维护
-Name: insulation
+Name: Insulation
 Author: be-huge & doimty
 
 Package: com.ixoo.insulation
@@ -547,7 +566,7 @@ SHA1: ce2d1129046ff6cf6c7cb2c4546e794036692ff8
 SHA256: 265ce301fe97b7f0f5acbbad923b9ca7a947959b0776865132e86afa0dcbc4dd
 SHA512: f2e7fdf8f7ae1ae7c6340bd572e668d4e92c7c06da62105a08b9f0e856224fce690da0f9cc49ebe6a18bb49624d4a52749a6d2589ee0471bbb4f0f7ad4eeff34
 Description: 解除温控，一切从简即可。支持命令行切换模式：ins off（原生温控）/ ins low（低功耗）/ ins max（全性能）/ ins status（查看当前模式）
-Name: insulation
+Name: Insulation
 Author: be-huge & doimty
 
 Package: com.ixoo.insulation
@@ -563,7 +582,7 @@ SHA1: c26f3344e44d58d6adbdc8cf1a9190b3d6f68f9e
 SHA256: 923a99ecf301a0dd4226551ad2f56d492c818f95b93b48a3c3433b3fc2f1c0c3
 SHA512: 11151e3e22791fc056e8f6e586093e73a2fe7b4fd81b90c3dd39a3b935bbdfadf55804d91586f8cac5e9aa28c1ffa726ffe2d20b9314c7233643714268336241
 Description: 解除温控，一切从简即可。支持命令行切换模式：ins off（原生温控）/ ins low（低功耗）/ ins max（全性能）/ ins status（查看当前模式）
-Name: insulation
+Name: Insulation
 Author: be-huge & doimty
 
 Package: com.ixoo.insulation
@@ -579,7 +598,7 @@ SHA1: 848db68df35951de45a0f15c6dba6edc7aee9b99
 SHA256: 882484b687a90d88a6c6187923b966d22d18f867792bd445fe007ded37ae9f98
 SHA512: cde6a97cda181e54631aae95d28b0ef1939a1d21ff9967d243ff4268ab107b67f6c85b630e61a5a57b59477a014e6adca339d53e33e851528ef8058054321d83
 Description: 解除温控，一切从简即可。支持命令行切换模式：ins off（原生温控）/ ins low（低功耗）/ ins max（全性能）/ ins status（查看当前模式）
-Name: insulation
+Name: Insulation
 Author: be-huge & doimty
 
 Package: com.ixoo.insulation
@@ -595,7 +614,7 @@ SHA1: 85381f4c7fc90ca69daf9508743b539875ec0f1e
 SHA256: 2fa4730ddae19f57d615827595c345b13022771b5379d6541f1eedbc0b9384fc
 SHA512: a1866416d848e69984f0ce497f64c5fc54562d221d98564b617c044a640c6feb46023427e73068b8d04f939315d02f56bc7134ca3d580b9df01ed73dc49b110d
 Description: 解除温控，一切从简即可。支持命令行切换模式：ins off（原生温控）/ ins low（低功耗）/ ins max（全性能）/ ins status（查看当前模式）
-Name: insulation
+Name: Insulation
 Author: be-huge & doimty
 
 Package: com.ixoo.insulation
@@ -611,7 +630,7 @@ SHA1: 5d30460403cc662c717f58aaba397dc71d159675
 SHA256: c6f2de1bbdfadf2a16f8f7836c86f99f607d20b7853d98b72ce8dcf537349257
 SHA512: 37727f545076b11fe6700a412a2807f87c998f46a723e386858cccfff2170335e88acd945d3e0cf11681bc620a68a9b3794e6c81e2fe71a8018d69ed91b4fbe2
 Description: 解除温控，一切从简即可。支持命令行切换模式：ins off（原生温控）/ ins low（低功耗）/ ins max（全性能）/ ins status（查看当前模式）
-Name: insulation
+Name: Insulation
 Author: be-huge & doimty
 
 Package: com.ixoo.insulation
@@ -627,7 +646,7 @@ SHA1: 9aa4190f13db8aeac1c0131782add54ddb500792
 SHA256: fb1da51c68e43632cc9ec072478d637bb255c7a2f55a76cc4d569bd8282c17b5
 SHA512: 2592d966f3f239256cb24b57bfcbd6f856dabfa58a9f584e5c1936dc9d1fab6b13db2ee63484591b48866292a5e1009e7deba22069219f15ea6643e90356838d
 Description: 解除温控，一切从简即可。支持命令行切换模式：ins off（原生温控）/ ins low（低功耗）/ ins max（全性能）/ ins status（查看当前模式）
-Name: insulation
+Name: Insulation
 Author: be-huge & doimty
 
 Package: com.ixoo.kayoko
@@ -698,7 +717,7 @@ SHA1: 97c60a5583bf68894dc900423ce019ef495394b1
 SHA256: aab593b835629bc6fd3c587cf7828e92ba497680e2b02f8a29d405cae27f8af8
 SHA512: 5942326c450c995d8ec29923f881ab7d5593f58bc244d86523f97eebb314a37550c4af28c89bc43cfa160fc55018f57a8e5bacf8a7c50f5e51979c1fdddf6d3f
 Description: 先在模拟界面保存标签!
-Name: aemulo自动模拟
+Name: Aemulo自动模拟
 Author: zqbb
 SileoDepiction: https://rootless.002599.xyz/web/zp.aemuloauto.rootless
 
@@ -718,7 +737,7 @@ SHA512: 0685d6523efe42a0391653ba6cfde59ffb90a16bf6d2229dc8e9006aee2d76f8f7e95d77
 Description: 分屏，不必太复杂，一切从简即可。
 Author: sunshinesong
 TS: sp-sss
-Name: split-view-pro
+Name: Split-view-pro
 
 Package: com.ixoo.split-view-pro
 Architecture: iphoneos-arm64e
@@ -911,4 +930,3 @@ Name: Vitreux 液态玻璃
 Author: MTAC
 Icon: https://axs66.github.io/pro/icon/vitreux.png
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/vitreux/js.json
-
