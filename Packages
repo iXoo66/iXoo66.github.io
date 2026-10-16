@@ -180,6 +180,23 @@ Name: AppData
 Author: Fouad Raheb
 Markdowndescription: View & Manage Applications Data from your Home Screen<br><br>• v1.4.7: Fix app failed to downgrade<br><br>• v1.4.6: Fix iOS15 crash issues<br><br>• v1.4.5: Modify the API interface for obtaining the downgraded version number of an application
 
+Package: com.ixoo.bundleid
+Architecture: iphoneos-arm64e
+Version: 1.6.1-5
+Section: iXoo-Tweaks
+Maintainer: zqbb
+Filename: ./debs/com.ixoo.bundleid_1.6.1-5_iphoneos-arm64e.deb
+Size: 2961572
+MD5sum: 27af732d709d65a32ff22f76c0733c56
+SHA1: 88d3d8057d90545a382a184ca6ece9a957fe69cd
+SHA256: e2998cb32161feb716b88247dbda000d6d6bfb676b813ccd1f0021d6d1d54145
+SHA512: 798e15eae2794b44a9a93e4bf93c6822261ecf32e1651c114c5864c834b2cd47b438d20d6a1f9922a3705429ef940bfe85d2fca24af3bcf656eda8b61345b0d5
+Description: 伪装越狱和巨魔应用，让商店应用更难检测越狱!
+Name: HelloBundleID
+Author: zqbb
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.hello.bundleid
+SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.hello.bundleid
+
 Package: com.ixoo.carbridge15
 Architecture: iphoneos-arm64
 Version: 2.0.15
@@ -666,6 +683,24 @@ Description: 88液态玻璃
 Name: 88液态玻璃
 Author: 一刀
 icon: https://huayuarc.github.io/icon/LiquidAss.png
+
+Package: com.ixoo.memorystatus
+Architecture: iphoneos-arm64e
+Version: 3.9.0-6
+Section: iXoo-Tweaks
+Maintainer: zqbb
+Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 14.0), preferenceloader, launchctl
+Filename: ./debs/com.ixoo.memorystatus_3.9.0-6_iphoneos-arm64e.deb
+Size: 3068612
+MD5sum: 204b0cd98ce344eaab4f0e78590d1380
+SHA1: 3311f73c67451838feec374b04d5a20c3a563c85
+SHA256: 5215788ce53b4658b302338238254b259eb1c3a77df4797ff3ebfaccd0b033d6
+SHA512: 1a2fba09e6f1fadd7c239bc5c698c1cde687f6fc561787a23f965b91a663bc112ebb943e776823be33a94e2efa5c4d290f52209c03779d73efd67e4b59f57ea0
+Description: Set memorystatus to avoid being killed by the system
+Author: zqbb
+Name: Hello Memory Status
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.hello.memorystatus.png
+SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.hello.memorystatus
 
 Package: com.ixoo.noredirect
 Architecture: iphoneos-arm64e
