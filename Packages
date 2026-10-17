@@ -87,6 +87,24 @@ Author: Amy While
 Sponsor: 搬运工
 Icon: https://chinesebuilding.club/pic/cydia.png
 
+Package: com.ixoo.ai
+Architecture: iphoneos-arm64e
+Version: 6.6.6-3
+Section: iXoo-Tweaks
+Maintainer: zqbb
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.ixoo.ai_6.6.6-3_iphoneos-arm64e.deb
+Size: 2810754
+MD5sum: f989568d8ab9a955407e6dadf0211277
+SHA1: 500c3a5856ae4c75bf601053b3a13079013453b1
+SHA256: 0abbb211dbf3b0a28008055b0bd98ee01621f128f736e9cee52d491bd5456ea2
+SHA512: 262825784d6cd22f653e4fc030fecb14d0d91d38c28bf7c949ec3e885160c55fb3b8b6847c23d548b300666cd20804c288e45a8f32cb57ca034a22741d2a104a
+Description: Quickly activate AI mode.
+Name: Hello 键盘侠
+Author: zqbb
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.hello.keyboard.ai.png
+SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.hello.keyboard.ai
+
 Package: com.ixoo.airaw
 Architecture: iphoneos-arm64
 Version: 1.6.7
