@@ -180,23 +180,6 @@ Name: AppData
 Author: Fouad Raheb
 Markdowndescription: View & Manage Applications Data from your Home Screen<br><br>• v1.4.7: Fix app failed to downgrade<br><br>• v1.4.6: Fix iOS15 crash issues<br><br>• v1.4.5: Modify the API interface for obtaining the downgraded version number of an application
 
-Package: com.ixoo.bundleid
-Architecture: iphoneos-arm64e
-Version: 1.6.1-5
-Section: iXoo-Tweaks
-Maintainer: zqbb
-Filename: ./debs/com.ixoo.bundleid_1.6.1-5_iphoneos-arm64e.deb
-Size: 2961572
-MD5sum: 27af732d709d65a32ff22f76c0733c56
-SHA1: 88d3d8057d90545a382a184ca6ece9a957fe69cd
-SHA256: e2998cb32161feb716b88247dbda000d6d6bfb676b813ccd1f0021d6d1d54145
-SHA512: 798e15eae2794b44a9a93e4bf93c6822261ecf32e1651c114c5864c834b2cd47b438d20d6a1f9922a3705429ef940bfe85d2fca24af3bcf656eda8b61345b0d5
-Description: 伪装越狱和巨魔应用，让商店应用更难检测越狱!
-Name: HelloBundleID
-Author: zqbb
-Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.hello.bundleid
-SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.hello.bundleid
-
 Package: com.ixoo.carbridge15
 Architecture: iphoneos-arm64
 Version: 2.0.15
