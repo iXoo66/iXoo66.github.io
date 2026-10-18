@@ -252,6 +252,27 @@ Author: SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/disabledwarning.png
 Sileodepiction:
 
+Package: com.ixoo.fix120hz
+Architecture: iphoneos-arm64e
+Version: 3.3.3-3
+Section: iXoo-Tweaks
+Maintainer: zqbb
+Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 15.0), preferenceloader, com.opa334.altlist
+Filename: ./debs/com.ixoo.fix120hz_3.3.3-3_iphoneos-arm64e.deb
+Size: 413648
+MD5sum: cba7550f11e8dc24cbcd463bdb79fc45
+SHA1: 4edbd3a8dbcb1f5267dd7c45d635317a5c35b8f8
+SHA256: 69c165a5107b2b2dce79d5b84f060041fd2199e67a4f1523b91dcaced6551dd3
+SHA512: beff5f67e634e9a9547b46865e0bfcb3b3c6fb80833f8cafc02961b71228c919db1f323d5255161c53a6f08b43f88864300ebd22c9a8cc36af28ccc645e6aae3
+Description:
+ - Unlock dynamic refresh rate from 80hz to 120hz
+ - .
+ - 解锁动态刷新率80hz到120hz.
+Name: Hello 120Hz
+Author: zqbb
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.fix120hz
+SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.fix120hz
+
 Package: com.ixoo.floating-view
 Architecture: iphoneos-arm64e
 Version: 1.6.0-6
@@ -292,6 +313,95 @@ Description: 让你的程序图标在桌面随意摆放；根据开源重新编�
 Name: Griddy 随意摆
 Author: mikifp
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/griddy/js.json
+
+Package: com.ixoo.hello.bundleid
+Architecture: iphoneos-arm64e
+Version: 1.6.1-5
+Section: iXoo-Tweaks
+Maintainer: zqbb
+Filename: ./debs/com.ixoo.hello.bundleid_1.6.1-5_iphoneos-arm64e.deb
+Size: 2961952
+MD5sum: 57db1a27ce099023aa1ab54023eaa6d6
+SHA1: e76ede9c24580d9826cc5b66bd14dd1c8d8da338
+SHA256: 0c3e7c6a4bdb68706e73cd3cc6ec19b050d029ac4f19a249e48a783f21519a87
+SHA512: ff8b98f74a605db55fdcd58f9a2878354b2771eccd14e9c2fd3079138949092b01db80fbec107288bf1824bc9c639318b7bc65d5b4645fa9bd8f3d7830ac7d11
+Description: 伪装越狱和巨魔应用，让商店应用更难检测越狱!
+Name: HelloBundleID
+Author: zqbb
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.hello.bundleid
+SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.hello.bundleid
+
+Package: com.ixoo.hello.keyboard.ai
+Architecture: iphoneos-arm64e
+Version: 6.6.6-3
+Section: iXoo-Tweaks
+Maintainer: zqbb
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.ixoo.hello.keyboard.ai_6.6.6-3_iphoneos-arm64e.deb
+Size: 2813428
+MD5sum: f2f2b399d11aa0b836069b802a187e6b
+SHA1: 7b30f4ced194fe700d1c37a76cad1ae72c4bf52a
+SHA256: 7a5f718a50dfeed4ad4cdcf7c15fcb00bcde5d879a29a8220eb50650583e1de2
+SHA512: c8d4716f09a7200167ea62924a2fa4ba726cd97a90706d0d7fb436d9c98c4162451b03c4fd21fe8cb69fca34ca15a542e1fff8b005b1983feec1d53d159cc760
+Description: Quickly activate AI mode.
+Name: Hello 键盘侠
+Author: zqbb
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.hello.keyboard.ai.png
+SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.hello.keyboard.ai
+
+Package: com.ixoo.hello.memorystatus
+Architecture: iphoneos-arm64e
+Version: 3.9.0-6
+Section: iXoo-Tweaks
+Maintainer: zqbb
+Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 14.0), preferenceloader, launchctl
+Filename: ./debs/com.ixoo.hello.memorystatus_3.9.0-6_iphoneos-arm64e.deb
+Size: 3070520
+MD5sum: 433d6a3d2cc437751a80023a36262b41
+SHA1: d10398443a9df5e494a72e257ae9182da9c72e6f
+SHA256: 24d0ea0885684a3daed76e8704eb5b25234c89fe939c496b5c71caa7fa7f8b4b
+SHA512: b7251ba33950bd478cc6fd368b147136d741c1d6e10492ba1b43ad42a5ab63975ad4303623a52c619b12b279f8d23f69d25e4efd80dfabefe2ad899d1b08acde
+Description: Set memorystatus to avoid being killed by the system
+Author: zqbb
+Name: Hello Memory Status
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.hello.memorystatus.png
+SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.hello.memorystatus
+
+Package: com.ixoo.hello.qactions
+Architecture: iphoneos-arm64e
+Version: 1.3.0-1
+Section: iXoo-Tweaks
+Maintainer: zqbb
+Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 15.0), preferenceloader, com.opa334.altlist
+Filename: ./debs/com.ixoo.hello.qactions_1.3.0-1_iphoneos-arm64e.deb
+Size: 668268
+MD5sum: f7745222be2cda85c0b2d74f7cb68a46
+SHA1: 7f9ec8df806714db190685f8b9e756584639dad1
+SHA256: f5f32d4e0de300f6f43571b4d5378c8aa35a5abc4a187c765ca3758b9c5ff058
+SHA512: 43bfcdada1432089eaa2f1d989017d1595693655002055b5017a7eb837acaf91f37dbaf5f79deee705e268d091a86b7c19aa56346e9b0418e0c9ce9f424733e2
+Description: 通过锁屏界面的手电筒和相机快速调用指定APP快捷操作，体验一键直达。
+Name: Hello QActions
+Author: zqbb
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.hello.qactions
+SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.hello.qactions
+
+Package: com.ixoo.hello.quick.panel
+Architecture: iphoneos-arm64e
+Version: 1.0.0-5
+Section: iXoo-Tweaks
+Maintainer: zqbb
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.ixoo.hello.quick.panel_1.0.0-5_iphoneos-arm64e.deb
+Size: 1499316
+MD5sum: b45ddf43f62a98ba203ae9d67b342dea
+SHA1: d27afdc362f4d90a7f9febe5d648a3d54ed07cd2
+SHA256: 46395a77d2ca3e4ba0e9fb051fd92b886f50b291738f11aaea2e284f15586320
+SHA512: 55da754551ed917ec9818ce1f65fd5232f084eb60384ef9fb66f87e6944750698c0a30f8dca7b30117b0cca822c7d8096059622e521c33ca55ee8cf62da3edae
+Description: 快捷面板~
+Name: Hello QuickPanel
+Author: zqbb
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.hello.quick.panel.png
+SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.hello.quick.panel
 
 Package: com.ixoo.icleanerpro
 Architecture: iphoneos-arm64e
