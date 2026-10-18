@@ -667,24 +667,6 @@ Name: 88液态玻璃
 Author: 一刀
 icon: https://huayuarc.github.io/icon/LiquidAss.png
 
-Package: com.ixoo.memorystatus
-Architecture: iphoneos-arm64e
-Version: 3.9.0-6
-Section: iXoo-Tweaks
-Maintainer: zqbb
-Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 14.0), preferenceloader, launchctl
-Filename: ./debs/com.ixoo.memorystatus_3.9.0-6_iphoneos-arm64e.deb
-Size: 3068612
-MD5sum: 204b0cd98ce344eaab4f0e78590d1380
-SHA1: 3311f73c67451838feec374b04d5a20c3a563c85
-SHA256: 5215788ce53b4658b302338238254b259eb1c3a77df4797ff3ebfaccd0b033d6
-SHA512: 1a2fba09e6f1fadd7c239bc5c698c1cde687f6fc561787a23f965b91a663bc112ebb943e776823be33a94e2efa5c4d290f52209c03779d73efd67e4b59f57ea0
-Description: Set memorystatus to avoid being killed by the system
-Author: zqbb
-Name: Hello Memory Status
-Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.hello.memorystatus.png
-SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.hello.memorystatus
-
 Package: com.ixoo.noredirect
 Architecture: iphoneos-arm64e
 Version: 1.9
