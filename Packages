@@ -796,6 +796,22 @@ Author: Lessica <82flex@gmail.com>
 Icon: https://axs66.github.io/pro/icon/noredirect.png
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
 
+Package: com.ixoo.notification
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Section: iXoo-Tweaks
+Maintainer: iXoo
+Depends: mobilesubstrate (>= 0.9.5000),preferenceloader,firmware (>= 15.0)
+Filename: ./debs/com.ixoo.notification_1.0.1_iphoneos-arm64e.deb
+Size: 39808
+MD5sum: 0032073807b75fa18a184482d852cf57
+SHA1: ef66a6212e63a9606b9c78d460f76e1dbf51a81c
+SHA256: 1ba6accb97eb6cd85315a753150495a2cac1feff080dc7af8e2fd8eb7cc7d016
+SHA512: 01802d1d520e6388f4f81306522f38158501236fb0bfdcc4cf6ec0fe9af71029f3212e16c40d9b856ebd3c73e981a57a5cf7a80eff41b692e33e8f3bad57cd62
+Description: 测试兼容iOS15.0-16.2  插件说明:设置 - 插件内开启需要禁用程序内通知中心下拉手势的应用。
+Name: 禁用通知中心下拉手势
+Author: iXoo
+
 Package: com.ixoo.powercuff
 Architecture: iphoneos-arm64e
 Version: 1.1
@@ -811,6 +827,27 @@ SHA512: 99bd8cdebcf03b7018f7bde0de73297f926c2d231f4085c0f515efabb0bf871db041d341
 Description: 节能插件，效果自测，重新编译。
 Name: Powercuff
 Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
+
+Package: com.ixoo.powercuff
+Architecture: iphoneos-arm64e
+Version: 1.4
+Section: iXoo-Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.ixoo.powercuff_1.4_iphoneos-arm64e.deb
+Size: 12610
+MD5sum: 49bf0235f486bab23a475dbccf500242
+SHA1: 8cd8241fb5cf3666890e45864ea82665c6b1c086
+SHA256: caacef63fa26b14f2f6580e98fb5b4c4eba3140a88cd8863517fcf09fef1adc7
+SHA512: f9a5017913edd2d7d55a8b554ef8a7d8597fc37b5e3eeb59d0ebe8110f577a5e8218eff9023af655bb86f4b8b014f221d07c29e4b977b0c0a7545cde116b1e0a
+Homepage: http://rpetri.ch/cydia/powercuff/
+Description: Select from additional low power device states
+Tag: purpose::extension
+Name: Powercuff
+Depiction: http://rpetri.ch/cydia/powercuff/
+Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: rpetrich
 
 Package: com.ixoo.rootless
 Architecture: iphoneos-arm64e
@@ -886,6 +923,24 @@ TS: sp-sss
 Name: SVP分屏独立版
 Icon: https://axs66.github.io/pro/icon/svp.png
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/split-view-pro/js.json
+
+Package: com.ixoo.stopautolaunchapps
+Architecture: iphoneos-arm64e
+Version: 2.5
+Section: iXoo-Tweaks
+Maintainer: zqbb
+Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 15.0)
+Filename: ./debs/com.ixoo.stopautolaunchapps_2.5_iphoneos-arm64e.deb
+Size: 254614
+MD5sum: e2ca6d92f125841c4c37fda80f5771ec
+SHA1: dd2861597c1797148cac0bf037ced1b2ca4bdd5e
+SHA256: 1d05960c1200e40d8bbe5fc0568a42902ea16276c1cf6c831dc974b3269221ff
+SHA512: 7453e0bf55d1b0deb48a2e1afeb26944a7ae00bca3345c6e8215a2b286bb6142658d25ddaa698e7626b607d11bf814a525d9b16683cc75661db6c1c39d8d1779
+Description: 别在后台热加载app咯! 
+ - 优点:节约内存,少杀后台.
+Author: zqbb
+Name: Hello 3Q
+SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.stopautolaunchapps
 
 Package: com.ixoo.touchvis
 Architecture: iphoneos-arm64e
