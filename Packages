@@ -1,19 +1,3 @@
-Package: com.iXoo.JYSS
-Architecture: iphoneos-arm64e
-Version: 1.0
-Section: iXoo-Tweaks
-Maintainer: iXoo
-Depends: mobilesubstrate
-Filename: ./debs/com.iXoo.JYSS_1.0_iphoneos-arm64e.deb
-Size: 4112
-MD5sum: c56ae1955414139698f3dce8c58d196a
-SHA1: 216ab968ddc071575242dde972d30131187c5c87
-SHA256: 36aa6d129e220ea4e4261e721a83d8511c62b3809ab4da105feba378888a8512
-SHA512: ebe6578367e0f38155c7ef7971df01ebf5e26a98a20bce4edf2336bd6ad7889f0e89895d347b8c81f82f9c53a57b2302ca01b287ad275c44308d40a5846f8540
-Description: 兼容iOS15.0-15.4.1多巴胺越狱 插件说明:仅在应用程序内禁用通知中心的下拉手势。(适用于游戏)，返回桌面不影响通知中心手势，该插件默认生效全局应用，并不能单一选择应用
-Name: 禁用通知下拉手势
-Author: SeaWind
-
 Package: com.ixoo.aaaaaa
 Architecture: iphoneos-arm
 Version: 1.0-1
@@ -795,22 +779,6 @@ Name: No Redirect
 Author: Lessica <82flex@gmail.com>
 Icon: https://axs66.github.io/pro/icon/noredirect.png
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
-
-Package: com.ixoo.notification
-Architecture: iphoneos-arm64e
-Version: 1.0.1
-Section: iXoo-Tweaks
-Maintainer: iXoo
-Depends: mobilesubstrate (>= 0.9.5000),preferenceloader,firmware (>= 15.0)
-Filename: ./debs/com.ixoo.notification_1.0.1_iphoneos-arm64e.deb
-Size: 39808
-MD5sum: 0032073807b75fa18a184482d852cf57
-SHA1: ef66a6212e63a9606b9c78d460f76e1dbf51a81c
-SHA256: 1ba6accb97eb6cd85315a753150495a2cac1feff080dc7af8e2fd8eb7cc7d016
-SHA512: 01802d1d520e6388f4f81306522f38158501236fb0bfdcc4cf6ec0fe9af71029f3212e16c40d9b856ebd3c73e981a57a5cf7a80eff41b692e33e8f3bad57cd62
-Description: 测试兼容iOS15.0-16.2  插件说明:设置 - 插件内开启需要禁用程序内通知中心下拉手势的应用。
-Name: 禁用通知中心下拉手势
-Author: iXoo
 
 Package: com.ixoo.powercuff
 Architecture: iphoneos-arm64e
