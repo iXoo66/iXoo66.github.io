@@ -281,6 +281,22 @@ Author: be-huge
 Icon: https://axs66.github.io/pro/icon/svp.png
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/floating-view/js.json
 
+Package: com.ixoo.gestureblock
+Architecture: iphoneos-arm64e
+Version: 1.0.3
+Section: iXoo-Tweaks
+Maintainer: iXoo
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.ixoo.gestureblock_1.0.3_iphoneos-arm64e.deb
+Size: 40984
+MD5sum: 199d547ceb1594c6e55d00e0d9f186c1
+SHA1: 13e67343d83b388ebfc7683a50499966df69eea8
+SHA256: 0410f235af83b95ca83795acf01b52e71bf3351b1ecddd89539c2698ff51f6c7
+SHA512: 947d9600c9cb9e50201eeacb2139613a2fbf12150b5be4fd16306f60c87111cbac72f55d95267deeef0da03536e62327ab5a1df520e987a9f541291d91e50c5d
+Description: 测试兼容iOS15.0-16.2  插件说明:设置 - 插件内开启需要禁用程序内通知中心/控制中心下拉手势的应用。
+Name: 禁用下拉手势
+Author: iXoo
+
 Package: com.ixoo.griddy
 Architecture: iphoneos-arm64e
 Version: 1.0.5
