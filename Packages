@@ -297,6 +297,22 @@ Description: 测试兼容iOS15.0-16.2  插件说明:设置 - 插件内开启需�
 Name: 禁用下拉手势
 Author: iXoo
 
+Package: com.ixoo.gestureblock
+Architecture: iphoneos-arm64e
+Version: 1.0.8
+Section: iXoo-Tweaks
+Maintainer: iXoo
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.ixoo.gestureblock_1.0.8_iphoneos-arm64e.deb
+Size: 42764
+MD5sum: a35a4d95caab00bdc279a5d856f3dd68
+SHA1: 2177139c1ef66c7dac17e775576914fc0298e50f
+SHA256: e77d7df681e91940a951e4bd73b1963b35ab16e94b1b5ad2e49fdb82b6fb7a9c
+SHA512: faf9d3f341331ec787268bea93d3b59c471cb6f3d9524921186634477456d199a5a8a26a93573d69703e49301d88bb501da4565d9c7c26d094daed20df812a82
+Description: 测试兼容iOS15.0-16.2  插件说明:设置 - 插件内开启需要禁用程序内通知中心/控制中心下拉手势的应用。
+Name: 禁用下拉手势
+Author: iXoo
+
 Package: com.ixoo.griddy
 Architecture: iphoneos-arm64e
 Version: 1.0.5
