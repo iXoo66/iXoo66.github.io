@@ -297,6 +297,23 @@ Name: 禁用下拉手势
 Author: iXoo
 
 Package: com.ixoo.griddy
+Architecture: iphoneos-arm64
+Version: 1.0.5
+Section: iXoo-Tweaks
+Maintainer: mikifp
+Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 17.0)
+Filename: ./debs/com.ixoo.griddy_1.0.5_iphoneos-arm64.deb
+Size: 19576
+MD5sum: f9449ad6972e45b940e1b7c96f61e847
+SHA1: 037b385025462c88750df3d5a192acb8072504d5
+SHA256: 1a20bae3c9b833f225030991489fc976c9241b9eec77d861e24b041ac0759581
+SHA512: eaffc0d67c0679481bb2faccb7dab815fa8b72e810e8566bd4f290f5ae14080a07417b243328523d727f607cb303234554e64e4751afd4989f2d6e127df317e1
+Description: 让你的程序图标在桌面随意摆放；根据开源重新编译。
+Name: Griddy 随意摆
+Author: mikifp
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/griddy/js.json
+
+Package: com.ixoo.griddy
 Architecture: iphoneos-arm64e
 Version: 1.0.5
 Section: iXoo-Tweaks
@@ -309,6 +326,40 @@ SHA1: c2b8bf9ad0506f7ba52b31d44547e6138adc29e6
 SHA256: 83e0c2648e6df74735df3867ba2f235a4644af32a4ad998cb5d6f97e63ba8021
 SHA512: c775d2a101858ee44b0aa9733e9af4f94e55fd7eed7c43c31793e295fe05873cfd3b1be8fca5708c245af440b01a99db319f1965d0ce3ac67784db17ef230a2c
 Description: 让你的程序图标在桌面随意摆放；根据开源重新编译。
+Name: Griddy 随意摆
+Author: mikifp
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/griddy/js.json
+
+Package: com.ixoo.griddy
+Architecture: iphoneos-arm64
+Version: 1.2.3
+Section: iXoo-Tweaks
+Maintainer: mikifp
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/com.ixoo.griddy_1.2.3_iphoneos-arm64.deb
+Size: 16706
+MD5sum: d6a8341b5c1faa68a4b3868dd5cd2247
+SHA1: 1783f96147be12a96801dcb97348c1b9ffac5b6e
+SHA256: e82c38d743df666f4290c30418e262870f8e5a12e09636542eb14c9acf169467
+SHA512: 875b5aa9b7ad18c107945992cae778cca13e2b7313e8a2211b0f522b3c9784fc5c0dffbe84ec2ff6b40cf555145c881163a06ffaa7634e75a54ef6b746ed020f
+Description: 让你的程序图标在桌面随意摆放。
+Name: Griddy 随意摆
+Author: mikifp
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/griddy/js.json
+
+Package: com.ixoo.griddy
+Architecture: iphoneos-arm64e
+Version: 1.2.3
+Section: iXoo-Tweaks
+Maintainer: mikifp
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/com.ixoo.griddy_1.2.3_iphoneos-arm64e.deb
+Size: 16650
+MD5sum: 49020f5bc1a63a2c9d0e67f39a099e54
+SHA1: 79ee5de09128b6c2f294b28e0c7ce7776e03a7c8
+SHA256: ebfd54f9cd524920e2e8fbe11adbeb628818ddcee4d75b6633b201c0b99bd472
+SHA512: b10b942222330b297e55c53858ffec1dcea02b6dbca7dd36c827caaabb6226cc2d29275be9fb30b532a2dd345430b5a0b8fcc0170e6502e77a2d05dac4301749
+Description: 让你的程序图标在桌面随意摆放。
 Name: Griddy 随意摆
 Author: mikifp
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/griddy/js.json
