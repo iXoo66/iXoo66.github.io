@@ -883,22 +883,6 @@ Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: rpetrich
 
-Package: com.ixoo.quietlpm80
-Architecture: iphoneos-arm64e
-Version: 0.1.0
-Section: iXoo-Tweaks
-Maintainer: iXoo
-Depends: mobilesubstrate
-Filename: ./debs/com.ixoo.quietlpm80_0.1.0_iphoneos-arm64e.deb
-Size: 4534
-MD5sum: 3231fb89248785b23ca94befb86a25e6
-SHA1: 6948c1fae6573b2e91f9a2690deadf857a7a1f0a
-SHA256: 753e82cdf9be24ac7a0091262a6f0a1d5238ec14c3eec4a63cf9c419b3d6917c
-SHA512: e6ad13c18572b12faf20753910458ad033408c87bc5c469dfa7c6e0526ab8575421af89cb559845dbde540bd86b1d701c6aa390375795d8f103ceb520f986500
-Description: Suppress only the known Low Power Mode auto-off banner at 80 percent; does not change Low Power Mode behavior.
-Name: QuietLPM80
-Author: iXoo
-
 Package: com.ixoo.renet
 Architecture: iphoneos-arm64e
 Version: 1.2.2
