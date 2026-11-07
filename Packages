@@ -883,6 +883,22 @@ Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: rpetrich
 
+Package: com.ixoo.quietlpm80
+Architecture: iphoneos-arm64e
+Version: 0.1.0
+Section: iXoo-Tweaks
+Maintainer: iXoo
+Depends: mobilesubstrate
+Filename: ./debs/com.ixoo.quietlpm80_0.1.0_iphoneos-arm64e.deb
+Size: 4582
+MD5sum: e8f885033ae8ec9bb954db85a9d3c878
+SHA1: 09de32ade82741f168fadab360dfb91dd1db6e50
+SHA256: 6fbafa02447baf5fc4136ca5ad134f6326069cfbd417c00d6d7730b082f994eb
+SHA512: 0a901e81e9099cef3cb956413d4131d45f764f8633ba2e3b159f3be48ee7a7819995fde41b34c0ead8f97c030f5a7e339ea06b7eeef0fd53d4abe3803d2d1747
+Description: 低电量模式下充电达到 80% 时，禁止低电量模式弹窗横幅；不会改变低电量模式的行为。
+Name: QuietLPM80
+Author: iXoo
+
 Package: com.ixoo.renet
 Architecture: iphoneos-arm64e
 Version: 1.2.2
