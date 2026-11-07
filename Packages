@@ -201,23 +201,6 @@ Author: leftyfl1p
 Sponsor: 搬运工
 Icon: https://chinesebuilding.club/pic/cydia.png
 
-Package: com.ixoo.claude-code
-Architecture: iphoneos-arm64e
-Version: 2.1.45-1
-Section: iXoo-Tweaks
-Maintainer: 大飞
-Pre-Depends: rootless-compat (>= 0.9)
-Depends: firmware (>= 15.0), zsh, ldid
-Filename: ./debs/com.ixoo.claude-code_2.1.45-1_iphoneos-arm64e.deb
-Size: 69516052
-MD5sum: 11fe18d70cf3c97f8a9e957e7b5ba2f1
-SHA1: da038ac6347b797863995b98779ca11810f3f889
-SHA256: 89b81c0dbf0e6d431211df630de951896b20c95dcdb1ba9ddf49994e17d41588
-SHA512: dd41f13e6798ca900a3bbbee96ac45d2ea0de8b78c649f35c20a6ad46e69f528abde5d3f81027c597bf678ea704ce731e19738ad86c5bfc752a8452903371341
-Homepage: https://claude.ai
-Description: Claude Code CLI for iOS 人工智能  在越狱iPhone 上本地运行 Claude Code  终端执行 claude-auth以开始认证配置   终端执行 claude以开始使用  可以配置DeepSeek模型API 和  第三方模型API
-Name: claude code
-
 Package: com.ixoo.disabledwarning
 Architecture: iphoneos-arm64e
 Version: 0.0.1-2
