@@ -1,3 +1,26 @@
+Package: cn.tinyapps.renet
+Architecture: iphoneos-arm64e
+Version: 1.2.2
+Section: iXoo-Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/cn.tinyapps.renet_1.2.2_iphoneos-arm64e.deb
+Size: 226436
+MD5sum: 9ca0737213105f3bb1ff8c69cfdb9c21
+SHA1: b49551d4d4f2ae4419a4b2b573a2ce57e737af9e
+SHA256: 1e64334b6d2892eaa48fd9998752bb01db48ad9c9787933bc7900a0cb1fcfe36
+SHA512: 83808df41918dd4d2dfba858925a6d95b0a02a0350b63f1534d8c79d6870d562292a95682fba7f11186dd53e9f413ff10d8b18263ea5616f9933f5d02588455e
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=renetDp
+Description: 修复越狱后Cydia、Sileo等各种软件无法联网的问题
+Tag: purpose::extension
+Author: Tinyapps <tinyapps@qq.com>
+Name: 连个锤子-越狱联网一键修复[iOS 10.0~16+]
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=renetDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: tinyapps
+Icon: file:///var/jb/Applications/Renet.app/AppIcon20x20@3x.png
+
 Package: com.ixoo.aaaaaa
 Architecture: iphoneos-arm
 Version: 1.0-1
