@@ -1084,31 +1084,6 @@ Name: Necromancy
 Author: colorBlack
 
 Package: com.ixoo.vitreux
-Architecture: iphoneos-arm64
-Version: 1.4
-Section: iXoo-Tweaks
-Maintainer: Axs
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
-Filename: ./debs/com.ixoo.vitreux_1.4_iphoneos-arm64.deb
-Size: 121984
-MD5sum: 02972f75353cdb482defbc27635dfb48
-SHA1: b3c28dbf0ee0e889c10fd6b01a78eb21e2e8fd36
-SHA256: 27eca1b0937dfe5e28566b384df1c5d6598a01beecee49580ebdbfc26dd706c6
-SHA512: d0b375bd937a9042204beb191a2ee0b521f8213ccbe436dedd447968104c4d302ccaade44680bb40ee578dd3b6f3ba393340b78b83d4e43766db715e4c99589e
-Description:
- A recreation of Liquid Glass
-   * 1.主打 iOS 26 系统液态玻璃设计。
-   * 2.让旧系统体验液态玻璃风格。
-   * 3.目前版本，效果主要体现在锁屏、主屏、控制中心、通知、App 资源库、小组件等。
-   * 4.自定义选项丰富。可以自定义模糊设置等。
-   * 5.目前仅仅支持 SpringBoard 范围。
-   * 6.支持 iOS 15.x - 16.x 系统。
-Name: Vitreux 液态玻璃
-Author: MTAC
-Icon: https://axs66.github.io/pro/icon/vitreux.png
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/vitreux/js.json
-
-Package: com.ixoo.vitreux
 Architecture: iphoneos-arm64e
 Version: 1.4
 Section: iXoo-Tweaks
