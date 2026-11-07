@@ -922,6 +922,23 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 dev: tinyapps
 Icon: file:///var/jb/Applications/Renet.app/AppIcon20x20@3x.png
 
+Package: com.ixoo.sneakycam
+Architecture: iphoneos-arm64e
+Version: 2.1.2
+Section: iXoo-Tweaks
+Maintainer: Huayuarc
+Depends: firmware (>= 15.0), firmware (<= 17.4), mobilesubstrate, preferenceloader
+Filename: ./debs/com.ixoo.sneakycam_2.1.2_iphoneos-arm64e.deb
+Size: 123982
+MD5sum: 4a2fbf0ef81edaa30f787849cd379eac
+SHA1: 7b9ae167cb1641b9673485d5524212aaae8470e0
+SHA256: 3ce52ce7b9d5aadad28f2fc092dc5618c7d04e90e6553f92adf5c2db345fb6c9
+SHA512: add3271a8566441e9fc92bea02f61d01fd8b3d5956bf63f078f9872829a809ef9dd9c86963d6b020377ee6cc3f6ad08f70fb8e77dd4edd09e67bfade80b7935f
+Description: Native SneakyCam capture build for iOS 15.0–17.4, Dopamine rootless and RootHide. 支持锁屏拍照/录像、录像声音、跨设备摄像头回退、会话中断恢复和多代音量键 API。视频或照片默认保存到系统相册，也可保存至 /var/mobile/Media/Camera。
+Name: SneakyCam 隐私相机
+Author: Huayuarc,Spark
+icon: https://huayuarc.github.io/icon/SneakyCam.png
+
 Package: com.ixoo.split-view-pro
 Architecture: iphoneos-arm64e
 Version: 1.1.5
