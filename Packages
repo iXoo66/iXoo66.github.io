@@ -1,0 +1,1113 @@
+Package: com.ixoo.aaaaaa
+Architecture: iphoneos-arm
+Version: 1.0-1
+Section: iXoo-Tweaks
+Maintainer: iXoo
+Depends: sudo
+Filename: ./debs/com.ixoo.aaaaaa_1.0-1_iphoneos-arm.deb
+Size: 1004
+MD5sum: 33fe180f1393191050a676a80fd7af28
+SHA1: 118d145e7077f7efd33cf8813c8c9a50625af6e9
+SHA256: 4f984ff3a4c6c666e06fbe41187ed8bdbd6f00de7e694cb6d5bd64783103fe7a
+SHA512: 8ca371df701a761d5be989109e9570a9905f6f0e4189e50e98625d068d2c9de967e46b9e1da431b2d86c1459d16b595abade2e89d7e776ac84f986d385ce2361
+Description: 自用搬运备份源【提示：本项目旨在学习，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Tag: cydia::commercial
+Name: iXoo-自用搬运公告
+Author: iXoo
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
+Package: com.ixoo.aaaaaa
+Architecture: iphoneos-arm64
+Version: 1.0-1
+Section: iXoo-Tweaks
+Maintainer: iXoo
+Depends: sudo
+Filename: ./debs/com.ixoo.aaaaaa_1.0-1_iphoneos-arm64.deb
+Size: 1000
+MD5sum: 35a7e4cfddea82fecaf11bf4578af7fd
+SHA1: b9150ff817d45d1d7d3615d0f21661dbb2e4165b
+SHA256: 9bc92fdc63790b9f0e3600c7a94a30eb2b2b4599cc19406adf9317ab3c6223cb
+SHA512: cc3cd4bb0958bba804dd39468dd7c3aeae3aac333d698d9c06e92dd3350aafb8f0cc9f83d058c1e5cf3b24e33863199a069f2b985a1e05338d3b64a2ea2b0299
+Description: 自用搬运备份源【提示：本项目旨在学习，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Tag: cydia::commercial
+Name: iXoo-自用搬运公告
+Author: iXoo
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
+Package: com.ixoo.aaaaaa
+Architecture: iphoneos-arm64e
+Version: 1.0-1
+Section: iXoo-Tweaks
+Maintainer: iXoo
+Depends: sudo
+Filename: ./debs/com.ixoo.aaaaaa_1.0-1_iphoneos-arm64e.deb
+Size: 1000
+MD5sum: 78f4c1114bfbcba450f26e34a163f7e8
+SHA1: 9d641b21581306b8489f0f8b20120dd90dbf2d9d
+SHA256: fd2bce004f75910eed53ffc1c1a16cf5368d149fcaa3f809018b00513b956174
+SHA512: 9d845860c57d4dc43e59c9834c53687a629d5ac9ae512d905d9e43e31fcbd3c32ef5cb55541709654dce7994e94e6b5e7a7df031b4b4b78c1ec717c6c3026a3d
+Description: 自用搬运备份源【提示：本项目旨在学习，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Tag: cydia::commercial
+Name: iXoo-自用搬运公告
+Author: iXoo
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
+Package: com.ixoo.aemulotrial
+Architecture: iphoneos-arm64e
+Version: 1.2.5
+Section: iXoo-Tweaks
+Maintainer: 搬运工
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Filename: ./debs/com.ixoo.aemulotrial_1.2.5_iphoneos-arm64e.deb
+Size: 600464
+MD5sum: 8bd6580370bb07897fbbe8bc21fc2632
+SHA1: a1a155aea7caf3a46ff690f5f4ebfdbb2845e6e6
+SHA256: c4dc59df0a05b33a447eefcba0b61422b9981ee51c6136463b74de9e04e76742
+SHA512: 7d88e23737bc066e06f3034ab4655a6c0b19cfc841ff113a948a6df26643873cbf8850ce37fb6922883e3b6611055ef74a770f5b0ec2bb1c1a2aee151d61c7a6
+Description: 这是一款免费的NFC插件，并且是多巴胺越狱能用的，上架的目的是很多用户不知道英文插件是什么作用，特此说明。付费的aemulo多的一个功能就是可以添加到钱包里，不用每次打开软件才能刷门禁！其他的和这个免费版没啥区别，觉得不错的小伙们可以支持作者付费购买！
+Name: Aemulo (NFC)
+Author: Amy While
+Sponsor: 搬运工
+Icon: https://chinesebuilding.club/pic/cydia.png
+
+Package: com.ixoo.airaw
+Architecture: iphoneos-arm64
+Version: 1.6.7
+Section: iXoo-Tweaks
+Maintainer: 搬运工
+Depends: mobilesubstrate, preferenceloader, firmware (>=14.0), ws.hbang.common,com.opa334.ccsupport
+Filename: ./debs/com.ixoo.airaw_1.6.7_iphoneos-arm64.deb
+Size: 10357684
+MD5sum: da7f72a3ee79f11bdf8dbe13786fccf3
+SHA1: 7916c5cb1fb95764e7a20c547acfca79cb1bd891
+SHA256: 0e599965eb100a66c83f9a49d2f957f545ccaa46043276fa7ff4bd01678043da
+SHA512: 7f1bfc2202541760724760dce7b2891b4e7a2cb112ab2582d88838028c1d9e822aeca243cdc75e6ac614fccdb3e3619e260182a07796e9b8f5a5de9ae917e41c
+Description: An awesome CarPlay tweak.一款Carplay拓展插件，可以改壁纸，让不是全屏显示的软件变成全屏，配合carbrige插件使用，改图标个数比例，有汽车的人会用的到，原价4美元，现在搬运工源免费使用！我没车，无法测试插件是否有效，小组件好像不行！大家可以下载体验一下这个功能菜单，有经济能力的购买正版，支持作者！搬运工源，你最好的家，越狱好帮手！感谢搬运工源群友小伙子分享此插件！爱你爱你爱你！
+Name: Airaw
+Author: Dcsyhi
+Sponsor: 搬运工
+Icon: https://chinesebuilding.club/pic/cydia.png
+
+Package: com.ixoo.airaw
+Architecture: iphoneos-arm64e
+Version: 1.6.7
+Section: iXoo-Tweaks
+Maintainer: 搬运工
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, firmware (>=14.0), ws.hbang.common,com.opa334.ccsupport
+Filename: ./debs/com.ixoo.airaw_1.6.7_iphoneos-arm64e.deb
+Size: 20682076
+MD5sum: 59784ad93cfafd8c64095fc0f431f9a8
+SHA1: fa6ae2da6f4c408ea187911bb2849b3b7077a3d2
+SHA256: 6d7175750aacb8403fcbbd89684ed44cd665252c5d3d8f2f83afd436d2fd4165
+SHA512: 941f9a6e287bc879693444824964f48500693766555db8c2ef35cf63ff81a528e659d91845ca8bac039557561f789c09d59484f9c9ed89237dd12adebd55f3ec
+Description: An awesome CarPlay tweak.一款Carplay拓展插件，可以改壁纸，让不是全屏显示的软件变成全屏，配合carbrige插件使用，改图标个数比例，有汽车的人会用的到，原价4美元，现在搬运工源免费使用！我没车，无法测试插件是否有效，小组件好像不行！大家可以下载体验一下这个功能菜单，有经济能力的购买正版，支持作者！搬运工源，你最好的家，越狱好帮手！感谢搬运工源群友小伙子分享此插件！爱你爱你爱你！
+Name: Airaw
+Author: Dcsyhi
+Sponsor: 搬运工
+Icon: https://chinesebuilding.club/pic/cydia.png
+
+Package: com.ixoo.appdata
+Architecture: iphoneos-arm64
+Version: 1.4.6
+Section: iXoo-Tweaks
+Maintainer: Nets
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.ixoo.appdata_1.4.6_iphoneos-arm64.deb
+Size: 1502724
+MD5sum: e92acfeb143932787db21aea7b118653
+SHA1: e9b1a2654517b1f87c41904176d1e708d2a9d109
+SHA256: ba12746022d14403ba1dc136fc96368ba7649d2f436d2ef5bef72ec8a316780b
+SHA512: 94b30224be1dda7f59c87d2bf86135b715a9a34e810329436da2c5b2b45e72344b0351bf24ac06d89edd3e9c816a2113d736cc064d06710b30ef69682b8d5bcd
+Description: View & Manage Applications Data from your Home Screen
+SileoDepiction: https://jailrepo.initnil.com/api?Package=com.netskao.appdata
+Name: AppData
+Author: Fouad Raheb
+Markdowndescription: View & Manage Applications Data from your Home Screen<br><br>• v1.4.6: Fix iOS15 crash issues<br><br>• v1.4.5: Modify the API interface for obtaining the downgraded version number of an application
+
+Package: com.ixoo.appdata
+Architecture: iphoneos-arm64e
+Version: 1.4.6
+Section: iXoo-Tweaks
+Maintainer: Nets
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.ixoo.appdata_1.4.6_iphoneos-arm64e.deb
+Size: 1504020
+MD5sum: 6c1f7e23d865aac65efa559dd8150bcb
+SHA1: f0c92a4b38aae6f38595d315b913e2f16713fabf
+SHA256: 2584eae40dcd629712411b6f3efd156c447638a56e54111b4c8cea2e966d9925
+SHA512: 7ee1d02efa11d32f1c47c7433ba04e868d1e8ecf981934a38e684aa957680e4726852e087623e1a2a7b02fb36d05fc56578ff3cab2fbc063deec3d81287ba06b
+Description: View & Manage Applications Data from your Home Screen
+SileoDepiction: https://jailrepo.initnil.com/api?Package=com.netskao.appdata
+Name: AppData
+Author: Fouad Raheb
+Markdowndescription: View & Manage Applications Data from your Home Screen<br><br>• v1.4.6: Fix iOS15 crash issues<br><br>• v1.4.5: Modify the API interface for obtaining the downgraded version number of an application
+
+Package: com.ixoo.appdata
+Architecture: iphoneos-arm64e
+Version: 1.4.7
+Section: iXoo-Tweaks
+Maintainer: Nets
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.ixoo.appdata_1.4.7_iphoneos-arm64e.deb
+Size: 1501996
+MD5sum: 943f50d665360f6d441f4009f0daa88b
+SHA1: 64ca42a9c06e5b822512adf0e1471a0833e43639
+SHA256: 478813658e023a81c2e32ed8eb1adeda799510ab2392312b2333d5ff9c01ea79
+SHA512: cdf647ee3ea81913bf6e5031ae1e8b46d42305be897d41a8a2fe57460c62c0c5d4d8d0f309eb25f9a9950cae6f44ef3fd7c4766dd32b9f14494e3124435096c8
+Description: View & Manage Applications Data from your Home Screen
+SileoDepiction: https://jailrepo.initnil.com/api?Package=com.netskao.appdata
+Name: AppData
+Author: Fouad Raheb
+Markdowndescription: View & Manage Applications Data from your Home Screen<br><br>• v1.4.7: Fix app failed to downgrade<br><br>• v1.4.6: Fix iOS15 crash issues<br><br>• v1.4.5: Modify the API interface for obtaining the downgraded version number of an application
+
+Package: com.ixoo.carbridge15
+Architecture: iphoneos-arm64
+Version: 2.0.15
+Section: iXoo-Tweaks
+Maintainer: 搬运工
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, com.opa334.altlist (>= 1.0.10)
+Filename: ./debs/com.ixoo.carbridge15_2.0.15_iphoneos-arm64.deb
+Size: 434044
+MD5sum: 9f1ced9e13c6c1c702d42c1f58f58cca
+SHA1: bea3568f4ad8dc450009a6ca6da9a8e4c7d9b8bf
+SHA256: ec2ba995b4bd39aa40f5d6743422efbfb5114911cf24e4fea957eb3bb8236dea
+SHA512: ba7d11b7fb87d1c0de85612433e235911c47a47d8e40c0c9c96a3f542aaa185bb402eba7c9f47be454c7213ea1e2cdaecd7c36065ba82002299184fb1a891e5a
+Description: Open any app in CarPlay!此版为破解版，让不支持互联的软件显示在车机上！仅供群友尝鮮，正版9.9美元，好像是有点贵，但是有能力的请支持正版！使用中有问题可以加群反馈，等待更新，也可直接入手正版哈，搬运工源只为免费搬运！旧版本在搬运工群文件里，新版本有问题的话，请手动降级回旧版本！不支持半越狱！
+Name: CarBridge
+Author: leftyfl1p
+Sponsor: 搬运工
+Icon: https://chinesebuilding.club/pic/cydia.png
+
+Package: com.ixoo.carbridge15
+Architecture: iphoneos-arm64e
+Version: 2.0.15
+Section: iXoo-Tweaks
+Maintainer: 搬运工
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, com.opa334.altlist (>= 1.0.10)
+Filename: ./debs/com.ixoo.carbridge15_2.0.15_iphoneos-arm64e.deb
+Size: 441636
+MD5sum: aa01d149eb92a0fc085f481414a355a4
+SHA1: f94f3b1bf0b61b4da639f680853c6fb4bb9b8a83
+SHA256: 1a6a0f94d489c22a0fdf0860aee6f3de9d1e1323cbe4e48735c19a1c1d30640a
+SHA512: 5c07611adfe8055a7102de4318056e396c6c574c1018d4405fd4d9bb49f2fac81cb101b9713d676ba9f14d99d980df52089b8a5092757d0e0cc60018352db2bf
+Description: Open any app in CarPlay!此版为破解版，让不支持互联的软件显示在车机上！仅供群友尝鮮，正版9.9美元，好像是有点贵，但是有能力的请支持正版！使用中有问题可以加群反馈，等待更新，也可直接入手正版哈，搬运工源只为免费搬运！旧版本在搬运工群文件里，新版本有问题的话，请手动降级回旧版本！不支持半越狱！
+Name: CarBridge
+Author: leftyfl1p
+Sponsor: 搬运工
+Icon: https://chinesebuilding.club/pic/cydia.png
+
+Package: com.ixoo.claude-code
+Architecture: iphoneos-arm64e
+Version: 2.1.45-1
+Section: iXoo-Tweaks
+Maintainer: 大飞
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: firmware (>= 15.0), zsh, ldid
+Filename: ./debs/com.ixoo.claude-code_2.1.45-1_iphoneos-arm64e.deb
+Size: 69516052
+MD5sum: 11fe18d70cf3c97f8a9e957e7b5ba2f1
+SHA1: da038ac6347b797863995b98779ca11810f3f889
+SHA256: 89b81c0dbf0e6d431211df630de951896b20c95dcdb1ba9ddf49994e17d41588
+SHA512: dd41f13e6798ca900a3bbbee96ac45d2ea0de8b78c649f35c20a6ad46e69f528abde5d3f81027c597bf678ea704ce731e19738ad86c5bfc752a8452903371341
+Homepage: https://claude.ai
+Description: Claude Code CLI for iOS 人工智能  在越狱iPhone 上本地运行 Claude Code  终端执行 claude-auth以开始认证配置   终端执行 claude以开始使用  可以配置DeepSeek模型API 和  第三方模型API
+Name: claude code
+
+Package: com.ixoo.disabledwarning
+Architecture: iphoneos-arm64e
+Version: 0.0.1-2
+Section: iXoo-Tweaks
+Maintainer: SINI
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.ixoo.disabledwarning_0.0.1-2_iphoneos-arm64e.deb
+Size: 3496
+MD5sum: 75efebbf5b367a233fcf6d80d0a8ea2b
+SHA1: af68c39c6b816f5d271a99b9543de4bb218c81c6
+SHA256: eb82403b90e20ee217dd5eda9d09ccb8d6b6f82613829d9724058bee8803f1f3
+SHA512: 1d4a748d35200a42fceaa40ce79f1dacbf7c86139b7755aa1ecef145abaa1ce528b6347a0b0a1aea72be14fa9225d9c66e6d1f08003108eea1bd94a97ad73cfd
+Description: RootHide(黑名单)与RootHideInject(白名单)每次打开都让我卸载openssh，卸载是不可能卸载的，所以去掉这个警告弹窗
+Name: DisabledWarning
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/disabledwarning.png
+Sileodepiction:
+
+Package: com.ixoo.fix120hz
+Architecture: iphoneos-arm64e
+Version: 3.3.3-3
+Section: iXoo-Tweaks
+Maintainer: zqbb
+Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 15.0), preferenceloader, com.opa334.altlist
+Filename: ./debs/com.ixoo.fix120hz_3.3.3-3_iphoneos-arm64e.deb
+Size: 413648
+MD5sum: cba7550f11e8dc24cbcd463bdb79fc45
+SHA1: 4edbd3a8dbcb1f5267dd7c45d635317a5c35b8f8
+SHA256: 69c165a5107b2b2dce79d5b84f060041fd2199e67a4f1523b91dcaced6551dd3
+SHA512: beff5f67e634e9a9547b46865e0bfcb3b3c6fb80833f8cafc02961b71228c919db1f323d5255161c53a6f08b43f88864300ebd22c9a8cc36af28ccc645e6aae3
+Description:
+ - Unlock dynamic refresh rate from 80hz to 120hz
+ - .
+ - 解锁动态刷新率80hz到120hz.
+Name: Hello 120Hz
+Author: zqbb
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.fix120hz
+SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.fix120hz
+
+Package: com.ixoo.floating-view
+Architecture: iphoneos-arm64e
+Version: 1.6.0-6
+Section: iXoo-Tweaks
+Maintainer: Axs
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.ixoo.floating-view_1.6.0-6_iphoneos-arm64e.deb
+Size: 656984
+MD5sum: e7391588f5d60d16da5bc52add6e14c4
+SHA1: b50683b4e6d0762c1061dc745fecf947f9bdc3fc
+SHA256: 7129173870bee66de46704f9d18de07b0213ecc06a58f924fbc822c9588bb748
+SHA512: b57298ff924f6118d45af2ebe90c7167bac3b29bccab439eef953c8c25e3e0f536640ee5c363a74d5d65745a243147f7bc2d8b306175981ede393124cecf6f01
+Description: 温馨提示:
+  * 1、仅供个人备份与学习研究使用。
+  * 2、本插件未经过大量设备测试，仅在 iPhone 14 Pro iOS 16.2、iPhone 14 Pro Max iOS 16.5 无根越狱环境下测试正常可用。
+  * 3、本版本仅处理授权验证逻辑，插件其他原有逻辑未作修改。若安装后无效、冲突或导致设备/应用异常，请自行卸载。
+  * 4、免责声明：安装和使用本插件所产生的一切风险由使用者自行承担。如因插件本身兼容性、原始代码逻辑或其他未知问题导致设备、系统、应用出现异常，请联系原插件作者处理。本人不承担因此产生的任何责任。
+  * 5、安全预警：鉴于越狱圈内部分特定人员（如Fv作者、苏苏、Wkk等）存在发布恶意格机代码、恶意抹黑及录制栽赃嫁祸视频的前科，需要用户自行甄别，从正确渠道下载插件。
+Name: Fv分屏破解版
+Author: be-huge
+Icon: https://axs66.github.io/pro/icon/svp.png
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/floating-view/js.json
+
+Package: com.ixoo.gestureblock
+Architecture: iphoneos-arm64e
+Version: 1.0.3
+Section: iXoo-Tweaks
+Maintainer: iXoo
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.ixoo.gestureblock_1.0.3_iphoneos-arm64e.deb
+Size: 40984
+MD5sum: 199d547ceb1594c6e55d00e0d9f186c1
+SHA1: 13e67343d83b388ebfc7683a50499966df69eea8
+SHA256: 0410f235af83b95ca83795acf01b52e71bf3351b1ecddd89539c2698ff51f6c7
+SHA512: 947d9600c9cb9e50201eeacb2139613a2fbf12150b5be4fd16306f60c87111cbac72f55d95267deeef0da03536e62327ab5a1df520e987a9f541291d91e50c5d
+Description: 测试兼容iOS15.0-16.2  插件说明:设置 - 插件内开启需要禁用程序内通知中心/控制中心下拉手势的应用。
+Name: 禁用下拉手势
+Author: iXoo
+
+Package: com.ixoo.gestureblock
+Architecture: iphoneos-arm64e
+Version: 1.0.8
+Section: iXoo-Tweaks
+Maintainer: iXoo
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.ixoo.gestureblock_1.0.8_iphoneos-arm64e.deb
+Size: 42764
+MD5sum: a35a4d95caab00bdc279a5d856f3dd68
+SHA1: 2177139c1ef66c7dac17e775576914fc0298e50f
+SHA256: e77d7df681e91940a951e4bd73b1963b35ab16e94b1b5ad2e49fdb82b6fb7a9c
+SHA512: faf9d3f341331ec787268bea93d3b59c471cb6f3d9524921186634477456d199a5a8a26a93573d69703e49301d88bb501da4565d9c7c26d094daed20df812a82
+Description: 测试兼容iOS15.0-16.2  插件说明:设置 - 插件内开启需要禁用程序内通知中心/控制中心下拉手势的应用。
+Name: 禁用下拉手势
+Author: iXoo
+
+Package: com.ixoo.griddy
+Architecture: iphoneos-arm64e
+Version: 1.0.5
+Section: iXoo-Tweaks
+Maintainer: mikifp
+Depends: mobilesubstrate
+Filename: ./debs/com.ixoo.griddy_1.0.5_iphoneos-arm64e.deb
+Size: 18452
+MD5sum: 9de194ae9cd13d00046decf5603ac702
+SHA1: c2b8bf9ad0506f7ba52b31d44547e6138adc29e6
+SHA256: 83e0c2648e6df74735df3867ba2f235a4644af32a4ad998cb5d6f97e63ba8021
+SHA512: c775d2a101858ee44b0aa9733e9af4f94e55fd7eed7c43c31793e295fe05873cfd3b1be8fca5708c245af440b01a99db319f1965d0ce3ac67784db17ef230a2c
+Description: 让你的程序图标在桌面随意摆放；根据开源重新编译。
+Name: Griddy 随意摆
+Author: mikifp
+Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/griddy/js.json
+
+Package: com.ixoo.hello.bundleid
+Architecture: iphoneos-arm64e
+Version: 1.6.1-5
+Section: iXoo-Tweaks
+Maintainer: zqbb
+Filename: ./debs/com.ixoo.hello.bundleid_1.6.1-5_iphoneos-arm64e.deb
+Size: 2961952
+MD5sum: 57db1a27ce099023aa1ab54023eaa6d6
+SHA1: e76ede9c24580d9826cc5b66bd14dd1c8d8da338
+SHA256: 0c3e7c6a4bdb68706e73cd3cc6ec19b050d029ac4f19a249e48a783f21519a87
+SHA512: ff8b98f74a605db55fdcd58f9a2878354b2771eccd14e9c2fd3079138949092b01db80fbec107288bf1824bc9c639318b7bc65d5b4645fa9bd8f3d7830ac7d11
+Description: 伪装越狱和巨魔应用，让商店应用更难检测越狱!
+Name: HelloBundleID
+Author: zqbb
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.hello.bundleid
+SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.hello.bundleid
+
+Package: com.ixoo.hello.keyboard.ai
+Architecture: iphoneos-arm64e
+Version: 6.6.6-3
+Section: iXoo-Tweaks
+Maintainer: zqbb
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.ixoo.hello.keyboard.ai_6.6.6-3_iphoneos-arm64e.deb
+Size: 2813428
+MD5sum: f2f2b399d11aa0b836069b802a187e6b
+SHA1: 7b30f4ced194fe700d1c37a76cad1ae72c4bf52a
+SHA256: 7a5f718a50dfeed4ad4cdcf7c15fcb00bcde5d879a29a8220eb50650583e1de2
+SHA512: c8d4716f09a7200167ea62924a2fa4ba726cd97a90706d0d7fb436d9c98c4162451b03c4fd21fe8cb69fca34ca15a542e1fff8b005b1983feec1d53d159cc760
+Description: Quickly activate AI mode.
+Name: Hello 键盘侠
+Author: zqbb
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.hello.keyboard.ai.png
+SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.hello.keyboard.ai
+
+Package: com.ixoo.hello.memorystatus
+Architecture: iphoneos-arm64e
+Version: 3.9.0-6
+Section: iXoo-Tweaks
+Maintainer: zqbb
+Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 14.0), preferenceloader, launchctl
+Filename: ./debs/com.ixoo.hello.memorystatus_3.9.0-6_iphoneos-arm64e.deb
+Size: 3070520
+MD5sum: 433d6a3d2cc437751a80023a36262b41
+SHA1: d10398443a9df5e494a72e257ae9182da9c72e6f
+SHA256: 24d0ea0885684a3daed76e8704eb5b25234c89fe939c496b5c71caa7fa7f8b4b
+SHA512: b7251ba33950bd478cc6fd368b147136d741c1d6e10492ba1b43ad42a5ab63975ad4303623a52c619b12b279f8d23f69d25e4efd80dfabefe2ad899d1b08acde
+Description: Set memorystatus to avoid being killed by the system
+Author: zqbb
+Name: Hello Memory Status
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.hello.memorystatus.png
+SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.hello.memorystatus
+
+Package: com.ixoo.hello.qactions
+Architecture: iphoneos-arm64e
+Version: 1.3.0-1
+Section: iXoo-Tweaks
+Maintainer: zqbb
+Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 15.0), preferenceloader, com.opa334.altlist
+Filename: ./debs/com.ixoo.hello.qactions_1.3.0-1_iphoneos-arm64e.deb
+Size: 668268
+MD5sum: f7745222be2cda85c0b2d74f7cb68a46
+SHA1: 7f9ec8df806714db190685f8b9e756584639dad1
+SHA256: f5f32d4e0de300f6f43571b4d5378c8aa35a5abc4a187c765ca3758b9c5ff058
+SHA512: 43bfcdada1432089eaa2f1d989017d1595693655002055b5017a7eb837acaf91f37dbaf5f79deee705e268d091a86b7c19aa56346e9b0418e0c9ce9f424733e2
+Description: 通过锁屏界面的手电筒和相机快速调用指定APP快捷操作，体验一键直达。
+Name: Hello QActions
+Author: zqbb
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.hello.qactions
+SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.hello.qactions
+
+Package: com.ixoo.hello.quick.panel
+Architecture: iphoneos-arm64e
+Version: 1.0.0-5
+Section: iXoo-Tweaks
+Maintainer: zqbb
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.ixoo.hello.quick.panel_1.0.0-5_iphoneos-arm64e.deb
+Size: 1499316
+MD5sum: b45ddf43f62a98ba203ae9d67b342dea
+SHA1: d27afdc362f4d90a7f9febe5d648a3d54ed07cd2
+SHA256: 46395a77d2ca3e4ba0e9fb051fd92b886f50b291738f11aaea2e284f15586320
+SHA512: 55da754551ed917ec9818ce1f65fd5232f084eb60384ef9fb66f87e6944750698c0a30f8dca7b30117b0cca822c7d8096059622e521c33ca55ee8cf62da3edae
+Description: 快捷面板~
+Name: Hello QuickPanel
+Author: zqbb
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.hello.quick.panel.png
+SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.hello.quick.panel
+
+Package: com.ixoo.icleanerpro
+Architecture: iphoneos-arm64e
+Version: 7.10.0
+Section: iXoo-Tweaks
+Maintainer: Ivano Bilenchi
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Filename: ./debs/com.ixoo.icleanerpro_7.10.0_iphoneos-arm64e.deb
+Size: 1108308
+MD5sum: 95e5248d5b82679ed1524c7abeb6ab36
+SHA1: 7da40aff7b9fa6bd237e6b3d3337492bd6c6da21
+SHA256: dce7b182c26fa57833617d59c2d32211552617563b6c1ac05b52d3ec18e45b6c
+SHA512: 9f3465cdca3fc5f4360a5853ecdf644eefadffb49fddd0cb2ac57fd1207fff99d8de4b62123d387b8a476035650b919693f3b243496cf18d3b3befb27a445970
+Description: 真正的iOS系统清理和管理实用程序，默认简体中文，破解版。
+Name: iCleaner Pro
+Author: Ivano Bilenchi
+
+Package: com.ixoo.insulation
+Architecture: iphoneos-arm64
+Version: 0.0.13
+Section: iXoo-Tweaks
+Maintainer: be-huge
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.ixoo.insulation_0.0.13_iphoneos-arm64.deb
+Size: 99204
+MD5sum: 62b15dd7a190d93ba7c13105bdf95cdb
+SHA1: 3eea1f431a9490270947f818d9ce4d8a77963a2f
+SHA256: 24a3764f57e02ca063c62b50f6293b3af5f967d2ff978e90ea965dd1caeeeace
+SHA512: 959e33cb19f1543838117ed2c528bcc93b269fba50ed4cd03baf76d1a1d5d7668dbb430b43d4e3db49232212a008af5ab9182b9fe3c7b65bde2600a8b588597d
+Description: 解除温控，一切从简即可。代码已开源：https://github.com/be-huge/insulation
+Name: insulation
+Author: be-huge
+
+Package: com.ixoo.insulation
+Architecture: iphoneos-arm64e
+Version: 0.0.13
+Section: iXoo-Tweaks
+Maintainer: be-huge
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.ixoo.insulation_0.0.13_iphoneos-arm64e.deb
+Size: 97168
+MD5sum: 546bd9a73c54aa63999c60de7e112f05
+SHA1: 9bb4389c101204e937d5dec42f0184387b4d5412
+SHA256: efd2de7a5215fd0ed68fbc8fa870c50fe4d253d65d46ef996924d6680c7aa305
+SHA512: 9b8ace98852b7061ad6c75ab880546df03c764e86451fbc6cf74dd1eaa8cf98150349b2d23c81bd1b9b65d84c38e9cfe2d7a6ea569bb04d8c8cb19c0d22ea845
+Description: 解除温控，一切从简即可。代码已开源：https://github.com/be-huge/insulation
+Name: insulation
+Author: be-huge
+
+Package: com.ixoo.insulation
+Architecture: iphoneos-arm64
+Version: 0.0.9
+Section: iXoo-Tweaks
+Maintainer: be-huge
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.ixoo.insulation_0.0.9_iphoneos-arm64.deb
+Size: 98244
+MD5sum: 19e5b67ce68041a8794af97f9de37d9a
+SHA1: 5e2b6e0cb042c18822c81370481a20512779c45a
+SHA256: 0df9f3489c15f85b8a9f0b07aab596620a1033a43301f029e199b96e46a07620
+SHA512: a8e5d3f30934810cd87f8da28a6b7959ae999ff0c292b576d9aa89a809ffa747d640b012db5229b270e837235f7b04bcbccf578438f5fb39d9ddec80c104f1a3
+Description: 解除温控，一切从简即可。代码已开源：https://github.com/be-huge/insulation
+Name: insulation
+Author: be-huge
+
+Package: com.ixoo.insulation
+Architecture: iphoneos-arm64e
+Version: 0.0.9
+Section: iXoo-Tweaks
+Maintainer: be-huge
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.ixoo.insulation_0.0.9_iphoneos-arm64e.deb
+Size: 96296
+MD5sum: 08aadd7aeb030bfbebd5bc71ad12b642
+SHA1: e0fa6f920fbe6284f65828badcbf56a55fcd246a
+SHA256: cebde46b70fa232f3c47478aa4cc1595456ffc1d16c03ac2d8b0858ba3598f7c
+SHA512: a5f20321b9f0fe7f29b63c7742655766c2cffb249180d01282102b69a46f66edc3bcbc5f9b78ab9ade378f511fe615994f3f8bc78d8cfa5db8858bf39db46859
+Description: 解除温控，一切从简即可。代码已开源：https://github.com/be-huge/insulation
+Name: insulation
+Author: be-huge
+
+Package: com.ixoo.insulation
+Architecture: iphoneos-arm64
+Version: 0.1.21
+Section: iXoo-Tweaks
+Maintainer: doimty
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.ixoo.insulation_0.1.21_iphoneos-arm64.deb
+Size: 112712
+MD5sum: 614c1c541bdd355d272eeca3c66021d0
+SHA1: 505975cdae80b9ab17ffdd1a6938622cc9954657
+SHA256: b90e634b966fde66ddd6185846a097f9d5460834eeecf3a3b93f260b5ee20646
+SHA512: 7577f56e60374e0dc9c750d19e53de116efb7d5f39acac1181a4bee45cad645e421794ea08c02194bbcca1f4d7f8187e933fedb0af235028ccb8258385941c30
+Description: 解除温控，一切从简即可。代码来自开源项目：https://github.com/be-huge/insulation 进行简单维护
+Name: insulation
+Author: be-huge & doimty
+
+Package: com.ixoo.insulation
+Architecture: iphoneos-arm64e
+Version: 0.1.21
+Section: iXoo-Tweaks
+Maintainer: doimty
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.ixoo.insulation_0.1.21_iphoneos-arm64e.deb
+Size: 110140
+MD5sum: ad5a3d714dd1cbaf248ecb5b07deda9f
+SHA1: f55538d645e614d2414b52b296c30c87bc9dd05a
+SHA256: c01ea10ce0606879658d595ea8c9d0d95843d743f0d4810e3221db1740f59c16
+SHA512: d0994a066892b71bfaf4a8f698b6c88abbe7215e2b7dc4b19413010381e9dbbca3e428107da02f34d19422a72c3a87e0086f6fa12073d4893d1c06fb73f3a32b
+Description: 解除温控，一切从简即可。代码来自开源项目：https://github.com/be-huge/insulation 进行简单维护
+Name: insulation
+Author: be-huge & doimty
+
+Package: com.ixoo.insulation
+Architecture: iphoneos-arm64
+Version: 0.1.31
+Section: iXoo-Tweaks
+Maintainer: doimty
+Depends: firmware (>= 15.0)
+Filename: ./debs/com.ixoo.insulation_0.1.31_iphoneos-arm64.deb
+Size: 52932
+MD5sum: b12f7b44451d7c5951f0afbf4064221b
+SHA1: 85cf566bdc95659eba87f92e71764ed20d25221f
+SHA256: 99e7f2925d60bcf9af2f647e5994905960f7be416d10cfa6b921827f03a93b6f
+SHA512: 182326fa8cb1ab41dac6435bcc2e2f5f6ef7e5acbd23e4b4ab1e7df583f11057bc66ba91a20e3d48a75643bce8386fe397bd2fc1fb5807d72d1293d215172a24
+Description: 解除温控，一切从简即可。代码来自开源项目：https://github.com/be-huge/insulation 进行简单维护
+Name: insulation
+Author: be-huge & doimty
+
+Package: com.ixoo.insulation
+Architecture: iphoneos-arm64e
+Version: 0.1.31
+Section: iXoo-Tweaks
+Maintainer: doimty
+Depends: firmware (>= 15.0)
+Filename: ./debs/com.ixoo.insulation_0.1.31_iphoneos-arm64e.deb
+Size: 50444
+MD5sum: 292bb8b3bf42b428e4ba074efb139ec8
+SHA1: faf8b0212de06d277e9b595a60ea62302f9089e2
+SHA256: 2376957873f8f31f920086205c27a9a13d034e79c4a9ec2eb09f534763f28dc7
+SHA512: ab72edf38e6567506976e16227463eb31dfb693309ffa74022bb8d8a4652ac848edce77807e27e1803b689e33ea35cc8e9fbcb0cdfdc69e143a22ed3d33c4fd8
+Description: 解除温控，一切从简即可。代码来自开源项目：https://github.com/be-huge/insulation 进行简单维护
+Name: insulation
+Author: be-huge & doimty
+
+Package: com.ixoo.insulation
+Architecture: iphoneos-arm64
+Version: 0.1.35
+Section: iXoo-Tweaks
+Maintainer: doimty
+Depends: firmware (>= 15.0)
+Filename: ./debs/com.ixoo.insulation_0.1.35_iphoneos-arm64.deb
+Size: 51456
+MD5sum: b50dd041242fede5fcff2056e094e0b9
+SHA1: b999663c243a8ca5b4fd871f3d7766dd35ffc2ad
+SHA256: d9fe9b966e414d5725884254422a0f2573689c37e557bc075b4c9d0658093270
+SHA512: f52044ab02a889b86cc65d7be49bdcbbe1dc401d3d11da30467ac7a743e7dbf12ac572582af36bfd8a5eda451469973b9933a2192a4e27e5744fa954a468b3f7
+Description: 解除温控，一切从简即可。代码来自开源项目：https://github.com/be-huge/insulation 进行简单维护
+Name: insulation
+Author: be-huge & doimty
+
+Package: com.ixoo.insulation
+Architecture: iphoneos-arm64e
+Version: 0.1.35
+Section: iXoo-Tweaks
+Maintainer: doimty
+Depends: firmware (>= 15.0)
+Filename: ./debs/com.ixoo.insulation_0.1.35_iphoneos-arm64e.deb
+Size: 49180
+MD5sum: 3d9147300e67ca447fc7d93269f075f3
+SHA1: 0dcad4df79865186d1b257dfc02be051791a7a88
+SHA256: a12d17a55b19c91fbc5562422738736ecb141a934d1adf7fe0f012b1aec1aec1
+SHA512: b7982f67687e5aa864cb0d2c45f1dfc36b4c9565704b1dc21ee2555c3a6caeb837fefbca13c5882bf117f8e53dec306ee16166801cdf9c34548ec813876967d7
+Description: 解除温控，一切从简即可。代码来自开源项目：https://github.com/be-huge/insulation 进行简单维护
+Name: insulation
+Author: be-huge & doimty
+
+Package: com.ixoo.insulation
+Architecture: iphoneos-arm64
+Version: 0.1.36.33
+Section: iXoo-Tweaks
+Maintainer: doimty
+Depends: firmware (>= 15.0)
+Filename: ./debs/com.ixoo.insulation_0.1.36.33_iphoneos-arm64.deb
+Size: 52768
+MD5sum: 8ac8f61f57edd7fc48d8ffdd56f91865
+SHA1: 7850d443342f635fe1842a87abf391c1ef1d3af5
+SHA256: d5e7e254b4aaf80057704156aacd3bcd343414d373a6707bf541d038c586a54f
+SHA512: 860c385caa85dcf939fb8e214eb0132012fcdfa798f41dddca46a47775185e36b910eb44f598be40711850c61b3235df76db1249e269d88cdca7a9715ed65516
+Description: 解除温控，一切从简即可。代码来自开源项目：https://github.com/be-huge/insulation 进行简单维护
+Name: insulation
+Author: be-huge & doimty
+
+Package: com.ixoo.insulation
+Architecture: iphoneos-arm64e
+Version: 0.1.36.33
+Section: iXoo-Tweaks
+Maintainer: doimty
+Depends: firmware (>= 15.0)
+Filename: ./debs/com.ixoo.insulation_0.1.36.33_iphoneos-arm64e.deb
+Size: 49944
+MD5sum: 36f812a094c71c299403657387b7c210
+SHA1: 2d1a5b6247f65c381bc4f3f9423e143147b41ac6
+SHA256: fd2485bf33aeed886b017eb33f61289dd409dcdcbbc6a6c7634bacd20bf364de
+SHA512: 61855f65ac8df63260a6c6e009964fd201352133ca1c546e671e68abdd65978fe5a1d890434b465139925ff262b10d6cb1d0097bc8e42d7b19f235729d451a9d
+Description: 解除温控，一切从简即可。代码来自开源项目：https://github.com/be-huge/insulation 进行简单维护
+Name: insulation
+Author: be-huge & doimty
+
+Package: com.ixoo.insulation
+Architecture: iphoneos-arm64
+Version: 0.1.36
+Section: iXoo-Tweaks
+Maintainer: doimty
+Depends: firmware (>= 15.0)
+Filename: ./debs/com.ixoo.insulation_0.1.36_iphoneos-arm64.deb
+Size: 50828
+MD5sum: 86ee50dfbc0aec1760cb62e491d05b29
+SHA1: 2abd0bebadc748b4393707284994c69f6de6ab81
+SHA256: 2596fa5364da026f7026e7b12f843ea2a34d170069367b31f97148bede5555eb
+SHA512: b5054fa60916b6bf7c80f611321b4b80b75ca94f27557dcebc03f9337b5a9d26060aecd5cf0dc96a9d863f2f0dae15650320d002cbd312439b2000dde3cb9c3c
+Description: 解除温控，一切从简即可。代码来自开源项目：https://github.com/be-huge/insulation 进行简单维护
+Name: insulation
+Author: be-huge & doimty
+
+Package: com.ixoo.insulation
+Architecture: iphoneos-arm64e
+Version: 0.1.36
+Section: iXoo-Tweaks
+Maintainer: doimty
+Depends: firmware (>= 15.0)
+Filename: ./debs/com.ixoo.insulation_0.1.36_iphoneos-arm64e.deb
+Size: 48412
+MD5sum: 385ed07db181993ad88cf78dd6bc9d7f
+SHA1: bcb604eea78b5e4d09e54c393af35ae6fecf2222
+SHA256: a455ddb620e4646393bb5d38893efb84159bdd748c045c7a40a8188f2008f162
+SHA512: eac086b0c4fdb452150dfdc66e6737db8c685f0bc0c8048a89b7f11612d3308516fea0169c36be578b7ee8122cfc24c76ec05211c6a366b9bec8ec92cfb784d7
+Description: 解除温控，一切从简即可。代码来自开源项目：https://github.com/be-huge/insulation 进行简单维护
+Name: insulation
+Author: be-huge & doimty
+
+Package: com.ixoo.insulation
+Architecture: iphoneos-arm64
+Version: 0.1.37
+Section: iXoo-Tweaks
+Maintainer: doimty
+Depends: firmware (>= 15.0)
+Filename: ./debs/com.ixoo.insulation_0.1.37_iphoneos-arm64.deb
+Size: 65024
+MD5sum: 2529772fe5c2a17714e700cf9c578742
+SHA1: ce2d1129046ff6cf6c7cb2c4546e794036692ff8
+SHA256: 265ce301fe97b7f0f5acbbad923b9ca7a947959b0776865132e86afa0dcbc4dd
+SHA512: f2e7fdf8f7ae1ae7c6340bd572e668d4e92c7c06da62105a08b9f0e856224fce690da0f9cc49ebe6a18bb49624d4a52749a6d2589ee0471bbb4f0f7ad4eeff34
+Description: 解除温控，一切从简即可。支持命令行切换模式：ins off（原生温控）/ ins low（低功耗）/ ins max（全性能）/ ins status（查看当前模式）
+Name: insulation
+Author: be-huge & doimty
+
+Package: com.ixoo.insulation
+Architecture: iphoneos-arm64e
+Version: 0.1.37
+Section: iXoo-Tweaks
+Maintainer: doimty
+Depends: firmware (>= 15.0)
+Filename: ./debs/com.ixoo.insulation_0.1.37_iphoneos-arm64e.deb
+Size: 62400
+MD5sum: fd741715eb8dbe5619b6af36dd01cc59
+SHA1: c26f3344e44d58d6adbdc8cf1a9190b3d6f68f9e
+SHA256: 923a99ecf301a0dd4226551ad2f56d492c818f95b93b48a3c3433b3fc2f1c0c3
+SHA512: 11151e3e22791fc056e8f6e586093e73a2fe7b4fd81b90c3dd39a3b935bbdfadf55804d91586f8cac5e9aa28c1ffa726ffe2d20b9314c7233643714268336241
+Description: 解除温控，一切从简即可。支持命令行切换模式：ins off（原生温控）/ ins low（低功耗）/ ins max（全性能）/ ins status（查看当前模式）
+Name: insulation
+Author: be-huge & doimty
+
+Package: com.ixoo.insulation
+Architecture: iphoneos-arm64
+Version: 0.1.38.1
+Section: iXoo-Tweaks
+Maintainer: doimty
+Depends: firmware (>= 15.0)
+Filename: ./debs/com.ixoo.insulation_0.1.38.1_iphoneos-arm64.deb
+Size: 59732
+MD5sum: df07e3fc62da42cae32d7cbf4998c695
+SHA1: 848db68df35951de45a0f15c6dba6edc7aee9b99
+SHA256: 882484b687a90d88a6c6187923b966d22d18f867792bd445fe007ded37ae9f98
+SHA512: cde6a97cda181e54631aae95d28b0ef1939a1d21ff9967d243ff4268ab107b67f6c85b630e61a5a57b59477a014e6adca339d53e33e851528ef8058054321d83
+Description: 解除温控，一切从简即可。支持命令行切换模式：ins off（原生温控）/ ins low（低功耗）/ ins max（全性能）/ ins status（查看当前模式）
+Name: insulation
+Author: be-huge & doimty
+
+Package: com.ixoo.insulation
+Architecture: iphoneos-arm64e
+Version: 0.1.38.1
+Section: iXoo-Tweaks
+Maintainer: doimty
+Depends: firmware (>= 15.0)
+Filename: ./debs/com.ixoo.insulation_0.1.38.1_iphoneos-arm64e.deb
+Size: 56976
+MD5sum: d6ccee37ab0802bf2edae1c8f19511fc
+SHA1: 85381f4c7fc90ca69daf9508743b539875ec0f1e
+SHA256: 2fa4730ddae19f57d615827595c345b13022771b5379d6541f1eedbc0b9384fc
+SHA512: a1866416d848e69984f0ce497f64c5fc54562d221d98564b617c044a640c6feb46023427e73068b8d04f939315d02f56bc7134ca3d580b9df01ed73dc49b110d
+Description: 解除温控，一切从简即可。支持命令行切换模式：ins off（原生温控）/ ins low（低功耗）/ ins max（全性能）/ ins status（查看当前模式）
+Name: insulation
+Author: be-huge & doimty
+
+Package: com.ixoo.insulation
+Architecture: iphoneos-arm64
+Version: 0.1.38
+Section: iXoo-Tweaks
+Maintainer: doimty
+Depends: firmware (>= 15.0)
+Filename: ./debs/com.ixoo.insulation_0.1.38_iphoneos-arm64.deb
+Size: 58260
+MD5sum: dfa11e4e6543f75644c0cd416ecef1d6
+SHA1: 5d30460403cc662c717f58aaba397dc71d159675
+SHA256: c6f2de1bbdfadf2a16f8f7836c86f99f607d20b7853d98b72ce8dcf537349257
+SHA512: 37727f545076b11fe6700a412a2807f87c998f46a723e386858cccfff2170335e88acd945d3e0cf11681bc620a68a9b3794e6c81e2fe71a8018d69ed91b4fbe2
+Description: 解除温控，一切从简即可。支持命令行切换模式：ins off（原生温控）/ ins low（低功耗）/ ins max（全性能）/ ins status（查看当前模式）
+Name: insulation
+Author: be-huge & doimty
+
+Package: com.ixoo.insulation
+Architecture: iphoneos-arm64e
+Version: 0.1.38
+Section: iXoo-Tweaks
+Maintainer: doimty
+Depends: firmware (>= 15.0)
+Filename: ./debs/com.ixoo.insulation_0.1.38_iphoneos-arm64e.deb
+Size: 55664
+MD5sum: 1fa588f35b9db07b24982d7eb4395a43
+SHA1: 9aa4190f13db8aeac1c0131782add54ddb500792
+SHA256: fb1da51c68e43632cc9ec072478d637bb255c7a2f55a76cc4d569bd8282c17b5
+SHA512: 2592d966f3f239256cb24b57bfcbd6f856dabfa58a9f584e5c1936dc9d1fab6b13db2ee63484591b48866292a5e1009e7deba22069219f15ea6643e90356838d
+Description: 解除温控，一切从简即可。支持命令行切换模式：ins off（原生温控）/ ins low（低功耗）/ ins max（全性能）/ ins status（查看当前模式）
+Name: insulation
+Author: be-huge & doimty
+
+Package: com.ixoo.kayoko
+Architecture: iphoneos-arm64e
+Version: 3.0
+Section: iXoo-Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/com.ixoo.kayoko_3.0_iphoneos-arm64e.deb
+Size: 134960
+MD5sum: c6cec0d3b233f4659c509507e9dbed94
+SHA1: 06adefc539de9d1842aa0a071e49c86b1a604f1f
+SHA256: dc33c78c849fb1b362ddf3469afdc75fb05de8f3d6e258bec2e54e9542204eb0
+SHA512: 9d9c1caa1f0d3db2dceb9eb15db951e120481eff8b1dad0ce211f9ab9f999e0434dc4daa974e32192997c64139f5510d361453f58550dc26fea15cf8d4fcf809
+Description: iOS版剪贴板管理器
+Name: Kayoko剪贴板
+Author: Alexandra Aurora Göttlicher
+Icon: https://axs66.github.io/pro/icon/kayoko.png
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/kayoko/js.json
+
+Package: com.ixoo.liquidify
+Architecture: iphoneos-arm64e
+Version: 1.3.7-4
+Section: iXoo-Tweaks
+Maintainer: 一刀
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.ixoo.liquidify_1.3.7-4_iphoneos-arm64e.deb
+Size: 10540872
+MD5sum: 21310accf0325f83c96fc8b5f12b4eaa
+SHA1: a950765cb2ba0fbc887ccbabd29c7fb02f688407
+SHA256: 9098d2026f22d59e25a35a395b3b72697120716baf3ec0ab3e2b3ec28fbffacd
+SHA512: b6e41725ece5857b15b5b1c049ecb04601260fa31d292af576da610a158744d9c077fee902f7b53bfe2667da66e6b082cf804d8a231603983dc82ca74d884bd1
+Description: 88液态玻璃
+Name: 88液态玻璃
+Author: 一刀
+icon: https://huayuarc.github.io/icon/LiquidAss.png
+
+Package: com.ixoo.noredirect
+Architecture: iphoneos-arm64e
+Version: 1.9
+Section: iXoo-Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate, com.opa334.altlist, com.opa334.libsandy
+Filename: ./debs/com.ixoo.noredirect_1.9_iphoneos-arm64e.deb
+Size: 56580
+MD5sum: 3a910387d8146b71115d6b440fb01549
+SHA1: a279a479233db266065cf91a825bd03d7ae2f297
+SHA256: a218abc89b505f2e2f3bf950c3185585274d5658b5029cbaae2928943a44523b
+SHA512: 3b20dc19ed8d682a4e253a6cbfbdeb90499f5c64ae07850b44a79f87d13b56eca20e4ed3d0b22a30c73787596e092f627c397028e5b89d903500b894ccfbebad
+Description: Stop specified apps from redirecting to App Store, Safari or other apps.
+Name: No Redirect
+Author: Lessica <82flex@gmail.com>
+Icon: https://axs66.github.io/pro/icon/noredirect.png
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
+
+Package: com.ixoo.powercuff
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: iXoo-Tweaks
+Maintainer: 刀刀源
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.ixoo.powercuff_1.1_iphoneos-arm64e.deb
+Size: 13480
+MD5sum: 1c7fa1e2e3e5d417df40fd592f8cd58f
+SHA1: dfd104279ad7c5712ef60186fd91ae0b83435468
+SHA256: 3093ea493df3d835df7d147d552f31ef852f2d8474388b390e0a3f558e0133a3
+SHA512: 99bd8cdebcf03b7018f7bde0de73297f926c2d231f4085c0f515efabb0bf871db041d3412c79cea47e8b1f11591f57917ce84396600cb267d7cd1b1156f52785
+Description: 节能插件，效果自测，重新编译。
+Name: Powercuff
+Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
+
+Package: com.ixoo.powercuff
+Architecture: iphoneos-arm64e
+Version: 1.4
+Section: iXoo-Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.ixoo.powercuff_1.4_iphoneos-arm64e.deb
+Size: 12610
+MD5sum: 49bf0235f486bab23a475dbccf500242
+SHA1: 8cd8241fb5cf3666890e45864ea82665c6b1c086
+SHA256: caacef63fa26b14f2f6580e98fb5b4c4eba3140a88cd8863517fcf09fef1adc7
+SHA512: f9a5017913edd2d7d55a8b554ef8a7d8597fc37b5e3eeb59d0ebe8110f577a5e8218eff9023af655bb86f4b8b014f221d07c29e4b977b0c0a7545cde116b1e0a
+Homepage: http://rpetri.ch/cydia/powercuff/
+Description: Select from additional low power device states
+Tag: purpose::extension
+Name: Powercuff
+Depiction: http://rpetri.ch/cydia/powercuff/
+Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: rpetrich
+
+Package: com.ixoo.quietlpm80
+Architecture: iphoneos-arm64e
+Version: 0.1.0
+Section: iXoo-Tweaks
+Maintainer: iXoo
+Depends: mobilesubstrate
+Filename: ./debs/com.ixoo.quietlpm80_0.1.0_iphoneos-arm64e.deb
+Size: 4534
+MD5sum: 3231fb89248785b23ca94befb86a25e6
+SHA1: 6948c1fae6573b2e91f9a2690deadf857a7a1f0a
+SHA256: 753e82cdf9be24ac7a0091262a6f0a1d5238ec14c3eec4a63cf9c419b3d6917c
+SHA512: e6ad13c18572b12faf20753910458ad033408c87bc5c469dfa7c6e0526ab8575421af89cb559845dbde540bd86b1d701c6aa390375795d8f103ceb520f986500
+Description: Suppress only the known Low Power Mode auto-off banner at 80 percent; does not change Low Power Mode behavior.
+Name: QuietLPM80
+Author: iXoo
+
+Package: com.ixoo.rootless
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: iXoo-Tweaks
+Maintainer: zqbb
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/com.ixoo.rootless_0.0.1_iphoneos-arm64e.deb
+Size: 4068
+MD5sum: ef93ca2d4b28c1fa7b91c9a28f75927b
+SHA1: 97c60a5583bf68894dc900423ce019ef495394b1
+SHA256: aab593b835629bc6fd3c587cf7828e92ba497680e2b02f8a29d405cae27f8af8
+SHA512: 5942326c450c995d8ec29923f881ab7d5593f58bc244d86523f97eebb314a37550c4af28c89bc43cfa160fc55018f57a8e5bacf8a7c50f5e51979c1fdddf6d3f
+Description: 先在模拟界面保存标签!
+Name: aemulo自动模拟
+Author: zqbb
+SileoDepiction: https://rootless.002599.xyz/web/zp.aemuloauto.rootless
+
+Package: com.ixoo.split-view-pro
+Architecture: iphoneos-arm64e
+Version: 1.1.5
+Section: iXoo-Tweaks
+Maintainer: sunshinesong
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
+Filename: ./debs/com.ixoo.split-view-pro_1.1.5_iphoneos-arm64e.deb
+Size: 6904688
+MD5sum: 9fd8779125dbf707d1d4a79b36bd660e
+SHA1: 60e2c1ad3306dce6c1b14fe6897ba6a41e4866c4
+SHA256: 4e3ef51602c4af81eeab8ddf856e09a313239e4b509f28409fa337d06ee23aca
+SHA512: 0685d6523efe42a0391653ba6cfde59ffb90a16bf6d2229dc8e9006aee2d76f8f7e95d777b899b5cfea488a28026794633727319af995d8d6be9710c9a545e82
+Description: 分屏，不必太复杂，一切从简即可。
+Author: sunshinesong
+TS: sp-sss
+Name: split-view-pro
+
+Package: com.ixoo.split-view-pro
+Architecture: iphoneos-arm64e
+Version: 1.3.7-1
+Section: iXoo-Tweaks
+Maintainer: Axs
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: ./debs/com.ixoo.split-view-pro_1.3.7-1_iphoneos-arm64e.deb
+Size: 1478960
+MD5sum: 0b6f2a13bd69f8ad59058af4386bdb3c
+SHA1: 1670d6cddc7ca67fd5b741cae3198d598e6f43ed
+SHA256: da44690abd030998e03da2d020143c63b2675e0b8543e292ade750c437d47ed7
+SHA512: 68f02e9293f57adc9d0fe14dca696d1a264ba23ad579dff302693233a0ab19f55092fc268e21647cd986df6425f0191824d8c50434b97d3121753f5e0cd1d59f
+Description: 分屏，不必太复杂，一切从简即可。
+Name: Svp分屏独立版
+Author: Axs
+TS: sp-sss
+Sileodepiction: https://axs6.github.io/repo/sileodepiction/svp/js.json
+
+Package: com.ixoo.split-view-pro
+Architecture: iphoneos-arm64e
+Version: 1.4.1
+Section: iXoo-Tweaks
+Maintainer: Axs
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: ./debs/com.ixoo.split-view-pro_1.4.1_iphoneos-arm64e.deb
+Size: 1529996
+MD5sum: ffb30eb426a25611aedc25b791cdcacc
+SHA1: 9dd62e9f310d03fe7a6fe89dfe18a10aee54ee9a
+SHA256: 0e67410889a533ccb47f53eae7e791bc3a0abaac3658dadabde65f4a5dbef273
+SHA512: 586a232a23c6412cd624890098c495408eac434b4121b9423842eca184a54a69c055fa660cdd51ea3c44f9abeac1db77e4aa28476216010dbd6c8414a9c3bac0
+Description: 免费的分屏插件，不必太复杂，一切从简即可。
+Author: A
+TS: sp-sss
+Name: SVP分屏独立版
+Icon: https://axs66.github.io/pro/icon/svp.png
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/split-view-pro/js.json
+
+Package: com.ixoo.stopautolaunchapps
+Architecture: iphoneos-arm64e
+Version: 2.5
+Section: iXoo-Tweaks
+Maintainer: zqbb
+Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 15.0)
+Filename: ./debs/com.ixoo.stopautolaunchapps_2.5_iphoneos-arm64e.deb
+Size: 254614
+MD5sum: e2ca6d92f125841c4c37fda80f5771ec
+SHA1: dd2861597c1797148cac0bf037ced1b2ca4bdd5e
+SHA256: 1d05960c1200e40d8bbe5fc0568a42902ea16276c1cf6c831dc974b3269221ff
+SHA512: 7453e0bf55d1b0deb48a2e1afeb26944a7ae00bca3345c6e8215a2b286bb6142658d25ddaa698e7626b607d11bf814a525d9b16683cc75661db6c1c39d8d1779
+Description: 别在后台热加载app咯! 
+ - 优点:节约内存,少杀后台.
+Author: zqbb
+Name: Hello 3Q
+SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.stopautolaunchapps
+
+Package: com.ixoo.touchvis
+Architecture: iphoneos-arm64e
+Version: 2.8-1
+Section: iXoo-Tweaks
+Maintainer: iXoo
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.ixoo.touchvis_2.8-1_iphoneos-arm64e.deb
+Size: 711068
+MD5sum: ba24da4241c8eae63f3744332bcdff81
+SHA1: 76d1ee5826575d1741880584e3ae0e8cd41a1021
+SHA256: facc1191381c97f0ad3d7469e977fa17bb280b01817e83764c8acac3488602ec
+SHA512: d8ce92bf1ba0706f3676b6b3b5bbd5f7e80c123beb611e64a2866064a683f3a653ce6d4e1c9fe3f300b34b8a8e3633687ea06e1a82af4e8d2325829b1860805b
+Description: Displays your touch interactions! 显示触摸屏幕的轨迹；很酷炫，很丝滑的一个插件，并附带拖尾效果。主要作用:做教程时候让别人知道你点的哪里。
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/touchvis/js.json
+Icon: https://axs66.github.io/pro/icon/TVZ.png
+Name: Touch-Viz触摸轨迹
+Author: Lessica
+
+Package: com.ixoo.tweak
+Architecture: iphoneos-arm64e
+Version: 1.0.4
+Section: iXoo-Tweaks
+Maintainer: colorBlack
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.ixoo.tweak_1.0.4_iphoneos-arm64e.deb
+Size: 38208
+MD5sum: d124ae38fc0c0aa59d018c1f0125f4cb
+SHA1: 13419f8237d3fe553731169a87dafdb38eb76ba4
+SHA256: 67d032c0735ba9d8cdaca9b1361aa039f70ba4b8a7a1a1730d77a34d8f9ba8b9
+SHA512: 72ff50bbbc06a77f0d66badbd4cd5737593bd2c63e4570b80dd7efd8df141f82d652e6c9f1a9c77ec64c0fe0ce70391f1565cd6c329b06514e0e063bd927d1ee
+Description: 增强 iOS 原生墓碑机制。通过 Jetsam 优先级与内存阈值调整，防止系统杀后台应用，减少耗电发热。安全稳定，不干预进程状态。
+Name: Necromancy
+Author: colorBlack
+
+Package: com.ixoo.tweak
+Architecture: iphoneos-arm64e
+Version: 1.0.6
+Section: iXoo-Tweaks
+Maintainer: colorBlack
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.ixoo.tweak_1.0.6_iphoneos-arm64e.deb
+Size: 37448
+MD5sum: 5e6f743f25915f290f29546c160a0c8d
+SHA1: 1e3adf4be586d2180257514bd99b52957966f529
+SHA256: 26540ae1de72c7364fc197c2bb976db3a3856c007e8f4ceb9f98c3fd679d3fd5
+SHA512: 7328956b29aa601761e57ceca7ffed41958ddb350ef01633d920b47e647bdf43b854fcdd263a435232479eba0329752c392ed8ff00bf33d5e99a10c5f354c80d
+Description: 增强 iOS 原生墓碑机制。通过 Jetsam 优先级与内存阈值调整，防止系统杀后台应用，减少耗电发热。安全稳定，不干预进程状态。
+Name: Necromancy
+Author: colorBlack
+
+Package: com.ixoo.tweak
+Architecture: iphoneos-arm64e
+Version: 1.0.8
+Section: iXoo-Tweaks
+Maintainer: colorBlack
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.ixoo.tweak_1.0.8_iphoneos-arm64e.deb
+Size: 53740
+MD5sum: f4805d793347a4f137389e04dfdc309c
+SHA1: 5d03c79237b1553545ab9a23b5322ee614f51d7f
+SHA256: 9fafd62911bf4bd2cfbc81b7312e91564662f584d83416b5fe36f53ec6e75d41
+SHA512: d769824b808d62c00a5b7ccecc6ac61843adf4fb48007628544d95f1ad153a07b0d6cc4a849c5b1b37c8bd686e3759a542426affab627f53f0d1e00279690d1b
+Description: 增强 iOS 原生墓碑机制。通过 Jetsam 优先级与内存阈值调整，防止系统杀后台应用，减少耗电发热。安全稳定，不干预进程状态。
+Name: Necromancy
+Author: colorBlack
+
+Package: com.ixoo.tweak
+Architecture: iphoneos-arm64
+Version: 1.2.6
+Section: iXoo-Tweaks
+Maintainer: colorBlack
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.ixoo.tweak_1.2.6_iphoneos-arm64.deb
+Size: 342028
+MD5sum: 646c1b9f69729c2973c2cb71383b1a40
+SHA1: a08ca4b850e7dbd8bde995f020a6813b401b1aba
+SHA256: 242f30fe588686bd5979615169716c335111ef06ac2173a84a39e7b9bc0e2d9e
+SHA512: 4779c28e8e3797a13dad8fc6b2c43da7e0e49502e022494e6e1ea4bc870779f3bcd0ecb72148ffb7bd52713a7a96f0e15c77db63a2c75ff10799e49af22d9790
+Description: 增强 iOS 原生墓碑机制。通过 Jetsam 优先级与内存阈值调整，防止系统杀后台应用，减少耗电发热。安全稳定，不干预进程状态。 感兴趣可以加 QQ 群。2059 28931
+Name: Necromancy
+Author: colorBlack
+
+Package: com.ixoo.tweak
+Architecture: iphoneos-arm64e
+Version: 1.2.6
+Section: iXoo-Tweaks
+Maintainer: colorBlack
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.ixoo.tweak_1.2.6_iphoneos-arm64e.deb
+Size: 342168
+MD5sum: f83aa8229b63f6e0a2220cbf73d83baf
+SHA1: 561f19babda0021f1dfb7544ecd20c7682c67adf
+SHA256: 72b9116f268bbf4e15437b2b6b5804610e88fbbc17eda08cb4402c55f3c851ef
+SHA512: 68f5ea8bf238874d25898fe70159dc81a7546185b88d0aa4701aa5c5f433515ab3b56cc148a0462b554c3cf5bead24be94588cc9abe78c1588e98c470c1582bb
+Description: 增强 iOS 原生墓碑机制。通过 Jetsam 优先级与内存阈值调整，防止系统杀后台应用，减少耗电发热。安全稳定，不干预进程状态。 感兴趣可以加 QQ 群。2059 28931
+Name: Necromancy
+Author: colorBlack
+
+Package: com.ixoo.vitreux
+Architecture: iphoneos-arm64
+Version: 1.4
+Section: iXoo-Tweaks
+Maintainer: Axs
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debs/com.ixoo.vitreux_1.4_iphoneos-arm64.deb
+Size: 121984
+MD5sum: 02972f75353cdb482defbc27635dfb48
+SHA1: b3c28dbf0ee0e889c10fd6b01a78eb21e2e8fd36
+SHA256: 27eca1b0937dfe5e28566b384df1c5d6598a01beecee49580ebdbfc26dd706c6
+SHA512: d0b375bd937a9042204beb191a2ee0b521f8213ccbe436dedd447968104c4d302ccaade44680bb40ee578dd3b6f3ba393340b78b83d4e43766db715e4c99589e
+Description:
+ A recreation of Liquid Glass
+   * 1.主打 iOS 26 系统液态玻璃设计。
+   * 2.让旧系统体验液态玻璃风格。
+   * 3.目前版本，效果主要体现在锁屏、主屏、控制中心、通知、App 资源库、小组件等。
+   * 4.自定义选项丰富。可以自定义模糊设置等。
+   * 5.目前仅仅支持 SpringBoard 范围。
+   * 6.支持 iOS 15.x - 16.x 系统。
+Name: Vitreux 液态玻璃
+Author: MTAC
+Icon: https://axs66.github.io/pro/icon/vitreux.png
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/vitreux/js.json
+
+Package: com.ixoo.vitreux
+Architecture: iphoneos-arm64e
+Version: 1.4
+Section: iXoo-Tweaks
+Maintainer: Axs
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debs/com.ixoo.vitreux_1.4_iphoneos-arm64e.deb
+Size: 126524
+MD5sum: b22c71dbef3c6eae37b6aa02d01db466
+SHA1: 479ee9d5d83a154b5373a3f6d99c2ac21c7c9b5c
+SHA256: 2630e57ff92504d058a1bbf2182476d583fefda4955f7d3056eff9f4deac14e3
+SHA512: 89234f6923c8395f18544fbbb4521c9f5a5512091d1fb62a192131a66c45535bc55273310c8d73163e2db27d599c0ac7b20e08812b2cc277799b3f4210a6c6f4
+Description:
+ A recreation of Liquid Glass
+   * 1.主打 iOS 26 系统液态玻璃设计。
+   * 2.让旧系统体验液态玻璃风格。
+   * 3.目前版本，效果主要体现在锁屏、主屏、控制中心、通知、App 资源库、小组件等。
+   * 4.自定义选项丰富。可以自定义模糊设置等。
+   * 5.目前仅仅支持 SpringBoard 范围。
+   * 6.支持 iOS 15.x - 16.x 系统。
+Name: Vitreux 液态玻璃
+Author: MTAC
+Icon: https://axs66.github.io/pro/icon/vitreux.png
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/vitreux/js.json
+
