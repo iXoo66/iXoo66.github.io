@@ -865,6 +865,29 @@ Description: Suppress only the known Low Power Mode auto-off banner at 80 percen
 Name: QuietLPM80
 Author: iXoo
 
+Package: com.ixoo.renet
+Architecture: iphoneos-arm64e
+Version: 1.2.2
+Section: iXoo-Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.ixoo.renet_1.2.2_iphoneos-arm64e.deb
+Size: 226490
+MD5sum: fced07ec8a7d80c7be8579764d3b714a
+SHA1: eccb846d6d75964e20254e1fc26416815c9044b0
+SHA256: 0ef807c5e4f55db41889c28e9ed7d949bfa34d466d7a83e14f104f19bdfc4292
+SHA512: 447cb77df0a2709b2772e28ca56ce56856e32ceaa785435f6a9c3910d883a65e8415d32ba967d4b55cc3b343ca9a39e6ba29d376ac6bda5fdedfd1186a8520b1
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=renetDp
+Description: 修复越狱后Cydia、Sileo等各种软件无法联网的问题
+Tag: purpose::extension
+Author: Tinyapps <tinyapps@qq.com>
+Name: 连个锤子-越狱联网一键修复[iOS 10.0~16+]
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=renetDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: tinyapps
+Icon: file:///var/jb/Applications/Renet.app/AppIcon20x20@3x.png
+
 Package: com.ixoo.rootless
 Architecture: iphoneos-arm64e
 Version: 0.0.1
