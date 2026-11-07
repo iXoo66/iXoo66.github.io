@@ -922,24 +922,6 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 dev: tinyapps
 Icon: file:///var/jb/Applications/Renet.app/AppIcon20x20@3x.png
 
-Package: com.ixoo.rootless
-Architecture: iphoneos-arm64e
-Version: 0.0.1
-Section: iXoo-Tweaks
-Maintainer: zqbb
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate
-Filename: ./debs/com.ixoo.rootless_0.0.1_iphoneos-arm64e.deb
-Size: 4068
-MD5sum: ef93ca2d4b28c1fa7b91c9a28f75927b
-SHA1: 97c60a5583bf68894dc900423ce019ef495394b1
-SHA256: aab593b835629bc6fd3c587cf7828e92ba497680e2b02f8a29d405cae27f8af8
-SHA512: 5942326c450c995d8ec29923f881ab7d5593f58bc244d86523f97eebb314a37550c4af28c89bc43cfa160fc55018f57a8e5bacf8a7c50f5e51979c1fdddf6d3f
-Description: 先在模拟界面保存标签!
-Name: aemulo自动模拟
-Author: zqbb
-SileoDepiction: https://rootless.002599.xyz/web/zp.aemuloauto.rootless
-
 Package: com.ixoo.split-view-pro
 Architecture: iphoneos-arm64e
 Version: 1.1.5
